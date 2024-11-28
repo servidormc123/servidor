@@ -2246,6 +2246,7 @@
   },
   "regions_unexplored:got_wood": {
     "criteria": {
+      "mauve_log": "2024-11-28 04:49:33 +0000",
       "brimwood_log": "2024-11-23 20:56:06 +0000",
       "maple_log": "2024-11-23 04:19:43 +0000"
     },
@@ -3655,6 +3656,48 @@
   "minecraft:recipes/misc/magenta_dye_from_lilac": {
     "criteria": {
       "has_lilac": "2024-11-28 04:36:43 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/misc/pink_dye_from_salmon_poppy_bush": {
+    "criteria": {
+      "has_salmon_poppy_bush": "2024-11-28 04:48:47 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/mauve_wood": {
+    "criteria": {
+      "has_log": "2024-11-28 04:49:33 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/misc/white_dye_from_white_trillium": {
+    "criteria": {
+      "has_white_trillium": "2024-11-28 04:52:06 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/misc/red_dye_from_poppy_bush": {
+    "criteria": {
+      "has_poppy_bush": "2024-11-28 04:48:52 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/decorations/mauve_branch_from_mauve_log": {
+    "criteria": {
+      "has_log": "2024-11-28 04:49:33 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/mauve_planks": {
+    "criteria": {
+      "has_logs": "2024-11-28 04:49:33 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/decorations/mauve_shrub": {
+    "criteria": {
+      "has_mauve_sapling": "2024-11-28 04:49:58 +0000"
     },
     "done": true
   },
