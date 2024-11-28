@@ -2043,3 +2043,36 @@ Things may not work well.
 [28Nov2024 03:27:04.705] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2107ms or 42 ticks behind
 [28Nov2024 03:27:04.797] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: pablo moved too quickly! -9.01534597010988,0.0,-6.106629426351901
 [28Nov2024 03:27:20.580] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablo: Teleported pablo to JonyDC]
+[28Nov2024 03:29:59.668] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablo: Set own game mode to Survival Mode]
+[28Nov2024 03:30:07.873] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JonyDC> perdooon xd
+[28Nov2024 03:30:12.732] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <pablo> eshahaseh
+[28Nov2024 03:30:15.470] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JonyDC> pense que seguias en crativo
+[28Nov2024 03:30:17.187] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JonyDC> xd
+[28Nov2024 03:30:26.573] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <pablo> yo?
+[28Nov2024 03:30:29.634] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <pablo> jamas
+[28Nov2024 03:31:17.147] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablo: Set own game mode to Creative Mode]
+[28Nov2024 03:32:04.645] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element minecraft:village_desert took 2053 ms
+[28Nov2024 03:32:04.647] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2049ms or 40 ticks behind
+[28Nov2024 03:32:16.840] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablo: Set own game mode to Survival Mode]
+[28Nov2024 03:32:49.378] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablo: Teleported pablo to -1951.500000, 90.000000, 2480.500000]
+[28Nov2024 03:32:49.379] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8981ms or 179 ticks behind
+[28Nov2024 03:32:49.437] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablo: Set own game mode to Creative Mode]
+[28Nov2024 03:33:07.893] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3545ms or 70 ticks behind
+[28Nov2024 03:33:18.583] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablo: Set the time to 1000]
+[28Nov2024 03:33:29.594] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6746ms or 134 ticks behind
+[28Nov2024 03:33:48.651] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4103ms or 82 ticks behind
+[28Nov2024 03:33:59.984] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity SigmaEntity['Sigma'/9051, l='ServerLevel[world]', x=482.45, y=-23.00, z=-1194.50] died: Sigma went up in flames
+[28Nov2024 03:34:07.584] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3936ms or 78 ticks behind
+[28Nov2024 03:34:28.491] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5943ms or 118 ticks behind
+[28Nov2024 03:34:48.044] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4596ms or 91 ticks behind
+[28Nov2024 03:35:07.117] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4119ms or 82 ticks behind
+[28Nov2024 03:35:28.791] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6693ms or 133 ticks behind
+[28Nov2024 03:36:15.367] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity SigmaEntity['Sigma'/8822, l='ServerLevel[world]', x=556.33, y=25.78, z=-1009.89] died: Sigma tried to swim in lava
+[28Nov2024 03:37:11.231] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: kamicha19[/[::1]:50460] logged in with entity id 23257 at (705.1972832135236, -44.0, -1601.0643004607955)
+[28Nov2024 03:37:11.304] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kamicha19 joined the game
+[28Nov2024 03:37:14.918] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4020ms or 80 ticks behind
+[28Nov2024 03:37:41.207] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 11309ms or 226 ticks behind
+[28Nov2024 03:37:41.403] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <kamicha19> PABLO LLEVAME CON JONY
+[28Nov2024 03:38:01.209] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5011ms or 100 ticks behind
+[28Nov2024 03:38:19.947] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3749ms or 74 ticks behind
+[28Nov2024 03:38:39.544] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4646ms or 92 ticks behind
