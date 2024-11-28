@@ -1977,3 +1977,11 @@ Things may not work well.
 [28Nov2024 02:45:16.165] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
 [28Nov2024 02:45:16.171] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: JonyDC[/[::1]:43238] logged in with entity id 8810 at (581.1404460314311, 71.49520087700593, -1059.6247390227531)
 [28Nov2024 02:45:16.222] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JonyDC joined the game
+[28Nov2024 02:48:45.516] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Made Pablo a server operator
+[28Nov2024 02:51:15.096] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: pablo[/[::1]:42388] logged in with entity id 10125 at (2530.9797286237613, -15.0, 1914.9229188350218)
+[28Nov2024 02:51:15.119] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pablo joined the game
+[28Nov2024 02:52:00.764] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Made pablo a server operator
+[28Nov2024 02:52:08.328] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablo: Teleported pablo to JonyDC]
+[28Nov2024 02:52:27.470] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablo: Set own game mode to Survival Mode]
+[28Nov2024 02:52:45.993] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JonyDC> disc
+[28Nov2024 02:53:57.289] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablo: Set the time to 1000]
