@@ -2076,3 +2076,19 @@ Things may not work well.
 [28Nov2024 03:38:01.209] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5011ms or 100 ticks behind
 [28Nov2024 03:38:19.947] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3749ms or 74 ticks behind
 [28Nov2024 03:38:39.544] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4646ms or 92 ticks behind
+[28Nov2024 03:38:56.654] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: kamicha19 lost connection: Timed out
+[28Nov2024 03:38:56.655] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kamicha19 left the game
+[28Nov2024 03:39:00.378] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5880ms or 117 ticks behind
+[28Nov2024 03:39:34.264] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity SigmaEntity['Sigma'/12252, l='ServerLevel[world]', x=370.76, y=-11.00, z=-1058.41] died: Sigma fell from a high place
+[28Nov2024 03:39:54.979] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity SigmaEntity['Sigma'/24301, l='ServerLevel[world]', x=410.12, y=64.00, z=-1124.13] died: Sigma was slain by JonyDC
+[28Nov2024 03:41:12.357] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2059ms or 41 ticks behind
+[28Nov2024 03:41:51.025] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity RoxyImpEntity['Roxy'/24711, l='ServerLevel[world]', x=53.87, y=51.00, z=-97.49] died: Roxy was slain by JonyDC
+[28Nov2024 03:42:19.251] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablo: Set own game mode to Spectator Mode]
+[28Nov2024 03:42:31.688] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2090ms or 41 ticks behind
+[28Nov2024 03:42:41.812] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablo: Set own game mode to Survival Mode]
+[28Nov2024 03:42:59.476] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablo: Set own game mode to Spectator Mode]
+[28Nov2024 03:43:11.335] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablo: Set own game mode to Survival Mode]
+[28Nov2024 03:43:25.800] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablo: Set own game mode to Spectator Mode]
+[28Nov2024 03:43:30.452] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablo: Set own game mode to Creative Mode]
+[28Nov2024 03:44:26.975] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2026ms or 40 ticks behind
+[28Nov2024 03:44:48.784] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6836ms or 136 ticks behind

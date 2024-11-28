@@ -489,6 +489,7 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:skeleton": "2024-11-14 03:59:27 +0000",
+      "minecraft:hoglin": "2024-11-28 03:42:45 +0000",
       "minecraft:spider": "2024-11-13 02:04:47 +0000",
       "minecraft:creeper": "2024-11-14 04:17:29 +0000",
       "minecraft:piglin": "2024-11-23 20:51:36 +0000",
@@ -3524,9 +3525,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/redstone_lamp": {
+    "criteria": {
+      "has_glowstone": "2024-11-28 03:38:20 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cracked_deepslate_bricks": {
     "criteria": {
       "has_deepslate_bricks": "2024-11-28 03:10:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/nether_brick": {
+    "criteria": {
+      "has_netherrack": "2024-11-28 03:42:29 +0000"
     },
     "done": true
   },
