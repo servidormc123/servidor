@@ -1965,3 +1965,15 @@ Things may not work well.
 [28Nov2024 02:22:19.862] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity SigmaEntity['Sigma'/1513, l='ServerLevel[world]', x=532.63, y=-6.00, z=-1266.68] died: Sigma discovered the floor was lava
 [28Nov2024 02:24:31.917] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity SigmaEntity['Sigma'/1411, l='ServerLevel[world]', x=486.63, y=-46.95, z=-1093.75] died: Sigma tried to swim in lava
 [28Nov2024 02:25:09.059] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity SigmaEntity['Sigma'/1464, l='ServerLevel[world]', x=408.54, y=20.71, z=-1043.27] died: Sigma tried to swim in lava
+[28Nov2024 02:39:55.266] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JonyDC has made the advancement [Best Friends Forever]
+[28Nov2024 02:41:57.945] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity JammerCatEntity['Jammer'/5530, l='ServerLevel[world]', x=693.16, y=64.00, z=-926.36] died: Jammer was slain by JonyDC
+[28Nov2024 02:42:01.448] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity DuckleyEntity['Duckley'/5470, l='ServerLevel[world]', x=695.59, y=64.00, z=-931.28] died: Duckley was slain by JonyDC
+[28Nov2024 02:42:38.011] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JonyDC lost connection: You logged in from another location
+[28Nov2024 02:42:38.012] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JonyDC left the game
+[28Nov2024 02:42:38.025] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: JonyDC[/[::1]:54140] logged in with entity id 8152 at (684.6453864416252, 65.0, -944.9002153145602)
+[28Nov2024 02:42:38.066] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JonyDC joined the game
+[28Nov2024 02:45:15.983] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JonyDC lost connection: You logged in from another location
+[28Nov2024 02:45:15.985] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JonyDC left the game
+[28Nov2024 02:45:16.165] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[28Nov2024 02:45:16.171] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: JonyDC[/[::1]:43238] logged in with entity id 8810 at (581.1404460314311, 71.49520087700593, -1059.6247390227531)
+[28Nov2024 02:45:16.222] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JonyDC joined the game

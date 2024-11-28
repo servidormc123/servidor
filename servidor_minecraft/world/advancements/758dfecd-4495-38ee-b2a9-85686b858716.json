@@ -37,6 +37,7 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:old_growth_pine_taiga": "2024-11-28 02:38:09 +0000",
       "minecraft:taiga": "2024-11-28 02:32:34 +0000",
       "minecraft:beach": "2024-11-13 20:20:53 +0000",
       "minecraft:river": "2024-11-13 02:12:42 +0000",
@@ -492,6 +493,7 @@
       "minecraft:creeper": "2024-11-14 04:17:29 +0000",
       "minecraft:piglin": "2024-11-23 20:51:36 +0000",
       "minecraft:enderman": "2024-11-14 04:51:10 +0000",
+      "minecraft:stray": "2024-11-28 02:41:42 +0000",
       "minecraft:zombie": "2024-11-13 02:01:46 +0000",
       "minecraft:zombie_villager": "2024-11-13 02:20:31 +0000"
     },
@@ -2178,9 +2180,11 @@
       "poppy_fields": "2024-11-23 04:10:16 +0000",
       "maple_forest": "2024-11-23 04:18:41 +0000",
       "mountains": "2024-11-23 04:13:56 +0000",
+      "boreal_forest": "2024-11-28 02:37:43 +0000",
       "infernal_holt": "2024-11-23 20:56:04 +0000",
       "cold_river": "2024-11-23 04:12:56 +0000",
-      "pumpkin_fields": "2024-11-23 04:12:07 +0000"
+      "pumpkin_fields": "2024-11-23 04:12:07 +0000",
+      "golden_boreal_taiga": "2024-11-28 02:38:08 +0000"
     },
     "done": false
   },
@@ -2192,8 +2196,10 @@
       "poppy_fields": "2024-11-23 04:10:16 +0000",
       "maple_forest": "2024-11-23 04:18:41 +0000",
       "mountains": "2024-11-23 04:13:56 +0000",
+      "boreal_forest": "2024-11-28 02:37:43 +0000",
       "cold_river": "2024-11-23 04:12:56 +0000",
-      "pumpkin_fields": "2024-11-23 04:12:07 +0000"
+      "pumpkin_fields": "2024-11-23 04:12:07 +0000",
+      "golden_boreal_taiga": "2024-11-28 02:38:08 +0000"
     },
     "done": false
   },
@@ -3329,6 +3335,18 @@
   "minecraft:recipes/redstone/piston": {
     "criteria": {
       "has_redstone": "2024-11-25 04:37:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/tame_an_animal": {
+    "criteria": {
+      "tamed_animal": "2024-11-28 02:39:55 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_abandoned_temple": {
+    "criteria": {
+      "location0": "2024-11-28 02:33:16 +0000"
     },
     "done": true
   },
