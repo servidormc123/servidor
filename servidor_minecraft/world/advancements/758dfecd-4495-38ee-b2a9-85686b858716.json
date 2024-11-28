@@ -3665,15 +3665,81 @@
     },
     "done": true
   },
+  "regions_unexplored:recipes/building_blocks/overgrown_bone_block": {
+    "criteria": {
+      "has_bone_block": "2024-11-28 05:04:25 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/mauve_stairs": {
+    "criteria": {
+      "has_mauve_planks": "2024-11-28 05:03:17 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:recipes/building_blocks/mauve_wood": {
     "criteria": {
       "has_log": "2024-11-28 04:49:33 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/redstone/crimson_pressure_plate": {
+    "criteria": {
+      "has_planks": "2024-11-28 05:06:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/crimson_sign": {
+    "criteria": {
+      "has_planks": "2024-11-28 05:06:14 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:recipes/misc/white_dye_from_white_trillium": {
     "criteria": {
       "has_white_trillium": "2024-11-28 04:52:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bone_meal_from_bone_block": {
+    "criteria": {
+      "has_bone_block": "2024-11-28 05:04:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/crimson_door": {
+    "criteria": {
+      "has_planks": "2024-11-28 05:06:14 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/redstone/mauve_button": {
+    "criteria": {
+      "has_mauve_planks": "2024-11-28 05:03:17 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/crimson_chair": {
+    "criteria": {
+      "has_planks": "2024-11-28 05:06:14 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/redstone/mauve_door": {
+    "criteria": {
+      "has_mauve_planks": "2024-11-28 05:03:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/crimson_fence": {
+    "criteria": {
+      "has_planks": "2024-11-28 05:06:14 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/decorations/mauve_sign": {
+    "criteria": {
+      "has_mauve_planks": "2024-11-28 05:03:17 +0000"
     },
     "done": true
   },
@@ -3689,15 +3755,87 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/crimson_button": {
+    "criteria": {
+      "has_planks": "2024-11-28 05:06:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/crimson_slab": {
+    "criteria": {
+      "has_planks": "2024-11-28 05:06:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/crimson_stairs": {
+    "criteria": {
+      "has_planks": "2024-11-28 05:06:14 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:recipes/building_blocks/mauve_planks": {
     "criteria": {
       "has_logs": "2024-11-28 04:49:33 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/redstone/crimson_trapdoor": {
+    "criteria": {
+      "has_planks": "2024-11-28 05:06:14 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/decorations/mauve_fence": {
+    "criteria": {
+      "has_mauve_planks": "2024-11-28 05:03:17 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:recipes/decorations/mauve_shrub": {
     "criteria": {
       "has_mauve_sapling": "2024-11-28 04:49:58 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/crimson_table": {
+    "criteria": {
+      "has_planks": "2024-11-28 05:06:14 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/redstone/mauve_pressure_plate": {
+    "criteria": {
+      "has_mauve_planks": "2024-11-28 05:03:17 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/mauve_slab": {
+    "criteria": {
+      "has_mauve_planks": "2024-11-28 05:03:17 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/redstone/mauve_trapdoor": {
+    "criteria": {
+      "has_mauve_planks": "2024-11-28 05:03:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/crimson_fence_gate": {
+    "criteria": {
+      "has_planks": "2024-11-28 05:06:14 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/crimson_shelf": {
+    "criteria": {
+      "has_planks": "2024-11-28 05:06:14 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/redstone/mauve_fence_gate": {
+    "criteria": {
+      "has_mauve_planks": "2024-11-28 05:03:17 +0000"
     },
     "done": true
   },
