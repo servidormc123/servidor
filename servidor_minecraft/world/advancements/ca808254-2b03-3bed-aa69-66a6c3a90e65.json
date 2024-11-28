@@ -4333,5 +4333,17 @@
     },
     "done": true
   },
+  "alexscaves:alexscaves/defeat_magnetron": {
+    "criteria": {
+      "killed": "2024-11-28 21:00:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/magenta_dye_from_lilac": {
+    "criteria": {
+      "has_lilac": "2024-11-28 20:58:08 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }

@@ -157,3 +157,23 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [28Nov2024 20:56:07.990] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablo: Teleported pablo to JonyDC]
 [28Nov2024 20:56:14.066] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablo: Set own game mode to Survival Mode]
 [28Nov2024 20:56:21.578] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablo: Set the weather to clear]
+[28Nov2024 20:57:01.632] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2035ms or 40 ticks behind
+[28Nov2024 20:58:06.368] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablo: Set own game mode to Creative Mode]
+[28Nov2024 21:00:25.270] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JonyDC lost connection: You logged in from another location
+[28Nov2024 21:00:25.271] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JonyDC left the game
+[28Nov2024 21:00:25.297] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: JonyDC[/[::1]:41342] logged in with entity id 5225 at (414.85237816842385, 63.0, -1131.6678902171002)
+[28Nov2024 21:00:25.336] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JonyDC joined the game
+[28Nov2024 21:00:53.661] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pablo has reached the goal [Magnetron No More]
+[28Nov2024 21:01:58.516] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity SigmaEntity['Sigma'/3982, l='ServerLevel[world]', x=484.70, y=-26.30, z=-1198.42] died: Sigma tried to swim in lava
+[28Nov2024 21:02:39.260] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity SigmaEntity['Sigma'/4160, l='ServerLevel[world]', x=452.46, y=9.00, z=-1197.36] died: Sigma burned to death
+[28Nov2024 21:04:12.390] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablo: Set the time to 1000]
+[28Nov2024 21:04:36.856] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity SigmaEntity['Sigma'/3940, l='ServerLevel[world]', x=483.51, y=-26.00, z=-1198.49] died: Sigma discovered the floor was lava
+[28Nov2024 21:04:52.102] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element #cataclysm:has_structure/ancient_factory_biomes (regions_unexplored:redstone_caves) took 6 ms
+[28Nov2024 21:05:06.972] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablo: Teleported pablo to 390.500000, 70.000000, -1228.500000]
+[28Nov2024 21:05:19.344] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablo: Set own game mode to Spectator Mode]
+[28Nov2024 21:05:42.317] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablo: Teleported pablo to 390.500000, 70.000000, -1228.500000]
+[28Nov2024 21:06:01.894] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablo: Teleported pablo to JonyDC]
+[28Nov2024 21:06:08.894] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablo: Set own game mode to Survival Mode]
+[28Nov2024 21:06:40.027] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity ChloeCatEntity['Chloe'/3319, l='ServerLevel[world]', x=419.99, y=64.00, z=-1121.29] died: Chloe was slain by JonyDC
+[28Nov2024 21:06:44.897] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity DuckleyEntity['Duckley'/3321, l='ServerLevel[world]', x=414.65, y=62.03, z=-1142.28] died: Duckley was slain by JonyDC
+[28Nov2024 21:07:07.340] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity SigmaEntity['Sigma'/3322, l='ServerLevel[world]', x=421.51, y=63.00, z=-1105.75] died: Sigma was slain by JonyDC
