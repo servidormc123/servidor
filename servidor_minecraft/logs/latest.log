@@ -2338,3 +2338,11 @@ Things may not work well.
 [28Nov2024 04:40:59.871] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JonyDC left the game
 [28Nov2024 04:40:59.882] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: JonyDC[/[::1]:49390] logged in with entity id 44959 at (406.1450133223532, 64.0, -1125.0568142162015)
 [28Nov2024 04:40:59.902] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JonyDC joined the game
+[28Nov2024 04:42:15.019] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JonyDC lost connection: Timed out
+[28Nov2024 04:42:15.019] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JonyDC left the game
+[28Nov2024 04:42:35.450] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@2f6b1587[id=<null>,name=JonyDC,properties={},legacy=false] (/[::1]:41600) lost connection: Timed out
+[28Nov2024 04:43:18.469] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: JonyDC[/[::1]:33544] logged in with entity id 45183 at (399.7528945977928, 65.25220334025373, -1127.9605193297102)
+[28Nov2024 04:43:18.482] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JonyDC joined the game
+[28Nov2024 04:43:22.630] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2582ms or 51 ticks behind
+[28Nov2024 04:48:46.858] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity SigmaEntity['Sigma'/47875, l='ServerLevel[world]', x=-32.94, y=38.00, z=-1076.82] died: Sigma was eaten by a Dusktrap
+[28Nov2024 04:49:13.655] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity SigmaEntity['Sigma'/46656, l='ServerLevel[world]', x=171.33, y=9.70, z=-1032.67] died: Sigma was eaten by a Dusktrap
