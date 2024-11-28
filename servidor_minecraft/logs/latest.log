@@ -1962,3 +1962,6 @@ Things may not work well.
 [28Nov2024 02:03:36.746] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
 [28Nov2024 02:03:36.755] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: JonyDC[/[::1]:55732] logged in with entity id 1204 at (406.368176503988, 64.0, -1125.4250413251063)
 [28Nov2024 02:03:36.812] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JonyDC joined the game
+[28Nov2024 02:22:19.862] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity SigmaEntity['Sigma'/1513, l='ServerLevel[world]', x=532.63, y=-6.00, z=-1266.68] died: Sigma discovered the floor was lava
+[28Nov2024 02:24:31.917] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity SigmaEntity['Sigma'/1411, l='ServerLevel[world]', x=486.63, y=-46.95, z=-1093.75] died: Sigma tried to swim in lava
+[28Nov2024 02:25:09.059] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity SigmaEntity['Sigma'/1464, l='ServerLevel[world]', x=408.54, y=20.71, z=-1043.27] died: Sigma tried to swim in lava
