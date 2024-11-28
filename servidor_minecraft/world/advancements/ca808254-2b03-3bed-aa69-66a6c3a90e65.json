@@ -4225,6 +4225,12 @@
     },
     "done": true
   },
+  "minecraft:nether/obtain_crying_obsidian": {
+    "criteria": {
+      "crying_obsidian": "2024-11-28 03:55:57 +0000"
+    },
+    "done": true
+  },
   "another_furniture:recipes/oak_flower_box": {
     "criteria": {
       "has_slab": "2024-11-28 03:23:21 +0000"
@@ -4240,6 +4246,12 @@
   "minecraft:recipes/decorations/composter": {
     "criteria": {
       "has_wood_slab": "2024-11-28 03:23:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/respawn_anchor": {
+    "criteria": {
+      "has_obsidian": "2024-11-28 03:55:57 +0000"
     },
     "done": true
   },

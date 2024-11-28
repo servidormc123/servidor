@@ -489,6 +489,7 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:skeleton": "2024-11-14 03:59:27 +0000",
+      "minecraft:ghast": "2024-11-28 03:56:25 +0000",
       "minecraft:hoglin": "2024-11-28 03:42:45 +0000",
       "minecraft:spider": "2024-11-13 02:04:47 +0000",
       "minecraft:creeper": "2024-11-14 04:17:29 +0000",
@@ -2182,6 +2183,7 @@
       "maple_forest": "2024-11-23 04:18:41 +0000",
       "mountains": "2024-11-23 04:13:56 +0000",
       "boreal_forest": "2024-11-28 02:37:43 +0000",
+      "blackstone_basin": "2024-11-28 03:55:04 +0000",
       "infernal_holt": "2024-11-23 20:56:04 +0000",
       "cold_river": "2024-11-23 04:12:56 +0000",
       "pumpkin_fields": "2024-11-23 04:12:07 +0000",
@@ -2795,6 +2797,7 @@
   },
   "minecraft:nether/explore_nether": {
     "criteria": {
+      "minecraft:crimson_forest": "2024-11-28 03:53:43 +0000",
       "minecraft:soul_sand_valley": "2024-11-23 20:49:37 +0000"
     },
     "done": false
@@ -2999,6 +3002,7 @@
   },
   "regions_unexplored:eternal_expedition": {
     "criteria": {
+      "blackstone_basin": "2024-11-28 03:55:04 +0000",
       "infernal_holt": "2024-11-23 20:56:04 +0000"
     },
     "done": false
@@ -3501,6 +3505,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/crimson_planks": {
+    "criteria": {
+      "has_logs": "2024-11-28 03:53:47 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/deepslate_brick_stairs": {
     "criteria": {
       "has_deepslate_bricks": "2024-11-28 03:10:09 +0000"
@@ -3534,6 +3544,12 @@
   "minecraft:recipes/building_blocks/cracked_deepslate_bricks": {
     "criteria": {
       "has_deepslate_bricks": "2024-11-28 03:10:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/spectral_arrow": {
+    "criteria": {
+      "has_glowstone_dust": "2024-11-28 03:48:07 +0000"
     },
     "done": true
   },
@@ -3591,6 +3607,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/crimson_hyphae": {
+    "criteria": {
+      "has_log": "2024-11-28 03:53:47 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/deepslate_tiles_from_deepslate_bricks_stonecutting": {
     "criteria": {
       "has_deepslate_bricks": "2024-11-28 03:10:09 +0000"
@@ -3600,6 +3622,12 @@
   "minecraft:recipes/building_blocks/deepslate_brick_slab": {
     "criteria": {
       "has_deepslate_bricks": "2024-11-28 03:10:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/glowstone": {
+    "criteria": {
+      "has_glowstone_dust": "2024-11-28 03:48:07 +0000"
     },
     "done": true
   },
