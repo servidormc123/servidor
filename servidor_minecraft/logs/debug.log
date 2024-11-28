@@ -5980,3 +5980,7 @@ Things may not work well.
 [28Nov2024 02:23:07.114] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [28Nov2024 02:24:31.917] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity SigmaEntity['Sigma'/1411, l='ServerLevel[world]', x=486.63, y=-46.95, z=-1093.75] died: Sigma tried to swim in lava
 [28Nov2024 02:25:09.059] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity SigmaEntity['Sigma'/1464, l='ServerLevel[world]', x=408.54, y=20.71, z=-1043.27] died: Sigma tried to swim in lava
+[28Nov2024 02:28:07.049] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[28Nov2024 02:28:07.062] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[28Nov2024 02:33:07.082] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[28Nov2024 02:33:07.114] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
