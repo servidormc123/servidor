@@ -1985,3 +1985,20 @@ Things may not work well.
 [28Nov2024 02:52:27.470] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablo: Set own game mode to Survival Mode]
 [28Nov2024 02:52:45.993] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JonyDC> disc
 [28Nov2024 02:53:57.289] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablo: Set the time to 1000]
+[28Nov2024 02:58:53.316] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity JammerCatEntity['Jammer'/11397, l='ServerLevel[world]', x=394.85, y=63.00, z=-1128.54] died: Jammer was slain by JonyDC
+[28Nov2024 02:59:13.048] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity DuckleyEntity['Duckley'/11442, l='ServerLevel[world]', x=393.18, y=63.00, z=-1125.30] died: Duckley was slain by JonyDC
+[28Nov2024 02:59:13.124] [Server thread/INFO] [com.github.alexmodguy.alexscaves.AlexsCaves/]: Could not find alexscaves:magnetic_caves after 4s
+[28Nov2024 02:59:53.841] [Server thread/INFO] [com.github.alexmodguy.alexscaves.AlexsCaves/]: Could not find alexscaves:magnetic_caves after 4s
+[28Nov2024 02:59:58.351] [Server thread/INFO] [com.github.alexmodguy.alexscaves.AlexsCaves/]: Could not find alexscaves:magnetic_caves after 3s
+[28Nov2024 03:00:06.608] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity SigmaEntity['Sigma'/9088, l='ServerLevel[world]', x=453.01, y=9.00, z=-1193.74] died: Sigma tried to swim in lava
+[28Nov2024 03:01:18.298] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity SigmaEntity['Sigma'/11828, l='ServerLevel[world]', x=406.39, y=64.00, z=-1126.28] died: Sigma was slain by JonyDC
+[28Nov2024 03:04:33.229] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JonyDC lost connection: Timed out
+[28Nov2024 03:04:33.231] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JonyDC left the game
+[28Nov2024 03:04:48.096] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: JonyDC[/[::1]:32836] logged in with entity id 12216 at (405.0325077264721, 64.0, -1124.6500937119288)
+[28Nov2024 03:04:48.124] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JonyDC joined the game
+[28Nov2024 03:05:40.132] [Server thread/INFO] [com.github.alexmodguy.alexscaves.AlexsCaves/]: Could not find alexscaves:magnetic_caves after 3s
+[28Nov2024 03:05:49.171] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2123ms or 42 ticks behind
+[28Nov2024 03:05:52.159] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: pablo moved too quickly! -2.453840338200564,1.2286092609382138,-9.875339594423338
+[28Nov2024 03:06:04.593] [Server thread/INFO] [com.github.alexmodguy.alexscaves.AlexsCaves/]: Could not find alexscaves:magnetic_caves after 14s
+[28Nov2024 03:06:08.498] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4350ms or 87 ticks behind
+[28Nov2024 03:06:58.781] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablo: Set the time to 1000]
