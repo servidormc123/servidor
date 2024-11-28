@@ -4333,6 +4333,12 @@
     },
     "done": true
   },
+  "dungeons_arise:find_wishing_well": {
+    "criteria": {
+      "location0": "2024-11-28 21:16:33 +0000"
+    },
+    "done": true
+  },
   "alexscaves:alexscaves/defeat_magnetron": {
     "criteria": {
       "killed": "2024-11-28 21:00:53 +0000"
