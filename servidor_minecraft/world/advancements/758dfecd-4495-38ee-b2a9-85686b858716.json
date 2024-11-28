@@ -493,6 +493,7 @@
       "minecraft:hoglin": "2024-11-28 03:42:45 +0000",
       "minecraft:spider": "2024-11-13 02:04:47 +0000",
       "minecraft:creeper": "2024-11-14 04:17:29 +0000",
+      "minecraft:wither_skeleton": "2024-11-28 04:02:45 +0000",
       "minecraft:piglin": "2024-11-23 20:51:36 +0000",
       "minecraft:enderman": "2024-11-14 04:51:10 +0000",
       "minecraft:stray": "2024-11-28 02:41:42 +0000",
@@ -2180,6 +2181,7 @@
       "muddy_river": "2024-11-23 04:52:00 +0000",
       "ancient_delta": "2024-11-23 05:14:55 +0000",
       "poppy_fields": "2024-11-23 04:10:16 +0000",
+      "mycotoxic_undergrowth": "2024-11-28 04:02:02 +0000",
       "maple_forest": "2024-11-23 04:18:41 +0000",
       "mountains": "2024-11-23 04:13:56 +0000",
       "boreal_forest": "2024-11-28 02:37:43 +0000",
@@ -3002,6 +3004,7 @@
   },
   "regions_unexplored:eternal_expedition": {
     "criteria": {
+      "mycotoxic_undergrowth": "2024-11-28 04:02:02 +0000",
       "blackstone_basin": "2024-11-28 03:55:04 +0000",
       "infernal_holt": "2024-11-23 20:56:04 +0000"
     },
@@ -3568,6 +3571,12 @@
   "another_furniture:recipes/spruce_flower_box": {
     "criteria": {
       "has_slab": "2024-11-28 03:25:20 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/crimson_mosquito": {
+    "criteria": {
+      "killed_by": "2024-11-28 03:58:43 +0000"
     },
     "done": true
   },

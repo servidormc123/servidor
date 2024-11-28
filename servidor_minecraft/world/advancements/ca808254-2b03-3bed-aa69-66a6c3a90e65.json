@@ -4213,15 +4213,39 @@
     },
     "done": true
   },
+  "alexsmobs:alexsmobs/enderiophage": {
+    "criteria": {
+      "killed_by": "2024-11-28 04:03:01 +0000"
+    },
+    "done": true
+  },
   "another_furniture:recipes/oak_shutter": {
     "criteria": {
       "has_slab": "2024-11-28 03:23:21 +0000"
     },
     "done": true
   },
+  "alexsmobs:alexsmobs/ender_flu": {
+    "criteria": {
+      "all_effects": "2024-11-28 04:01:45 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/capsid": {
+    "criteria": {
+      "capsid": "2024-11-28 04:03:08 +0000"
+    },
+    "done": true
+  },
   "another_furniture:recipes/oak_bench": {
     "criteria": {
       "has_slab": "2024-11-28 03:23:21 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/use_cupidity": {
+    "criteria": {
+      "coded_trigger": "2024-11-28 04:01:45 +0000"
     },
     "done": true
   },
