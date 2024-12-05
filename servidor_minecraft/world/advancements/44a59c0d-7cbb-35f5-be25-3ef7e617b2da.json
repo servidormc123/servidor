@@ -53,7 +53,8 @@
       "minecraft:river": "2024-11-23 19:14:51 +0000",
       "minecraft:forest": "2024-11-23 19:14:29 +0000",
       "minecraft:deep_dark": "2024-11-23 21:36:19 +0000",
-      "minecraft:meadow": "2024-11-23 21:43:16 +0000"
+      "minecraft:meadow": "2024-11-23 21:43:16 +0000",
+      "minecraft:plains": "2024-12-05 03:08:25 +0000"
     },
     "done": false
   },
@@ -2861,6 +2862,12 @@
   "the_bumblezone:structures/enter_throne_pillar": {
     "criteria": {
       "in_throne_pillar": "2024-12-05 02:54:57 +0000"
+    },
+    "done": true
+  },
+  "the_bumblezone:teleportation/teleport_out_of_bumblezone": {
+    "criteria": {
+      "teleport_out_of_bumblezone": "2024-12-05 03:02:26 +0000"
     },
     "done": true
   },

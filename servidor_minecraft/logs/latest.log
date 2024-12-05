@@ -594,3 +594,37 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [05Dec2024 03:00:30.903] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity DuckleyEntity['Duckley'/70755, l='ServerLevel[world]', x=-1409.00, y=82.00, z=-3523.00] died: Duckley suffocated in a wall
 [05Dec2024 03:01:18.149] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity DuckleyEntity['Duckley'/70848, l='ServerLevel[world]', x=-1468.00, y=232.00, z=-3517.00] died: Duckley suffocated in a wall
 [05Dec2024 03:01:21.654] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity DuckleyEntity['Duckley'/70886, l='ServerLevel[world]', x=-1486.00, y=181.00, z=-3588.00] died: Duckley suffocated in a wall
+[05Dec2024 03:02:31.105] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kamicha19 was blown up by Creeper
+[05Dec2024 03:02:31.128] [Server thread/INFO] [tombstone/]: The player kamicha19 has successfully been saved
+[05Dec2024 03:04:08.649] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: kamicha19 lost connection: Timed out
+[05Dec2024 03:04:08.650] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kamicha19 left the game
+[05Dec2024 03:04:10.409] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: kamicha19[/[::1]:34436] logged in with entity id 71730 at (38.84257598170546, 89.0, -175.69999998807907)
+[05Dec2024 03:04:10.419] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kamicha19 joined the game
+[05Dec2024 03:04:47.166] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: pablo[/[::1]:43486] logged in with entity id 72052 at (-1161.7293322954938, 47.738510477239345, -3545.955996651491)
+[05Dec2024 03:04:47.180] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pablo joined the game
+[05Dec2024 03:04:55.555] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@236406ea[id=<null>,name=pablo,properties={},legacy=false] (/[::1]:48350) lost connection: Timed out
+[05Dec2024 03:05:05.622] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablo: Set own game mode to Creative Mode]
+[05Dec2024 03:05:07.697] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kamicha19 was shot by Skeleton
+[05Dec2024 03:05:07.714] [Server thread/INFO] [tombstone/]: The player kamicha19 has successfully been saved
+[05Dec2024 03:05:19.954] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: kamicha19 lost connection: You logged in from another location
+[05Dec2024 03:05:19.955] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kamicha19 left the game
+[05Dec2024 03:05:19.962] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: kamicha19[/[::1]:39712] logged in with entity id 72259 at (57.5596717155548, 110.0, -229.85633078869344)
+[05Dec2024 03:05:19.971] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kamicha19 joined the game
+[05Dec2024 03:06:38.436] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablo: Teleported pablo to Fakkus55]
+[05Dec2024 03:06:49.634] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablo: Set own game mode to Survival Mode]
+[05Dec2024 03:06:56.321] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity SigmaEntity['Sigma'/73505, l='ServerLevel[world]', x=-123.55, y=28.00, z=-980.79] died: Sigma was eaten by a Dusktrap
+[05Dec2024 03:07:35.216] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Fletcher'/73806, l='ServerLevel[world]', x=140.30, y=64.05, z=-401.62] died, message: 'Fletcher was slain by Zombie'
+[05Dec2024 03:07:46.361] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity SigmaEntity['Sigma'/73523, l='ServerLevel[world]', x=-12.71, y=-10.00, z=-1206.68] died: Sigma fell from a high place
+[05Dec2024 03:08:10.992] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity SigmaEntity['Sigma'/72877, l='ServerLevel[world]', x=39.27, y=50.00, z=-1076.72] died: Sigma was eaten by a Dusktrap
+[05Dec2024 03:08:30.108] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity SigmaEntity['Sigma'/73306, l='ServerLevel[world]', x=142.71, y=11.00, z=-1036.71] died: Sigma was eaten by a Dusktrap
+[05Dec2024 03:08:32.196] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity SigmaEntity['Sigma'/73027, l='ServerLevel[world]', x=38.78, y=41.00, z=-981.50] died: Sigma was eaten by a Dusktrap
+[05Dec2024 03:08:41.994] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity SigmaEntity['Sigma'/73037, l='ServerLevel[world]', x=56.98, y=25.00, z=-970.70] died: Sigma was eaten by a Dusktrap
+[05Dec2024 03:08:59.393] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity SigmaEntity['Sigma'/72957, l='ServerLevel[world]', x=-29.62, y=10.00, z=-1042.35] died: Sigma was eaten by a Dusktrap
+[05Dec2024 03:09:24.740] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity SigmaEntity['Sigma'/72873, l='ServerLevel[world]', x=40.93, y=50.00, z=-1074.43] died: Sigma was eaten by a Dusktrap
+[05Dec2024 03:09:47.897] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity SigmaEntity['Sigma'/73150, l='ServerLevel[world]', x=53.30, y=16.26, z=-953.56] died: Sigma drowned
+[05Dec2024 03:10:18.313] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: pablo was kicked for floating too long!
+[05Dec2024 03:10:18.373] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: pablo lost connection: Flying is not enabled on this server
+[05Dec2024 03:10:18.374] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pablo left the game
+[05Dec2024 03:10:41.338] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: pablo[/[::1]:53904] logged in with entity id 76122 at (-2.943271426028216, 92.0539678333997, -1044.8921325570086)
+[05Dec2024 03:10:41.352] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pablo joined the game
+[05Dec2024 03:11:09.144] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity SigmaEntity['Sigma'/72950, l='ServerLevel[world]', x=38.03, y=41.00, z=-981.46] died: Sigma was eaten by a Dusktrap
