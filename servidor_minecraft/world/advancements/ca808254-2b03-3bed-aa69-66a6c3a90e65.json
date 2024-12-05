@@ -4363,9 +4363,16 @@
   },
   "the_bumblezone:structures/enter_all_structures": {
     "criteria": {
+      "in_stinger_spear_shrine": "2024-12-05 01:59:52 +0000",
       "in_cherry_veteran_tree": "2024-12-05 01:45:57 +0000"
     },
     "done": false
+  },
+  "minecraft:recipes/decorations/cherry_fence": {
+    "criteria": {
+      "has_planks": "2024-12-05 01:53:02 +0000"
+    },
+    "done": true
   },
   "the_bumblezone:armor/craft_flower_headwear": {
     "criteria": {
@@ -4376,6 +4383,18 @@
   "minecraft:recipes/misc/red_dye_from_rose_bush": {
     "criteria": {
       "has_rose_bush": "2024-12-05 01:49:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cherry_planks": {
+    "criteria": {
+      "has_log": "2024-12-05 01:52:54 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/decorations/cherry_branch_from_cherry_log": {
+    "criteria": {
+      "has_log": "2024-12-05 01:52:54 +0000"
     },
     "done": true
   },
@@ -4409,6 +4428,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/cherry_sign": {
+    "criteria": {
+      "has_planks": "2024-12-05 01:53:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/cherry_pressure_plate": {
+    "criteria": {
+      "has_planks": "2024-12-05 01:53:02 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/yellow_dye_from_sunflower": {
     "criteria": {
       "has_sunflower": "2024-12-05 01:49:09 +0000"
@@ -4418,6 +4449,12 @@
   "minecraft:recipes/misc/red_dye_from_tulip": {
     "criteria": {
       "has_red_flower": "2024-12-05 01:49:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/cherry_door": {
+    "criteria": {
+      "has_planks": "2024-12-05 01:53:02 +0000"
     },
     "done": true
   },
@@ -4450,9 +4487,39 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cherry_slab": {
+    "criteria": {
+      "has_planks": "2024-12-05 01:53:02 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/dried_kelp_from_campfire_cooking": {
     "criteria": {
       "has_kelp": "2024-12-05 00:47:11 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/cherry_chair": {
+    "criteria": {
+      "has_planks": "2024-12-05 01:53:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cherry_stairs": {
+    "criteria": {
+      "has_planks": "2024-12-05 01:53:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/cherry_trapdoor": {
+    "criteria": {
+      "has_planks": "2024-12-05 01:53:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/cherry_button": {
+    "criteria": {
+      "has_planks": "2024-12-05 01:53:02 +0000"
     },
     "done": true
   },
@@ -4480,15 +4547,45 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cherry_wood": {
+    "criteria": {
+      "has_log": "2024-12-05 01:52:54 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/light_gray_dye_from_azure_bluet": {
     "criteria": {
       "has_azure_bluet": "2024-12-05 01:49:12 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/redstone/cherry_fence_gate": {
+    "criteria": {
+      "has_planks": "2024-12-05 01:53:02 +0000"
+    },
+    "done": true
+  },
+  "the_bumblezone:honey_crystal/obtain_sticky_honey_residue": {
+    "criteria": {
+      "obtain_sticky_honey_redstone": "2024-12-05 01:56:30 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/cherry_shelf": {
+    "criteria": {
+      "has_planks": "2024-12-05 01:53:02 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/light_gray_dye_from_oxeye_daisy": {
     "criteria": {
       "has_oxeye_daisy": "2024-12-05 01:49:12 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/cherry_table": {
+    "criteria": {
+      "has_planks": "2024-12-05 01:53:02 +0000"
     },
     "done": true
   },

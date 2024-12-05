@@ -4186,11 +4186,29 @@
     },
     "done": false
   },
+  "the_bumblezone:armor/craft_flower_headwear": {
+    "criteria": {
+      "obtain_flower_headwear": "2024-12-05 01:50:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/red_dye_from_rose_bush": {
+    "criteria": {
+      "has_rose_bush": "2024-12-05 01:50:19 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/pink_dye_from_pink_tulip": {
     "criteria": {
       "has_pink_tulip": "2024-12-05 01:49:50 +0000"
     },
     "done": true
+  },
+  "the_bumblezone:combs_and_wax/carve_carvable_wax": {
+    "criteria": {
+      "carve_wax_5": "2024-12-05 01:50:49 +0000"
+    },
+    "done": false
   },
   "DataVersion": 3465
 }

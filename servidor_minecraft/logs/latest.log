@@ -337,3 +337,16 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [05Dec2024 01:49:09.356] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=487, y=42, z=-207} BlockPos{x=486, y=40, z=-207}
 [05Dec2024 01:49:10.856] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=484, y=41, z=-208} BlockPos{x=482, y=40, z=-206}
 [05Dec2024 01:49:49.863] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablo: Teleported Fakkus55 to pablo]
+[05Dec2024 01:52:06.696] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity DuckleyEntity['Duckley'/51694, l='ServerLevel[world]', x=688.60, y=204.00, z=-371.00] died: Duckley suffocated in a wall
+[05Dec2024 01:52:35.094] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity DuckleyEntity['Duckley'/51895, l='ServerLevel[world]', x=450.00, y=58.00, z=-516.00] died: Duckley suffocated in a wall
+[05Dec2024 01:54:57.955] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: kamicha19[/[::1]:37234] logged in with entity id 52280 at (542.6648957375942, 47.0, -185.9212855786517)
+[05Dec2024 01:54:57.966] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kamicha19 joined the game
+[05Dec2024 01:55:07.134] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablo: Teleported Nuna to pablo]
+[05Dec2024 01:55:40.252] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablo: Teleported kamicha19 to pablo]
+[05Dec2024 01:56:23.209] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablo: Teleported 4 entities to Fakkus55]
+[05Dec2024 01:57:35.606] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablo: Teleported 4 entities to Fakkus55]
+[05Dec2024 01:58:42.473] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablo: Teleported pablo to Fakkus55]
+[05Dec2024 01:59:11.798] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablo: Set own game mode to Creative Mode]
+[05Dec2024 01:59:45.162] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablo: Set own game mode to Spectator Mode]
+[05Dec2024 02:00:03.948] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablo: Set own game mode to Survival Mode]
+[05Dec2024 02:00:18.663] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablo: Teleported 4 entities to pablo]

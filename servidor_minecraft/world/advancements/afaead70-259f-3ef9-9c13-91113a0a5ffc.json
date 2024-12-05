@@ -518,6 +518,7 @@
       "bread": "2024-11-15 05:09:04 +0000",
       "golden_apple": "2024-12-05 01:19:11 +0000",
       "rotten_flesh": "2024-11-15 04:35:30 +0000",
+      "glow_berries": "2024-12-05 01:50:28 +0000",
       "cooked_chicken": "2024-11-17 03:26:32 +0000"
     },
     "done": false
@@ -3299,6 +3300,12 @@
   "minecraft:story/shiny_gear": {
     "criteria": {
       "diamond_helmet": "2024-12-05 01:15:26 +0000"
+    },
+    "done": true
+  },
+  "the_bumblezone:honey_crystal_shield/obtain_honey_crystal_shield": {
+    "criteria": {
+      "obtain_honey_crystal_shield": "2024-12-05 01:57:18 +0000"
     },
     "done": true
   },
