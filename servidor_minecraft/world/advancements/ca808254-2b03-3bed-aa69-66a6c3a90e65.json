@@ -34,6 +34,7 @@
       "minecraft:old_growth_birch_forest": "2024-11-23 20:57:21 +0000",
       "minecraft:deep_dark": "2024-11-23 05:28:02 +0000",
       "minecraft:meadow": "2024-11-15 02:42:17 +0000",
+      "minecraft:savanna": "2024-12-05 00:36:40 +0000",
       "minecraft:plains": "2024-11-11 04:15:20 +0000"
     },
     "done": false
@@ -520,6 +521,7 @@
   },
   "regions_unexplored:regions_explored": {
     "criteria": {
+      "mauve_hills": "2024-12-05 00:38:54 +0000",
       "silver_birch_forest": "2024-11-16 04:29:36 +0000",
       "shrubland": "2024-11-11 04:19:35 +0000",
       "dry_bushland": "2024-11-28 05:00:01 +0000",
@@ -560,6 +562,7 @@
   },
   "regions_unexplored:pioneer": {
     "criteria": {
+      "mauve_hills": "2024-12-05 00:38:54 +0000",
       "silver_birch_forest": "2024-11-16 04:29:36 +0000",
       "shrubland": "2024-11-11 04:19:35 +0000",
       "dry_bushland": "2024-11-28 05:00:01 +0000",
@@ -4333,9 +4336,9 @@
     },
     "done": true
   },
-  "dungeons_arise:find_wishing_well": {
+  "minecraft:recipes/misc/magenta_dye_from_lilac": {
     "criteria": {
-      "location0": "2024-11-28 21:16:33 +0000"
+      "has_lilac": "2024-11-28 20:58:08 +0000"
     },
     "done": true
   },
@@ -4345,9 +4348,57 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/magenta_dye_from_lilac": {
+  "dungeons_arise:find_wishing_well": {
     "criteria": {
-      "has_lilac": "2024-11-28 20:58:08 +0000"
+      "location0": "2024-11-28 21:16:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/prismarine": {
+    "criteria": {
+      "has_prismarine_shard": "2024-12-05 00:43:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp_from_smoking": {
+    "criteria": {
+      "has_kelp": "2024-12-05 00:47:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp_from_smelting": {
+    "criteria": {
+      "has_kelp": "2024-12-05 00:47:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp_from_campfire_cooking": {
+    "criteria": {
+      "has_kelp": "2024-12-05 00:47:11 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_fishing_hut": {
+    "criteria": {
+      "location0": "2024-12-05 00:50:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/prismarine_bricks": {
+    "criteria": {
+      "has_prismarine_shard": "2024-12-05 00:43:35 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/seagull_steal": {
+    "criteria": {
+      "ex": "2024-12-05 00:42:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_prismarine": {
+    "criteria": {
+      "has_prismarine_shard": "2024-12-05 00:43:35 +0000"
     },
     "done": true
   },

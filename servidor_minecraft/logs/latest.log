@@ -1,49 +1,49 @@
-[28Nov2024 20:26:40.890] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgeserver, --fml.forgeVersion, 47.2.0, --fml.mcVersion, 1.20.1, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20230612.114412]
-[28Nov2024 20:26:40.902] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.0.9+10.0.9+main.dcd20f30 starting: java version 21.0.4 by Microsoft; OS Linux arch amd64 version 6.5.0-1025-azure
-[28Nov2024 20:26:42.532] [main/INFO] [net.minecraftforge.fml.loading.ImmediateWindowHandler/]: ImmediateWindowProvider not loading because launch target is forgeserver
-[28Nov2024 20:26:42.566] [main/INFO] [optifine.OptiFineTransformationService/]: OptiFineTransformationService.onLoad
-[28Nov2024 20:26:42.570] [main/INFO] [optifine.OptiFineTransformationService/]: OptiFine ZIP file URL: union:/workspaces/servidor/servidor_minecraft/mods/OptiFine_1.20.1_HD_U_I6.jar%23133!/
-[28Nov2024 20:26:42.583] [main/INFO] [optifine.OptiFineTransformationService/]: OptiFine ZIP file: /workspaces/servidor/servidor_minecraft/mods/OptiFine_1.20.1_HD_U_I6.jar
-[28Nov2024 20:26:42.586] [main/INFO] [optifine.OptiFineTransformer/]: Target.PRE_CLASS is available
-[28Nov2024 20:26:42.814] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/workspaces/servidor/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2365!/ Service=ModLauncher Env=SERVER
-[28Nov2024 20:26:42.839] [main/INFO] [optifine.OptiFineTransformationService/]: OptiFineTransformationService.initialize
-[28Nov2024 20:26:43.348] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/servidor/servidor_minecraft/libraries/net/minecraftforge/fmlcore/1.20.1-47.2.0/fmlcore-1.20.1-47.2.0.jar is missing mods.toml file
-[28Nov2024 20:26:43.351] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/servidor/servidor_minecraft/libraries/net/minecraftforge/javafmllanguage/1.20.1-47.2.0/javafmllanguage-1.20.1-47.2.0.jar is missing mods.toml file
-[28Nov2024 20:26:43.355] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/servidor/servidor_minecraft/libraries/net/minecraftforge/lowcodelanguage/1.20.1-47.2.0/lowcodelanguage-1.20.1-47.2.0.jar is missing mods.toml file
-[28Nov2024 20:26:43.356] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/servidor/servidor_minecraft/libraries/net/minecraftforge/mclanguage/1.20.1-47.2.0/mclanguage-1.20.1-47.2.0.jar is missing mods.toml file
-[28Nov2024 20:26:43.632] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: Found 4 dependencies adding them to mods collection
-[28Nov2024 20:26:44.634] [main/INFO] [optifine.OptiFineTransformationService/]: OptiFineTransformationService.transformers
-[28Nov2024 20:26:44.643] [main/INFO] [optifine.OptiFineTransformer/]: Targets: 412
-[28Nov2024 20:26:46.241] [main/INFO] [optifine.OptiFineTransformationService/]: additionalClassesLocator: [optifine., net.optifine.]
-[28Nov2024 20:26:47.717] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
-[28Nov2024 20:26:47.980] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgeserver' with arguments []
-[28Nov2024 20:26:48.168] [main/WARN] [mixin/]: Reference map 'smallships-forge-refmap.json' for smallships.mixins.json could not be read. If this is a development environment you can ignore this message
-[28Nov2024 20:26:51.383] [main/INFO] [MixinExtras|Service/]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.3.5).
-[28Nov2024 20:26:54.344] [main/WARN] [mixin/]: @Inject(@At("INVOKE")) Shift.BY=1 on crittersandcompanions.mixins.json:LivingEntityMixin::handler$zdl000$onDie exceeds the maximum allowed value: 0. Increase the value of maxShiftBy to suppress this warning.
-[28Nov2024 20:26:57.250] [main/WARN] [mixin/]: Method overwrite conflict for setBlockState in the_bumblezone-common.mixins.json:blocks.FallingBlockEntityAccessor, previously written by com.github.alexmodguy.alexscaves.mixin.FallingBlockEntityMixin. Skipping method.
-[28Nov2024 20:27:08.961] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 47.2.0, for MC 1.20.1 with MCP 20230612.114412
-[28Nov2024 20:27:08.962] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v47.2.0 Initialized
-[28Nov2024 20:27:20.430] [modloading-worker-0/INFO] [terrablender/]: Registered region minecraft:overworld to index 0 for type OVERWORLD
-[28Nov2024 20:27:20.440] [modloading-worker-0/INFO] [terrablender/]: Registered region minecraft:nether to index 0 for type NETHER
-[28Nov2024 20:27:20.441] [modloading-worker-0/INFO] [terrablender/]: Registered region regions_unexplored:primary to index 1 for type OVERWORLD
-[28Nov2024 20:27:20.442] [modloading-worker-0/INFO] [terrablender/]: Registered region regions_unexplored:secondary to index 2 for type OVERWORLD
-[28Nov2024 20:27:20.442] [modloading-worker-0/INFO] [terrablender/]: Registered region regions_unexplored:nether to index 1 for type NETHER
-[28Nov2024 20:27:20.560] [modloading-worker-0/INFO] [net.twomoonsstudios.moonsweaponry.MoonsWeaponry/]: GREMLINS OF ALL KINDS ARISE!!! Weaponworks setting up!
-[28Nov2024 20:27:21.829] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [journeymap] Starting version check at https://forge.curseupdate.com/32274/journeymap
-[28Nov2024 20:27:21.877] [main/INFO] [journeymap/]: Initializing Packet Registries
-[28Nov2024 20:27:21.934] [main/INFO] [ribbits/]: Registering Ribbit umbrella types...
-[28Nov2024 20:27:21.936] [main/INFO] [ribbits/]: Registering Ribbit professions...
-[28Nov2024 20:27:21.938] [main/INFO] [ribbits/]: Registering Ribbit instruments...
-[28Nov2024 20:27:21.949] [main/INFO] [ribbits/]: Registering Ribbit data serializers...
-[28Nov2024 20:27:22.158] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [journeymap] Found status: OUTDATED Current: 5.10.1 Target: 5.10.3
-[28Nov2024 20:27:22.158] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [tombstone] Starting version check at https://raw.githubusercontent.com/Corail31/tombstone_lite/master/update.json
-[28Nov2024 20:27:22.191] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [tombstone] Found status: OUTDATED Current: 8.6.5 Target: 8.8.6
-[28Nov2024 20:27:22.198] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [smallships] Starting version check at https://raw.githubusercontent.com/talhanation/smallships/main/update.json
-[28Nov2024 20:27:22.207] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [smallships] Found status: UP_TO_DATE Current: 2.0.0-b1.4 Target: null
-[28Nov2024 20:27:22.207] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
-[28Nov2024 20:27:22.426] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: OUTDATED Current: 47.2.0 Target: 47.3.0
-[28Nov2024 20:27:22.427] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [twilightforest] Starting version check at https://gh.tamaized.com/TeamTwilight/twilightforest/update.json
-[28Nov2024 20:27:22.516] [Forge Version Check/WARN] [net.minecraftforge.fml.VersionChecker/]: Failed to process update information
+[05Dec2024 00:28:48.987] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgeserver, --fml.forgeVersion, 47.2.0, --fml.mcVersion, 1.20.1, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20230612.114412]
+[05Dec2024 00:28:48.992] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.0.9+10.0.9+main.dcd20f30 starting: java version 21.0.4 by Microsoft; OS Linux arch amd64 version 6.5.0-1025-azure
+[05Dec2024 00:28:53.484] [main/INFO] [net.minecraftforge.fml.loading.ImmediateWindowHandler/]: ImmediateWindowProvider not loading because launch target is forgeserver
+[05Dec2024 00:28:53.506] [main/INFO] [optifine.OptiFineTransformationService/]: OptiFineTransformationService.onLoad
+[05Dec2024 00:28:53.507] [main/INFO] [optifine.OptiFineTransformationService/]: OptiFine ZIP file URL: union:/workspaces/servidor/servidor_minecraft/mods/OptiFine_1.20.1_HD_U_I6.jar%23133!/
+[05Dec2024 00:28:53.513] [main/INFO] [optifine.OptiFineTransformationService/]: OptiFine ZIP file: /workspaces/servidor/servidor_minecraft/mods/OptiFine_1.20.1_HD_U_I6.jar
+[05Dec2024 00:28:53.516] [main/INFO] [optifine.OptiFineTransformer/]: Target.PRE_CLASS is available
+[05Dec2024 00:28:53.647] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/workspaces/servidor/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2365!/ Service=ModLauncher Env=SERVER
+[05Dec2024 00:28:53.660] [main/INFO] [optifine.OptiFineTransformationService/]: OptiFineTransformationService.initialize
+[05Dec2024 00:28:54.089] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/servidor/servidor_minecraft/libraries/net/minecraftforge/fmlcore/1.20.1-47.2.0/fmlcore-1.20.1-47.2.0.jar is missing mods.toml file
+[05Dec2024 00:28:54.090] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/servidor/servidor_minecraft/libraries/net/minecraftforge/javafmllanguage/1.20.1-47.2.0/javafmllanguage-1.20.1-47.2.0.jar is missing mods.toml file
+[05Dec2024 00:28:54.092] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/servidor/servidor_minecraft/libraries/net/minecraftforge/lowcodelanguage/1.20.1-47.2.0/lowcodelanguage-1.20.1-47.2.0.jar is missing mods.toml file
+[05Dec2024 00:28:54.093] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/servidor/servidor_minecraft/libraries/net/minecraftforge/mclanguage/1.20.1-47.2.0/mclanguage-1.20.1-47.2.0.jar is missing mods.toml file
+[05Dec2024 00:28:54.381] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: Found 4 dependencies adding them to mods collection
+[05Dec2024 00:28:55.204] [main/INFO] [optifine.OptiFineTransformationService/]: OptiFineTransformationService.transformers
+[05Dec2024 00:28:55.215] [main/INFO] [optifine.OptiFineTransformer/]: Targets: 412
+[05Dec2024 00:28:55.982] [main/INFO] [optifine.OptiFineTransformationService/]: additionalClassesLocator: [optifine., net.optifine.]
+[05Dec2024 00:28:57.014] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
+[05Dec2024 00:28:57.112] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgeserver' with arguments []
+[05Dec2024 00:28:57.206] [main/WARN] [mixin/]: Reference map 'smallships-forge-refmap.json' for smallships.mixins.json could not be read. If this is a development environment you can ignore this message
+[05Dec2024 00:28:59.436] [main/INFO] [MixinExtras|Service/]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.3.5).
+[05Dec2024 00:29:01.990] [main/WARN] [mixin/]: @Inject(@At("INVOKE")) Shift.BY=1 on crittersandcompanions.mixins.json:LivingEntityMixin::handler$zdl000$onDie exceeds the maximum allowed value: 0. Increase the value of maxShiftBy to suppress this warning.
+[05Dec2024 00:29:03.797] [main/WARN] [mixin/]: Method overwrite conflict for setBlockState in the_bumblezone-common.mixins.json:blocks.FallingBlockEntityAccessor, previously written by com.github.alexmodguy.alexscaves.mixin.FallingBlockEntityMixin. Skipping method.
+[05Dec2024 00:29:11.038] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 47.2.0, for MC 1.20.1 with MCP 20230612.114412
+[05Dec2024 00:29:11.041] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v47.2.0 Initialized
+[05Dec2024 00:29:18.762] [modloading-worker-0/INFO] [terrablender/]: Registered region minecraft:overworld to index 0 for type OVERWORLD
+[05Dec2024 00:29:18.764] [modloading-worker-0/INFO] [terrablender/]: Registered region minecraft:nether to index 0 for type NETHER
+[05Dec2024 00:29:18.765] [modloading-worker-0/INFO] [terrablender/]: Registered region regions_unexplored:primary to index 1 for type OVERWORLD
+[05Dec2024 00:29:18.765] [modloading-worker-0/INFO] [terrablender/]: Registered region regions_unexplored:secondary to index 2 for type OVERWORLD
+[05Dec2024 00:29:18.765] [modloading-worker-0/INFO] [terrablender/]: Registered region regions_unexplored:nether to index 1 for type NETHER
+[05Dec2024 00:29:18.816] [modloading-worker-0/INFO] [net.twomoonsstudios.moonsweaponry.MoonsWeaponry/]: GREMLINS OF ALL KINDS ARISE!!! Weaponworks setting up!
+[05Dec2024 00:29:19.284] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [journeymap] Starting version check at https://forge.curseupdate.com/32274/journeymap
+[05Dec2024 00:29:19.651] [main/INFO] [journeymap/]: Initializing Packet Registries
+[05Dec2024 00:29:19.676] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [journeymap] Found status: OUTDATED Current: 5.10.1 Target: 5.10.3
+[05Dec2024 00:29:19.677] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [tombstone] Starting version check at https://raw.githubusercontent.com/Corail31/tombstone_lite/master/update.json
+[05Dec2024 00:29:19.710] [main/INFO] [ribbits/]: Registering Ribbit umbrella types...
+[05Dec2024 00:29:19.711] [main/INFO] [ribbits/]: Registering Ribbit professions...
+[05Dec2024 00:29:19.711] [main/INFO] [ribbits/]: Registering Ribbit instruments...
+[05Dec2024 00:29:19.713] [main/INFO] [ribbits/]: Registering Ribbit data serializers...
+[05Dec2024 00:29:19.724] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [tombstone] Found status: OUTDATED Current: 8.6.5 Target: 8.8.6
+[05Dec2024 00:29:19.726] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [smallships] Starting version check at https://raw.githubusercontent.com/talhanation/smallships/main/update.json
+[05Dec2024 00:29:19.744] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [smallships] Found status: UP_TO_DATE Current: 2.0.0-b1.4 Target: null
+[05Dec2024 00:29:19.745] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
+[05Dec2024 00:29:19.906] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: OUTDATED Current: 47.2.0 Target: 47.3.0
+[05Dec2024 00:29:19.907] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [twilightforest] Starting version check at https://gh.tamaized.com/TeamTwilight/twilightforest/update.json
+[05Dec2024 00:29:20.062] [Forge Version Check/WARN] [net.minecraftforge.fml.VersionChecker/]: Failed to process update information
 com.google.gson.JsonSyntaxException: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING at line 1 column 1 path $
 	at com.google.gson.Gson.fromJson(Gson.java:1226) ~[gson-2.10.jar%2372!/:?]
 	at com.google.gson.Gson.fromJson(Gson.java:1124) ~[gson-2.10.jar%2372!/:?]
@@ -58,297 +58,123 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 	at com.google.gson.internal.bind.MapTypeAdapterFactory$Adapter.read(MapTypeAdapterFactory.java:144) ~[gson-2.10.jar%2372!/:?]
 	at com.google.gson.Gson.fromJson(Gson.java:1214) ~[gson-2.10.jar%2372!/:?]
 	... 6 more
-[28Nov2024 20:27:30.995] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[28Nov2024 20:27:37.837] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/servidor/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23167!/assets/.mcassetsroot' uses unexpected schema
-[28Nov2024 20:27:37.838] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/servidor/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23167!/data/.mcassetsroot' uses unexpected schema
-[28Nov2024 20:27:41.122] [main/INFO] [com.github.alexthe666.alexsmobs.AlexsMobs/]: Adding datapack listener capsid_recipes
-[28Nov2024 20:27:43.442] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/poison as it's serializer returned null
-[28Nov2024 20:27:43.514] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/frosted as it's serializer returned null
-[28Nov2024 20:27:43.539] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/hunger as it's serializer returned null
-[28Nov2024 20:27:43.561] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/resistance as it's serializer returned null
-[28Nov2024 20:27:43.749] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/blindness as it's serializer returned null
-[28Nov2024 20:27:43.752] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/regeneration as it's serializer returned null
-[28Nov2024 20:27:43.754] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/slowness as it's serializer returned null
-[28Nov2024 20:27:43.761] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/fire_resistance as it's serializer returned null
-[28Nov2024 20:27:43.768] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 12 recipes
-[28Nov2024 20:27:44.148] [main/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 3182 advancements
-[28Nov2024 20:27:44.170] [main/INFO] [top.theillusivec4.curios.Curios/]: Loaded 13 curio slots
-[28Nov2024 20:27:44.181] [main/INFO] [top.theillusivec4.curios.Curios/]: Loaded 1 curio entities
-[28Nov2024 20:27:44.207] [main/INFO] [twilightforest/]: Loaded 9 Stalactite configs!
-[28Nov2024 20:27:49.475] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.20.1
-[28Nov2024 20:27:49.476] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
-[28Nov2024 20:27:49.478] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
-[28Nov2024 20:27:49.479] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
-[28Nov2024 20:27:49.629] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
-[28Nov2024 20:27:49.682] [Server thread/INFO] [net.minecraft.server.network.ServerConnectionListener/]: Using epoll channel type
-[28Nov2024 20:27:49.864] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[28Nov2024 20:27:49.864] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: The server will make no attempt to authenticate usernames. Beware.
-[28Nov2024 20:27:49.865] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[28Nov2024 20:27:49.865] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: To change this, set "online-mode" to "true" in the server.properties file.
-[28Nov2024 20:27:49.962] [Server thread/INFO] [journeymap/]: Loading JourneyMap Forge Configs
-[28Nov2024 20:27:49.967] [Thread-1/INFO] [journeymap/]: Loading JourneyMap Forge Configs
-[28Nov2024 20:27:50.394] [Server thread/INFO] [terrablender/]: Initialized TerraBlender biomes for level stem minecraft:the_nether
-[28Nov2024 20:27:50.943] [Server thread/INFO] [terrablender/]: Initialized TerraBlender biomes for level stem minecraft:overworld
-[28Nov2024 20:27:50.945] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
-[28Nov2024 20:28:00.149] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
-[28Nov2024 20:28:12.166] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[28Nov2024 20:28:12.172] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[28Nov2024 20:28:12.174] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[28Nov2024 20:28:12.176] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[28Nov2024 20:28:12.178] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[28Nov2024 20:28:12.179] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[28Nov2024 20:28:12.181] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[28Nov2024 20:28:12.182] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[28Nov2024 20:28:12.184] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[28Nov2024 20:28:12.191] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[28Nov2024 20:28:12.193] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[28Nov2024 20:28:12.196] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[28Nov2024 20:28:12.198] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[28Nov2024 20:28:12.205] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[28Nov2024 20:28:12.206] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[28Nov2024 20:28:12.209] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[28Nov2024 20:28:12.210] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[28Nov2024 20:28:12.214] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[28Nov2024 20:28:12.218] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[28Nov2024 20:28:12.220] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[28Nov2024 20:28:12.224] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[28Nov2024 20:28:12.229] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[28Nov2024 20:28:12.231] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[28Nov2024 20:28:12.232] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[28Nov2024 20:28:12.235] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[28Nov2024 20:28:12.661] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[28Nov2024 20:28:13.151] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[28Nov2024 20:28:13.651] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[28Nov2024 20:28:14.150] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[28Nov2024 20:28:14.690] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[28Nov2024 20:28:15.220] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 15070 ms
-[28Nov2024 20:28:15.222] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (25.287s)! For help, type "help"
-[28Nov2024 20:28:15.297] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
-[28Nov2024 20:31:18.997] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: pablo[/[::1]:59134] logged in with entity id 800 at (-1251.1496581269603, -50.0, 2703.3483069072663)
-[28Nov2024 20:31:19.315] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pablo joined the game
-[28Nov2024 20:31:21.992] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3195ms or 63 ticks behind
-[28Nov2024 20:31:42.151] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5204ms or 104 ticks behind
-[28Nov2024 20:32:26.849] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
-[28Nov2024 20:32:30.302] [Server thread/INFO] [com.github.alexmodguy.alexscaves.AlexsCaves/]: Could not find alexscaves:forlorn_hollows after 14s
-[28Nov2024 20:33:09.984] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablo: Teleported pablo to 50000.500000, 60.000000, 50000.500000]
-[28Nov2024 20:33:09.986] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 23289ms or 465 ticks behind
-[28Nov2024 20:33:41.797] [Server thread/INFO] [com.github.alexmodguy.alexscaves.AlexsCaves/]: Could not find alexscaves:forlorn_hollows after 5s
-[28Nov2024 20:33:56.643] [Server thread/INFO] [com.github.alexmodguy.alexscaves.AlexsCaves/]: Could not find alexscaves:forlorn_hollows after 10s
-[28Nov2024 20:34:07.890] [Server thread/INFO] [com.github.alexmodguy.alexscaves.AlexsCaves/]: Could not find alexscaves:forlorn_hollows after 9s
-[28Nov2024 20:34:16.892] [Server thread/INFO] [com.github.alexmodguy.alexscaves.AlexsCaves/]: Could not find alexscaves:forlorn_hollows after 6s
-[28Nov2024 20:34:32.367] [Server thread/INFO] [com.github.alexmodguy.alexscaves.AlexsCaves/]: Could not find alexscaves:forlorn_hollows after 6s
-[28Nov2024 20:34:55.866] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablo: Gamerule keepInventory is now set to: true]
-[28Nov2024 20:34:59.134] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pablo was killed
-[28Nov2024 20:34:59.153] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablo: Killed pablo]
-[28Nov2024 20:34:59.374] [Server thread/INFO] [tombstone/]: The player pablo has successfully been saved
-[28Nov2024 20:35:06.922] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6076ms or 121 ticks behind
-[28Nov2024 20:35:27.634] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablo: Gamerule keepInventory is now set to: false]
-[28Nov2024 20:51:44.143] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablo: Set own game mode to Survival Mode]
-[28Nov2024 20:55:31.502] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: JonyDC[/[::1]:35286] logged in with entity id 3260 at (429.79164743629883, 64.0, -1127.2664185931167)
-[28Nov2024 20:55:31.540] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JonyDC joined the game
-[28Nov2024 20:55:33.434] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablo: Set own game mode to Creative Mode]
-[28Nov2024 20:55:33.703] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2006ms or 40 ticks behind
-[28Nov2024 20:55:57.464] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JonyDC lost connection: You logged in from another location
-[28Nov2024 20:55:57.466] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JonyDC left the game
-[28Nov2024 20:55:57.695] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
-[28Nov2024 20:55:57.707] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: JonyDC[/[::1]:52844] logged in with entity id 3930 at (429.79164743629883, 64.0, -1127.2664185931167)
-[28Nov2024 20:55:57.770] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JonyDC joined the game
-[28Nov2024 20:56:00.501] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2004ms or 40 ticks behind
-[28Nov2024 20:56:07.990] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablo: Teleported pablo to JonyDC]
-[28Nov2024 20:56:14.066] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablo: Set own game mode to Survival Mode]
-[28Nov2024 20:56:21.578] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablo: Set the weather to clear]
-[28Nov2024 20:57:01.632] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2035ms or 40 ticks behind
-[28Nov2024 20:58:06.368] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablo: Set own game mode to Creative Mode]
-[28Nov2024 21:00:25.270] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JonyDC lost connection: You logged in from another location
-[28Nov2024 21:00:25.271] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JonyDC left the game
-[28Nov2024 21:00:25.297] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: JonyDC[/[::1]:41342] logged in with entity id 5225 at (414.85237816842385, 63.0, -1131.6678902171002)
-[28Nov2024 21:00:25.336] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JonyDC joined the game
-[28Nov2024 21:00:53.661] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pablo has reached the goal [Magnetron No More]
-[28Nov2024 21:01:58.516] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity SigmaEntity['Sigma'/3982, l='ServerLevel[world]', x=484.70, y=-26.30, z=-1198.42] died: Sigma tried to swim in lava
-[28Nov2024 21:02:39.260] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity SigmaEntity['Sigma'/4160, l='ServerLevel[world]', x=452.46, y=9.00, z=-1197.36] died: Sigma burned to death
-[28Nov2024 21:04:12.390] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablo: Set the time to 1000]
-[28Nov2024 21:04:36.856] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity SigmaEntity['Sigma'/3940, l='ServerLevel[world]', x=483.51, y=-26.00, z=-1198.49] died: Sigma discovered the floor was lava
-[28Nov2024 21:04:52.102] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element #cataclysm:has_structure/ancient_factory_biomes (regions_unexplored:redstone_caves) took 6 ms
-[28Nov2024 21:05:06.972] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablo: Teleported pablo to 390.500000, 70.000000, -1228.500000]
-[28Nov2024 21:05:19.344] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablo: Set own game mode to Spectator Mode]
-[28Nov2024 21:05:42.317] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablo: Teleported pablo to 390.500000, 70.000000, -1228.500000]
-[28Nov2024 21:06:01.894] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablo: Teleported pablo to JonyDC]
-[28Nov2024 21:06:08.894] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablo: Set own game mode to Survival Mode]
-[28Nov2024 21:06:40.027] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity ChloeCatEntity['Chloe'/3319, l='ServerLevel[world]', x=419.99, y=64.00, z=-1121.29] died: Chloe was slain by JonyDC
-[28Nov2024 21:06:44.897] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity DuckleyEntity['Duckley'/3321, l='ServerLevel[world]', x=414.65, y=62.03, z=-1142.28] died: Duckley was slain by JonyDC
-[28Nov2024 21:07:07.340] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity SigmaEntity['Sigma'/3322, l='ServerLevel[world]', x=421.51, y=63.00, z=-1105.75] died: Sigma was slain by JonyDC
-[28Nov2024 21:07:38.160] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity JammerCatEntity['Jammer'/3320, l='ServerLevel[world]', x=404.66, y=80.00, z=-1128.30] died: Jammer was slain by JonyDC
-[28Nov2024 21:12:38.160] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JonyDC lost connection: You logged in from another location
-[28Nov2024 21:12:38.164] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JonyDC left the game
-[28Nov2024 21:12:38.205] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: JonyDC[/[::1]:34834] logged in with entity id 7432 at (343.7511768419039, 62.07326432466506, -1106.997298203348)
-[28Nov2024 21:12:38.252] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JonyDC joined the game
-[28Nov2024 21:13:14.878] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JonyDC lost connection: You logged in from another location
-[28Nov2024 21:13:14.879] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JonyDC left the game
-[28Nov2024 21:13:14.912] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: JonyDC[/[::1]:38234] logged in with entity id 7609 at (321.9408429494368, 62.07326432466506, -1070.128709646349)
-[28Nov2024 21:13:14.930] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JonyDC joined the game
-[28Nov2024 21:13:31.375] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity JasperEntity['Jasper'/3991, l='ServerLevel[world]', x=361.21, y=62.45, z=-1055.05] died: Jasper was slain by JonyDC
-[28Nov2024 21:14:06.720] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity SigmaEntity['Sigma'/4142, l='ServerLevel[world]', x=518.51, y=29.33, z=-1181.72] died: Sigma tried to swim in lava
-[28Nov2024 21:14:08.426] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablo: Set the time to 1000]
-[28Nov2024 21:14:15.024] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JonyDC lost connection: Timed out
-[28Nov2024 21:14:15.026] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JonyDC left the game
-[28Nov2024 21:14:39.330] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@5530d8a1[id=<null>,name=JonyDC,properties={},legacy=false] (/[::1]:38248) lost connection: Timed out
-[28Nov2024 21:15:10.195] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity SigmaEntity['Sigma'/3994, l='ServerLevel[world]', x=481.30, y=-25.50, z=-1198.52] died: Sigma tried to swim in lava
-[28Nov2024 21:15:11.068] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: Disconnecting com.mojang.authlib.GameProfile@562c954e[id=<null>,name=JonyDC,properties={},legacy=false] (/[::1]:46144): Took too long to log in
-[28Nov2024 21:15:11.071] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@562c954e[id=<null>,name=JonyDC,properties={},legacy=false] (/[::1]:46144) lost connection: Took too long to log in
-[28Nov2024 21:15:11.120] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
-[28Nov2024 21:15:23.348] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: JonyDC[/[::1]:33030] logged in with entity id 8529 at (401.72500278097885, 62.07326432466506, -985.120362056991)
-[28Nov2024 21:15:23.366] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JonyDC joined the game
-[28Nov2024 21:16:12.478] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element dungeons_arise:wishing_well took 2117 ms
-[28Nov2024 21:16:12.479] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2532ms or 50 ticks behind
-[28Nov2024 21:16:12.612] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of JonyDC) moved too quickly! -3.079193588258761,0.0,9.72907570250959
-[28Nov2024 21:16:12.616] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of JonyDC) moved too quickly! -3.2106447555514137,0.0,10.104382894153673
-[28Nov2024 21:16:12.618] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of JonyDC) moved too quickly! -3.3356040573668224,0.0,10.48160215394546
-[28Nov2024 21:16:12.620] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of JonyDC) moved too quickly! -3.4532719974324095,0.0,10.860759437097158
-[28Nov2024 21:16:12.622] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of JonyDC) moved too quickly! -3.563067110033728,0.0,11.241810992194587
-[28Nov2024 21:16:12.624] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of JonyDC) moved too quickly! -3.6645957701607017,0.0,11.624665266550096
-[28Nov2024 21:16:12.626] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of JonyDC) moved too quickly! -3.757616292422256,0.0,12.009200274086766
-[28Nov2024 21:16:12.628] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of JonyDC) moved too quickly! -3.8420211829869686,0.0,12.39527588112378
-[28Nov2024 21:16:12.629] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of JonyDC) moved too quickly! -3.917809175275238,0.0,12.782743511301533
-[28Nov2024 21:16:12.630] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of JonyDC) moved too quickly! -3.9850635542515533,0.0,13.171452879534286
-[28Nov2024 21:16:12.631] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of JonyDC) moved too quickly! -4.043936268193534,0.0,13.561256838121608
-[28Nov2024 21:16:12.633] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of JonyDC) moved too quickly! -4.094637321512664,0.0,13.952014888883127
-[28Nov2024 21:16:12.633] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of JonyDC) moved too quickly! -4.1374174831380515,0.0,14.343595133360168
-[28Nov2024 21:16:12.634] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of JonyDC) moved too quickly! -4.173256307883378,0.0,14.735928323622488
-[28Nov2024 21:16:12.635] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of JonyDC) moved too quickly! -4.203713262849988,0.0,15.128987582671584
-[28Nov2024 21:16:12.636] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of JonyDC) moved too quickly! -4.230802389106032,0.0,15.522739579347103
-[28Nov2024 21:16:13.130] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of JonyDC) moved too quickly! 2.3593086276069357,0.0,-11.53520818485049
-[28Nov2024 21:16:13.131] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of JonyDC) moved too quickly! 2.3593086276069357,0.0,-11.53520818485049
-[28Nov2024 21:16:13.132] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of JonyDC) moved too quickly! 2.3593086276069357,0.0,-11.53520818485049
-[28Nov2024 21:16:13.132] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of JonyDC) moved too quickly! 2.3593086276069357,0.0,-11.53520818485049
-[28Nov2024 21:16:13.133] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of JonyDC) moved too quickly! 2.3593086276069357,0.0,-11.53520818485049
-[28Nov2024 21:16:13.134] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of JonyDC) moved too quickly! 2.3593086276069357,0.0,-11.53520818485049
-[28Nov2024 21:16:13.135] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of JonyDC) moved too quickly! 2.3593086276069357,0.0,-11.53520818485049
-[28Nov2024 21:16:13.135] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of JonyDC) moved too quickly! 2.3593086276069357,0.0,-11.53520818485049
-[28Nov2024 21:16:13.135] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of JonyDC) moved too quickly! 2.3593086276069357,0.0,-11.53520818485049
-[28Nov2024 21:16:13.136] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of JonyDC) moved too quickly! 2.3593086276069357,0.0,-11.53520818485049
-[28Nov2024 21:16:13.136] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of JonyDC) moved too quickly! 2.3593086276069357,0.0,-11.53520818485049
-[28Nov2024 21:16:13.136] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of JonyDC) moved too quickly! 2.3593086276069357,0.0,-11.53520818485049
-[28Nov2024 21:16:13.137] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of JonyDC) moved too quickly! 2.3593086276069357,0.0,-11.53520818485049
-[28Nov2024 21:16:13.137] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of JonyDC) moved too quickly! 2.3593086276069357,0.0,-11.53520818485049
-[28Nov2024 21:16:13.138] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of JonyDC) moved too quickly! 2.3593086276069357,0.0,-11.53520818485049
-[28Nov2024 21:16:13.138] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of JonyDC) moved too quickly! 2.3593086276069357,0.0,-11.53520818485049
-[28Nov2024 21:16:13.151] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of JonyDC) moved too quickly! 2.2081937668191927,0.0,-11.175986636754601
-[28Nov2024 21:16:13.204] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of JonyDC) moved too quickly! 2.2127192332361005,0.0,-11.171941932891514
-[28Nov2024 21:16:13.305] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of JonyDC) moved too quickly! 2.0644582141485444,0.0,-10.80950904408735
-[28Nov2024 21:16:13.307] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of JonyDC) moved too quickly! 1.9166274991541172,0.0,-10.445999740463776
-[28Nov2024 21:16:13.385] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of JonyDC) moved too quickly! 1.768723611952339,0.0,-10.081702556174832
-[28Nov2024 21:16:32.265] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablo: Teleported pablo to 3458.500000, 90.000000, -3807.500000]
-[28Nov2024 21:16:32.397] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of JonyDC) moved too quickly! -3.700183256213734,0.0,9.719420079992346
-[28Nov2024 21:16:32.398] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of JonyDC) moved too quickly! -3.83996772078342,0.0,10.094148558068014
-[28Nov2024 21:16:32.400] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of JonyDC) moved too quickly! -3.976947667445188,0.0,10.469811769642092
-[28Nov2024 21:16:32.401] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of JonyDC) moved too quickly! -4.110368606532461,0.0,10.846602332461543
-[28Nov2024 21:16:32.403] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of JonyDC) moved too quickly! -4.239648724646031,0.0,11.22464115413186
-[28Nov2024 21:16:32.404] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of JonyDC) moved too quickly! -4.364352802986616,0.0,11.603994422998312
-[28Nov2024 21:16:32.406] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of JonyDC) moved too quickly! -4.484171810699422,0.0,11.984686553005417
-[28Nov2024 21:16:32.409] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of JonyDC) moved too quickly! -4.598900282741283,0.0,12.366711349782804
-[28Nov2024 21:16:32.410] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of JonyDC) moved too quickly! -4.70911148283551,0.0,12.749924262717286
-[28Nov2024 21:16:32.410] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of JonyDC) moved too quickly! -4.81599982938792,0.0,13.134068093080828
-[28Nov2024 21:16:32.411] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of JonyDC) moved too quickly! -4.92056256423399,0.0,13.518913466813387
-[28Nov2024 21:16:32.412] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of JonyDC) moved too quickly! -5.0236275350883375,0.0,13.904258201547805
-[28Nov2024 21:16:32.414] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of JonyDC) moved too quickly! -5.125881852395821,0.0,14.289924967419665
-[28Nov2024 21:16:32.548] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of JonyDC) moved too quickly! -2.532698733978407,0.0,10.014412511561545
-[28Nov2024 21:16:32.678] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of JonyDC) moved too quickly! 0.4815625173246758,0.0,10.28980155093825
-[28Nov2024 21:16:32.682] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of JonyDC) moved too quickly! 0.49737554382750204,0.0,10.6885573715075
-[28Nov2024 21:16:32.685] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of JonyDC) moved too quickly! 0.5118603724316699,0.0,11.087436776329582
-[28Nov2024 21:16:32.686] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of JonyDC) moved too quickly! 0.5250654552033893,0.0,11.486427857736317
-[28Nov2024 21:16:32.686] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of JonyDC) moved too quickly! 0.5370459030904726,0.0,11.885519697661039
-[28Nov2024 21:16:32.687] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of JonyDC) moved too quickly! 0.5478551505633504,0.0,12.284702332008237
-[28Nov2024 21:16:32.688] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of JonyDC) moved too quickly! 0.5575527934211664,0.0,12.683966681333573
-[28Nov2024 21:16:32.690] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of JonyDC) moved too quickly! 0.5661963028788932,0.0,13.083304495906077
-[28Nov2024 21:16:32.690] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of JonyDC) moved too quickly! 0.5738412381167564,0.0,13.482708295088855
-[28Nov2024 21:16:32.691] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of JonyDC) moved too quickly! 0.5805414375165014,0.0,13.882171297880177
-[28Nov2024 21:16:32.692] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of JonyDC) moved too quickly! 0.5863530256584681,0.0,14.281687390202592
-[28Nov2024 21:16:32.693] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of JonyDC) moved too quickly! 0.591326514852824,0.0,14.681251039584367
-[28Nov2024 21:16:32.694] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of JonyDC) moved too quickly! 0.5955150361136248,0.0,15.080857277976861
-[28Nov2024 21:16:32.695] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of JonyDC) moved too quickly! 0.5989664074978123,0.0,15.48050161550998
-[28Nov2024 21:16:32.696] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of JonyDC) moved too quickly! 0.6017275002672591,0.0,15.880180018751275
-[28Nov2024 21:16:32.697] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of JonyDC) moved too quickly! 0.6038443335390866,0.0,16.27988887623826
-[28Nov2024 21:16:32.701] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of JonyDC) moved too quickly! 0.6060524417354713,0.0,16.679625660360898
-[28Nov2024 21:16:32.703] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of JonyDC) moved too quickly! 0.6096499836838802,0.0,17.079356174257782
-[28Nov2024 21:16:32.773] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of JonyDC) moved too quickly! 0.366738262459819,0.0,10.366174266996609
-[28Nov2024 21:16:32.779] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of JonyDC) moved too quickly! 0.42421733424419017,0.0,10.759052713719939
-[28Nov2024 21:16:32.781] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of JonyDC) moved too quickly! 0.4864283826332212,0.0,11.15124504759865
-[28Nov2024 21:16:32.784] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of JonyDC) moved too quickly! 0.5524905261905246,0.0,11.542928289606607
-[28Nov2024 21:16:32.787] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of JonyDC) moved too quickly! 0.6216545007301875,0.0,11.934246309837135
-[28Nov2024 21:16:32.788] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of JonyDC) moved too quickly! 0.69327866723836,0.0,12.325317087674307
-[28Nov2024 21:16:32.789] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of JonyDC) moved too quickly! 0.7668184859094254,0.0,12.71623614650548
-[28Nov2024 21:16:32.791] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of JonyDC) moved too quickly! 0.8418132653343946,0.0,13.10708041982275
-[28Nov2024 21:16:32.797] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of JonyDC) moved too quickly! 0.9178741883420116,0.0,13.497911548175011
-[28Nov2024 21:16:32.801] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of JonyDC) moved too quickly! 0.9946772419200443,0.0,13.888777892750113
-[28Nov2024 21:16:32.802] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of JonyDC) moved too quickly! 1.0719493290579294,0.0,14.279717867518002
-[28Nov2024 21:16:32.803] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of JonyDC) moved too quickly! 1.149467002087306,0.0,14.670760449664385
-[28Nov2024 21:16:32.804] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of JonyDC) moved too quickly! 1.2270440406466605,0.0,15.061927926310318
-[28Nov2024 21:16:32.805] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of JonyDC) moved too quickly! 1.3045315347995938,0.0,15.453236019626274
-[28Nov2024 21:16:32.970] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of JonyDC) moved too quickly! 0.5813141237653667,0.0,-35.74789393015271
-[28Nov2024 21:16:32.970] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of JonyDC) moved too quickly! 0.5813141237653667,0.0,-35.74789393015271
-[28Nov2024 21:16:32.971] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of JonyDC) moved too quickly! 0.5813141237653667,0.0,-35.74789393015271
-[28Nov2024 21:16:32.971] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of JonyDC) moved too quickly! 0.5813141237653667,0.0,-35.74789393015271
-[28Nov2024 21:16:32.972] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of JonyDC) moved too quickly! 0.5813141237653667,0.0,-35.74789393015271
-[28Nov2024 21:16:32.972] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of JonyDC) moved too quickly! 0.5813141237653667,0.0,-35.74789393015271
-[28Nov2024 21:16:32.973] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of JonyDC) moved too quickly! 0.5813141237653667,0.0,-35.74789393015271
-[28Nov2024 21:16:32.973] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of JonyDC) moved too quickly! 0.5813141237653667,0.0,-35.74789393015271
-[28Nov2024 21:16:32.973] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of JonyDC) moved too quickly! 0.5813141237653667,0.0,-35.74789393015271
-[28Nov2024 21:16:32.974] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of JonyDC) moved too quickly! 0.5813141237653667,0.0,-35.74789393015271
-[28Nov2024 21:16:32.974] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of JonyDC) moved too quickly! 0.5813141237653667,0.0,-35.74789393015271
-[28Nov2024 21:16:32.974] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of JonyDC) moved too quickly! 0.5813141237653667,0.0,-35.74789393015271
-[28Nov2024 21:16:32.976] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of JonyDC) moved too quickly! 0.5813141237653667,0.0,-35.74789393015271
-[28Nov2024 21:16:33.012] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of JonyDC) moved too quickly! 0.6359323471066887,0.0,-35.357941645566825
-[28Nov2024 21:16:33.074] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of JonyDC) moved too quickly! 0.5940981915305201,0.0,-35.36144522242512
-[28Nov2024 21:16:33.109] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of JonyDC) moved too quickly! 0.6109118194986536,0.0,-34.97470549707725
-[28Nov2024 21:16:33.171] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of JonyDC) moved too quickly! 0.6115088425087833,0.0,-34.589374128633835
-[28Nov2024 21:16:33.211] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of JonyDC) moved too quickly! 0.5974537745588577,0.0,-34.20533262566198
-[28Nov2024 21:16:33.324] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of JonyDC) moved too quickly! 0.5701582796341427,0.0,-33.822473023396924
-[28Nov2024 21:16:33.329] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of JonyDC) moved too quickly! 0.5309000199521847,0.0,-33.44069541546469
-[28Nov2024 21:16:33.349] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of JonyDC) moved too quickly! 0.48083247986431843,0.0,-33.0599085301252
-[28Nov2024 21:16:33.445] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of JonyDC) moved too quickly! 0.42099737712578644,0.0,-32.68002885563317
-[28Nov2024 21:16:33.469] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of JonyDC) moved too quickly! 0.35233583862680007,0.0,-32.30097985306236
-[28Nov2024 21:16:33.492] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of JonyDC) moved too quickly! -1.999755527298305,0.0,-26.519275995903968
-[28Nov2024 21:16:33.535] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of JonyDC) moved too quickly! -2.0571496451324833,0.0,-26.138375202230918
-[28Nov2024 21:16:33.536] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of JonyDC) moved too quickly! -1.5353795494386873,0.0,-16.628093727866712
-[28Nov2024 21:16:33.537] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of JonyDC) moved too quickly! -1.5353795494386873,0.0,-16.628093727866712
-[28Nov2024 21:16:33.538] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of JonyDC) moved too quickly! -1.5353795494386873,0.0,-16.628093727866712
-[28Nov2024 21:16:33.538] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of JonyDC) moved too quickly! -1.5353795494386873,0.0,-16.628093727866712
-[28Nov2024 21:16:33.539] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of JonyDC) moved too quickly! -1.5353795494386873,0.0,-16.628093727866712
-[28Nov2024 21:16:33.540] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of JonyDC) moved too quickly! -1.5353795494386873,0.0,-16.628093727866712
-[28Nov2024 21:16:33.540] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of JonyDC) moved too quickly! -1.5353795494386873,0.0,-16.628093727866712
-[28Nov2024 21:16:33.541] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of JonyDC) moved too quickly! -1.5353795494386873,0.0,-16.628093727866712
-[28Nov2024 21:16:33.541] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of JonyDC) moved too quickly! -1.5353795494386873,0.0,-16.628093727866712
-[28Nov2024 21:16:33.542] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of JonyDC) moved too quickly! -1.5353795494386873,0.0,-16.628093727866712
-[28Nov2024 21:16:33.544] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of JonyDC) moved too quickly! -1.5353795494386873,0.0,-16.628093727866712
-[28Nov2024 21:16:33.549] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of JonyDC) moved too quickly! -1.5353795494386873,0.0,-16.628093727866712
-[28Nov2024 21:16:33.550] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of JonyDC) moved too quickly! -1.5353795494386873,0.0,-16.628093727866712
-[28Nov2024 21:16:33.550] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of JonyDC) moved too quickly! -1.5353795494386873,0.0,-16.628093727866712
-[28Nov2024 21:16:33.551] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of JonyDC) moved too quickly! -1.5353795494386873,0.0,-16.628093727866712
-[28Nov2024 21:16:33.551] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of JonyDC) moved too quickly! -1.5353795494386873,0.0,-16.628093727866712
-[28Nov2024 21:16:33.552] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of JonyDC) moved too quickly! -1.5353795494386873,0.0,-16.628093727866712
-[28Nov2024 21:16:33.552] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of JonyDC) moved too quickly! -1.5353795494386873,0.0,-16.628093727866712
-[28Nov2024 21:16:34.334] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6888ms or 137 ticks behind
-[28Nov2024 21:16:38.650] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablo: Set own game mode to Creative Mode]
-[28Nov2024 21:16:57.083] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablo: Set own game mode to Survival Mode]
-[28Nov2024 21:17:11.371] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablo: Teleported JonyDC to pablo]
-[28Nov2024 21:17:31.726] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablo: The difficulty has been set to Hard]
-[28Nov2024 21:18:38.960] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JonyDC lost connection: Timed out
-[28Nov2024 21:18:38.961] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JonyDC left the game
-[28Nov2024 21:18:43.174] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
-[28Nov2024 21:18:43.200] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
-[28Nov2024 21:18:43.201] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
-[28Nov2024 21:18:43.218] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: pablo lost connection: Server closed
-[28Nov2024 21:18:43.219] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pablo left the game
-[28Nov2024 21:18:43.237] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
-[28Nov2024 21:18:46.001] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[28Nov2024 21:18:48.041] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[28Nov2024 21:18:48.043] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
-[28Nov2024 21:18:48.048] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/the_bumblezone:the_bumblezone
-[28Nov2024 21:18:48.053] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/twilightforest:twilight_forest
-[28Nov2024 21:18:48.168] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[28Nov2024 21:18:48.169] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[28Nov2024 21:18:48.169] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[28Nov2024 21:18:48.176] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (the_bumblezone): All chunks are saved
-[28Nov2024 21:18:48.177] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (twilight_forest): All chunks are saved
-[28Nov2024 21:18:48.178] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
-[28Nov2024 21:18:48.338] [Server thread/INFO] [journeymap/]: Loading JourneyMap Forge Configs
+[05Dec2024 00:29:25.547] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[05Dec2024 00:29:30.166] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/servidor/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23167!/assets/.mcassetsroot' uses unexpected schema
+[05Dec2024 00:29:30.168] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/servidor/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23167!/data/.mcassetsroot' uses unexpected schema
+[05Dec2024 00:29:32.459] [main/INFO] [com.github.alexthe666.alexsmobs.AlexsMobs/]: Adding datapack listener capsid_recipes
+[05Dec2024 00:29:33.748] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/poison as it's serializer returned null
+[05Dec2024 00:29:33.781] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/frosted as it's serializer returned null
+[05Dec2024 00:29:33.786] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/hunger as it's serializer returned null
+[05Dec2024 00:29:33.793] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/resistance as it's serializer returned null
+[05Dec2024 00:29:33.829] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/blindness as it's serializer returned null
+[05Dec2024 00:29:33.833] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/regeneration as it's serializer returned null
+[05Dec2024 00:29:33.835] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/slowness as it's serializer returned null
+[05Dec2024 00:29:33.844] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/fire_resistance as it's serializer returned null
+[05Dec2024 00:29:33.847] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 12 recipes
+[05Dec2024 00:29:34.050] [main/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 3182 advancements
+[05Dec2024 00:29:34.067] [main/INFO] [top.theillusivec4.curios.Curios/]: Loaded 13 curio slots
+[05Dec2024 00:29:34.074] [main/INFO] [top.theillusivec4.curios.Curios/]: Loaded 1 curio entities
+[05Dec2024 00:29:34.084] [main/INFO] [twilightforest/]: Loaded 9 Stalactite configs!
+[05Dec2024 00:29:38.166] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.20.1
+[05Dec2024 00:29:38.166] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
+[05Dec2024 00:29:38.167] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
+[05Dec2024 00:29:38.168] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
+[05Dec2024 00:29:38.399] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
+[05Dec2024 00:29:38.422] [Server thread/INFO] [net.minecraft.server.network.ServerConnectionListener/]: Using epoll channel type
+[05Dec2024 00:29:38.547] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[05Dec2024 00:29:38.547] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: The server will make no attempt to authenticate usernames. Beware.
+[05Dec2024 00:29:38.548] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[05Dec2024 00:29:38.548] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: To change this, set "online-mode" to "true" in the server.properties file.
+[05Dec2024 00:29:38.579] [Server thread/INFO] [journeymap/]: Loading JourneyMap Forge Configs
+[05Dec2024 00:29:38.580] [Thread-1/INFO] [journeymap/]: Loading JourneyMap Forge Configs
+[05Dec2024 00:29:39.371] [Server thread/INFO] [terrablender/]: Initialized TerraBlender biomes for level stem minecraft:overworld
+[05Dec2024 00:29:39.374] [Server thread/INFO] [terrablender/]: Initialized TerraBlender biomes for level stem minecraft:the_nether
+[05Dec2024 00:29:39.378] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
+[05Dec2024 00:29:43.662] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
+[05Dec2024 00:29:46.533] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[05Dec2024 00:29:46.534] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[05Dec2024 00:29:46.546] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[05Dec2024 00:29:46.548] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[05Dec2024 00:29:46.549] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[05Dec2024 00:29:46.550] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[05Dec2024 00:29:46.668] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[05Dec2024 00:29:47.167] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[05Dec2024 00:29:49.613] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[05Dec2024 00:29:49.622] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[05Dec2024 00:29:49.630] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[05Dec2024 00:29:49.634] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[05Dec2024 00:29:49.672] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[05Dec2024 00:29:50.365] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[05Dec2024 00:29:50.671] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[05Dec2024 00:29:51.166] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[05Dec2024 00:29:51.680] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[05Dec2024 00:29:52.886] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[05Dec2024 00:29:52.887] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[05Dec2024 00:29:53.164] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 14%
+[05Dec2024 00:29:53.664] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 92%
+[05Dec2024 00:29:53.702] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 10039 ms
+[05Dec2024 00:29:53.703] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (15.136s)! For help, type "help"
+[05Dec2024 00:29:53.760] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
+[05Dec2024 00:32:04.144] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: pablo[/[::1]:36316] logged in with entity id 800 at (3467.2097033531395, 72.0, -3800.68051802679)
+[05Dec2024 00:32:04.307] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pablo joined the game
+[05Dec2024 00:32:24.804] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablo: The difficulty has been set to Hard]
+[05Dec2024 00:32:50.371] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Fakkus55[/[::1]:51472] logged in with entity id 1095 at (39.11716188271803, 94.0, -1049.8963649290015)
+[05Dec2024 00:32:50.386] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Fakkus55 joined the game
+[05Dec2024 00:34:45.566] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablo: Set own game mode to Creative Mode]
+[05Dec2024 00:35:05.182] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablo: Set own game mode to Survival Mode]
+[05Dec2024 00:35:17.233] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablo: Set own game mode to Spectator Mode]
+[05Dec2024 00:35:39.569] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablo: Set own game mode to Survival Mode]
+[05Dec2024 00:35:50.409] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablo: Set the time to 1000]
+[05Dec2024 00:36:02.695] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity SigmaEntity['Sigma'/1159, l='ServerLevel[world]', x=75.50, y=14.00, z=-1095.45] died: Sigma was eaten by a Dusktrap
+[05Dec2024 00:36:15.394] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity SigmaEntity['Sigma'/1527, l='ServerLevel[world]', x=53.72, y=24.00, z=-971.31] died: Sigma was eaten by a Dusktrap
+[05Dec2024 00:37:21.046] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity SigmaEntity['Sigma'/1376, l='ServerLevel[world]', x=142.37, y=11.00, z=-1036.37] died: Sigma was eaten by a Dusktrap
+[05Dec2024 00:38:33.492] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity SigmaEntity['Sigma'/1286, l='ServerLevel[world]', x=145.50, y=-7.00, z=-1128.64] died: Sigma was eaten by a Dusktrap
+[05Dec2024 00:39:13.316] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablo: Set own game mode to Creative Mode]
+[05Dec2024 00:39:33.524] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity SigmaEntity['Sigma'/1152, l='ServerLevel[world]', x=39.25, y=50.00, z=-1076.75] died: Sigma was eaten by a Dusktrap
+[05Dec2024 00:39:35.618] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablo: Set own game mode to Survival Mode]
+[05Dec2024 00:39:43.968] [Server thread/INFO] [com.github.alexmodguy.alexscaves.AlexsCaves/]: Could not find alexscaves:forlorn_hollows after 7s
+[05Dec2024 00:40:13.469] [Server thread/INFO] [com.github.alexmodguy.alexscaves.AlexsCaves/]: Could not find alexscaves:forlorn_hollows after 8s
+[05Dec2024 00:40:15.379] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity SigmaEntity['Sigma'/1230, l='ServerLevel[world]', x=49.66, y=41.67, z=-983.30] died: Sigma was eaten by a Dusktrap
+[05Dec2024 00:40:31.857] [Server thread/INFO] [com.github.alexmodguy.alexscaves.AlexsCaves/]: Could not find alexscaves:forlorn_hollows after 7s
+[05Dec2024 00:40:45.603] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity SigmaEntity['Sigma'/2423, l='ServerLevel[world]', x=45.61, y=21.67, z=-1011.32] died: Sigma was eaten by a Dusktrap
+[05Dec2024 00:40:51.180] [Server thread/INFO] [com.github.alexmodguy.alexscaves.AlexsCaves/]: Could not find alexscaves:forlorn_hollows after 7s
+[05Dec2024 00:41:02.691] [Server thread/INFO] [com.github.alexmodguy.alexscaves.AlexsCaves/]: Could not find alexscaves:forlorn_hollows after 7s
+[05Dec2024 00:41:08.030] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity SigmaEntity['Sigma'/1244, l='ServerLevel[world]', x=42.85, y=41.00, z=-980.85] died: Sigma was eaten by a Dusktrap
+[05Dec2024 00:41:45.926] [Server thread/INFO] [com.github.alexmodguy.alexscaves.AlexsCaves/]: Could not find alexscaves:forlorn_hollows after 4s
+[05Dec2024 00:42:03.423] [Server thread/INFO] [com.github.alexmodguy.alexscaves.AlexsCaves/]: Could not find alexscaves:forlorn_hollows after 5s
+[05Dec2024 00:42:11.773] [Server thread/INFO] [com.github.alexmodguy.alexscaves.AlexsCaves/]: Could not find alexscaves:forlorn_hollows after 7s
+[05Dec2024 00:42:27.258] [Server thread/INFO] [com.github.alexmodguy.alexscaves.AlexsCaves/]: Could not find alexscaves:forlorn_hollows after 6s
+[05Dec2024 00:42:36.068] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pablo has made the advancement [Mine? Mine? Mine?]
+[05Dec2024 00:43:03.188] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Fakkus55 was blown up by Creeper
+[05Dec2024 00:43:03.224] [Server thread/INFO] [tombstone/]: The player Fakkus55 has successfully been saved
+[05Dec2024 00:43:32.164] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3829ms or 76 ticks behind
+[05Dec2024 00:43:48.736] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pablo fell from a high place
+[05Dec2024 00:43:48.745] [Server thread/INFO] [tombstone/]: The player pablo has successfully been saved
+[05Dec2024 00:43:52.398] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2163ms or 43 ticks behind
+[05Dec2024 00:44:17.085] [Server thread/INFO] [com.github.alexmodguy.alexscaves.AlexsCaves/]: Could not find alexscaves:forlorn_hollows after 4s
+[05Dec2024 00:44:29.682] [Server thread/INFO] [com.github.alexmodguy.alexscaves.AlexsCaves/]: Could not find alexscaves:forlorn_hollows after 4s
+[05Dec2024 00:44:37.315] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pablo was blown up by Creeper
+[05Dec2024 00:44:37.331] [Server thread/INFO] [tombstone/]: The player pablo has successfully been saved
+[05Dec2024 00:45:40.043] [Server thread/INFO] [com.github.alexmodguy.alexscaves.AlexsCaves/]: Could not find alexscaves:forlorn_hollows after 4s
+[05Dec2024 00:45:57.142] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity SigmaEntity['Sigma'/8574, l='ServerLevel[world]', x=73.99, y=18.00, z=-1067.70] died: Sigma was eaten by a Dusktrap
+[05Dec2024 00:46:00.666] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablo: Set the weather to clear]
+[05Dec2024 00:46:09.861] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablo: Set the time to 1000]
+[05Dec2024 00:46:48.510] [Server thread/INFO] [com.github.alexmodguy.alexscaves.AlexsCaves/]: Could not find alexscaves:forlorn_hollows after 5s
+[05Dec2024 00:47:10.047] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity SigmaEntity['Sigma'/8644, l='ServerLevel[world]', x=49.68, y=41.97, z=-983.28] died: Sigma was eaten by a Dusktrap
+[05Dec2024 00:47:26.251] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity SigmaEntity['Sigma'/12080, l='ServerLevel[world]', x=159.90, y=-5.00, z=-1129.32] died: Sigma was eaten by a Dusktrap
+[05Dec2024 00:47:42.041] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity SigmaEntity['Sigma'/8513, l='ServerLevel[world]', x=40.04, y=50.00, z=-1075.00] died: Sigma was eaten by a Dusktrap
+[05Dec2024 00:48:26.940] [Server thread/INFO] [com.github.alexmodguy.alexscaves.AlexsCaves/]: Could not find alexscaves:forlorn_hollows after 4s
+[05Dec2024 00:49:16.422] [Server thread/INFO] [com.github.alexmodguy.alexscaves.AlexsCaves/]: Could not find alexscaves:forlorn_hollows after 5s
+[05Dec2024 00:49:55.270] [Server thread/INFO] [com.github.alexmodguy.alexscaves.AlexsCaves/]: Could not find alexscaves:forlorn_hollows after 4s
+[05Dec2024 00:50:51.158] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablo: Teleported Fakkus55 to pablo]
+[05Dec2024 00:51:47.929] [Server thread/INFO] [com.github.alexmodguy.alexscaves.AlexsCaves/]: Could not find alexscaves:forlorn_hollows after 2s
+[05Dec2024 00:52:31.685] [Server thread/INFO] [com.github.alexmodguy.alexscaves.AlexsCaves/]: Could not find alexscaves:forlorn_hollows after 2s
+[05Dec2024 00:52:46.229] [Server thread/INFO] [com.github.alexmodguy.alexscaves.AlexsCaves/]: Could not find alexscaves:forlorn_hollows after 2s
+[05Dec2024 00:52:56.618] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pablo fell from a high place
+[05Dec2024 00:52:56.621] [Server thread/INFO] [tombstone/]: The player pablo has successfully been saved
+[05Dec2024 00:53:32.918] [Server thread/INFO] [com.github.alexmodguy.alexscaves.AlexsCaves/]: Could not find alexscaves:forlorn_hollows after 2s
+[05Dec2024 00:55:46.487] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: kamicha19[/[::1]:38792] logged in with entity id 20005 at (707.6707430648562, -45.0, -1582.55091054842)
+[05Dec2024 00:55:46.503] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kamicha19 joined the game
+[05Dec2024 00:56:09.623] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablo: Teleported kamicha19 to pablo]
+[05Dec2024 00:57:01.373] [Server thread/INFO] [com.github.alexmodguy.alexscaves.AlexsCaves/]: Could not find alexscaves:forlorn_hollows after 2s
+[05Dec2024 00:58:45.923] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablo: Teleported Fakkus55 to pablo]
