@@ -1159,6 +1159,7 @@
       "bread": "2024-11-18 00:50:23 +0000",
       "rotten_flesh": "2024-11-15 19:07:10 +0000",
       "glow_berries": "2024-11-17 22:25:33 +0000",
+      "golden_carrot": "2024-12-05 01:00:30 +0000",
       "cooked_chicken": "2024-11-18 02:46:57 +0000",
       "cooked_salmon": "2024-11-15 04:25:01 +0000"
     },
@@ -4115,6 +4116,12 @@
   "dungeons_arise:find_fishing_hut": {
     "criteria": {
       "location0": "2024-12-05 00:51:01 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/seagull_steal": {
+    "criteria": {
+      "ex": "2024-12-05 01:02:49 +0000"
     },
     "done": true
   },

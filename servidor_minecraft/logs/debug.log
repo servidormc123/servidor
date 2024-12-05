@@ -3027,3 +3027,43 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [05Dec2024 00:56:09.623] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablo: Teleported kamicha19 to pablo]
 [05Dec2024 00:57:01.373] [Server thread/INFO] [com.github.alexmodguy.alexscaves.AlexsCaves/]: Could not find alexscaves:forlorn_hollows after 2s
 [05Dec2024 00:58:45.923] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablo: Teleported Fakkus55 to pablo]
+[05Dec2024 00:59:04.802] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <kamicha19> no puedo
+[05Dec2024 00:59:07.059] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <kamicha19> habalar tengo
+[05Dec2024 00:59:08.853] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <kamicha19> la boca llena
+[05Dec2024 00:59:10.170] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <kamicha19> NOOO
+[05Dec2024 00:59:59.778] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[05Dec2024 00:59:59.786] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[05Dec2024 01:01:16.750] [Server thread/INFO] [com.github.alexmodguy.alexscaves.AlexsCaves/]: Could not find alexscaves:forlorn_hollows after 2s
+[05Dec2024 01:01:33.665] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablo: Set own game mode to Spectator Mode]
+[05Dec2024 01:02:02.243] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablo: Set own game mode to Survival Mode]
+[05Dec2024 01:02:19.612] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablo: Teleported 3 entities to pablo]
+[05Dec2024 01:02:49.037] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Fakkus55 has made the advancement [Mine? Mine? Mine?]
+[05Dec2024 01:03:08.149] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Fakkus55 was blown up by Creeper
+[05Dec2024 01:03:08.150] [Server thread/DEBUG] [tombstone/]: A new grave of the player Fakkus55 was created at position [x:2835, y:73, z:-4372, dim:minecraft:overworld]
+[05Dec2024 01:03:08.158] [Server thread/INFO] [tombstone/]: The player Fakkus55 has successfully been saved
+[05Dec2024 01:03:17.349] [Server thread/DEBUG] [twilightforest/]: Player Fakkus55 (a7a46a8f-fdbd-3211-9180-db924c97c95f) respawned and received items held in storage
+[05Dec2024 01:03:22.037] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablo: Teleported Fakkus55 to pablo]
+[05Dec2024 01:03:45.282] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablo: Set own game mode to Creative Mode]
+[05Dec2024 01:03:49.533] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablo: Set own game mode to Survival Mode]
+[05Dec2024 01:03:54.622] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablo: Set own game mode to Spectator Mode]
+[05Dec2024 01:04:08.027] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kamicha19 was blown up by Creeper
+[05Dec2024 01:04:08.028] [Server thread/DEBUG] [tombstone/]: A new grave of the player kamicha19 was created at position [x:2793, y:71, z:-4327, dim:minecraft:overworld]
+[05Dec2024 01:04:08.042] [Server thread/INFO] [tombstone/]: The player kamicha19 has successfully been saved
+[05Dec2024 01:04:11.614] [Server thread/DEBUG] [twilightforest/]: Player kamicha19 (44a59c0d-7cbb-35f5-be25-3ef7e617b2da) respawned and received items held in storage
+[05Dec2024 01:04:23.732] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablo: Teleported kamicha19 to Fakkus55]
+[05Dec2024 01:04:35.130] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablo: Set own game mode to Survival Mode]
+[05Dec2024 01:04:59.839] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[05Dec2024 01:04:59.847] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[05Dec2024 01:05:03.529] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablo: Set own game mode to Spectator Mode]
+[05Dec2024 01:05:24.307] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity SigmaEntity['Sigma'/23758, l='ServerLevel[world]', x=475.38, y=9.14, z=-1851.11] died: Sigma tried to swim in lava
+[05Dec2024 01:05:36.040] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Fakkus55> [name:"CASA PRINCIPAL", x:41, y:94, z:-1049, dim:minecraft:overworld]
+[05Dec2024 01:05:48.676] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablo: Teleported pablo to 41.500000, 94.000000, -1048.500000]
+[05Dec2024 01:06:17.815] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablo: Teleported Fakkus55 to pablo]
+[05Dec2024 01:06:43.541] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablo: Teleported kamicha19 to pablo]
+[05Dec2024 01:06:57.531] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablo: Set own game mode to Survival Mode]
+[05Dec2024 01:07:12.401] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity SigmaEntity['Sigma'/27768, l='ServerLevel[world]', x=-126.50, y=16.00, z=-1053.64] died: Sigma was eaten by a Dusktrap
+[05Dec2024 01:07:18.796] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity SigmaEntity['Sigma'/26462, l='ServerLevel[world]', x=53.70, y=24.00, z=-971.19] died: Sigma was eaten by a Dusktrap
+[05Dec2024 01:07:34.693] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity SigmaEntity['Sigma'/26491, l='ServerLevel[world]', x=-37.64, y=31.00, z=-1093.36] died: Sigma was eaten by a Dusktrap
+[05Dec2024 01:07:50.895] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity SigmaEntity['Sigma'/26534, l='ServerLevel[world]', x=55.51, y=3.00, z=-952.62] died: Sigma fell from a high place
+[05Dec2024 01:08:32.041] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity SigmaEntity['Sigma'/26362, l='ServerLevel[world]', x=73.47, y=18.00, z=-1067.39] died: Sigma was eaten by a Dusktrap
+[05Dec2024 01:08:59.441] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity SigmaEntity['Sigma'/26377, l='ServerLevel[world]', x=40.44, y=50.00, z=-1074.64] died: Sigma was eaten by a Dusktrap

@@ -492,11 +492,13 @@
   "regions_unexplored:regions_explored": {
     "criteria": {
       "silver_birch_forest": "2024-11-23 19:29:59 +0000",
+      "shrubland": "2024-12-05 00:56:10 +0000",
       "autumnal_maple_forest": "2024-11-23 19:30:26 +0000",
       "prismachasm": "2024-11-24 23:52:56 +0000",
       "redstone_caves": "2024-11-23 20:51:20 +0000",
       "poppy_fields": "2024-11-23 19:15:55 +0000",
       "scorching_caves": "2024-11-25 01:36:14 +0000",
+      "grassy_beach": "2024-12-05 00:59:53 +0000",
       "flower_fields": "2024-11-23 19:32:35 +0000",
       "maple_forest": "2024-11-24 23:47:03 +0000",
       "mountains": "2024-11-23 21:00:02 +0000",
@@ -511,8 +513,10 @@
   "regions_unexplored:pioneer": {
     "criteria": {
       "silver_birch_forest": "2024-11-23 19:29:59 +0000",
+      "shrubland": "2024-12-05 00:56:10 +0000",
       "autumnal_maple_forest": "2024-11-23 19:30:26 +0000",
       "poppy_fields": "2024-11-23 19:15:55 +0000",
+      "grassy_beach": "2024-12-05 00:59:53 +0000",
       "flower_fields": "2024-11-23 19:32:35 +0000",
       "maple_forest": "2024-11-24 23:47:03 +0000",
       "mountains": "2024-11-23 21:00:02 +0000",
@@ -1806,6 +1810,7 @@
     "criteria": {
       "minecraft:skeleton": "2024-11-23 21:35:07 +0000",
       "minecraft:creeper": "2024-11-23 21:37:48 +0000",
+      "minecraft:cave_spider": "2024-12-05 01:00:23 +0000",
       "minecraft:zombie": "2024-11-23 21:35:37 +0000"
     },
     "done": false
@@ -2287,6 +2292,12 @@
   "minecraft:recipes/misc/ward_armor_trim_smithing_template": {
     "criteria": {
       "has_ward_armor_trim_smithing_template": "2024-11-25 01:29:23 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_fishing_hut": {
+    "criteria": {
+      "location0": "2024-12-05 01:02:31 +0000"
     },
     "done": true
   },
