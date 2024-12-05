@@ -4364,6 +4364,7 @@
   "the_bumblezone:structures/enter_all_structures": {
     "criteria": {
       "in_stinger_spear_shrine": "2024-12-05 01:59:52 +0000",
+      "in_hanging_garden": "2024-12-05 02:25:45 +0000",
       "in_cherry_veteran_tree": "2024-12-05 01:45:57 +0000",
       "in_subway": "2024-12-05 02:04:44 +0000"
     },
@@ -4610,6 +4611,12 @@
     },
     "done": true
   },
+  "the_bumblezone:structures/enter_garden": {
+    "criteria": {
+      "in_hanging_garden": "2024-12-05 02:25:45 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/light_gray_dye_from_azure_bluet": {
     "criteria": {
       "has_azure_bluet": "2024-12-05 01:49:12 +0000"
@@ -4631,6 +4638,12 @@
   "another_furniture:recipes/cherry_shelf": {
     "criteria": {
       "has_planks": "2024-12-05 01:53:02 +0000"
+    },
+    "done": true
+  },
+  "the_bumblezone:effects/getting_protection": {
+    "criteria": {
+      "getting_protection": "2024-12-05 02:23:41 +0000"
     },
     "done": true
   },

@@ -2574,10 +2574,54 @@
   "the_bumblezone:structures/enter_all_structures": {
     "criteria": {
       "in_stinger_spear_shrine": "2024-12-05 02:00:18 +0000",
+      "in_hanging_garden": "2024-12-05 02:25:59 +0000",
       "in_cherry_veteran_tree": "2024-12-05 01:46:28 +0000",
       "in_subway": "2024-12-05 02:04:39 +0000"
     },
     "done": false
+  },
+  "the_bumblezone:armor/craft_flower_headwear": {
+    "criteria": {
+      "obtain_flower_headwear": "2024-12-05 01:55:47 +0000"
+    },
+    "done": true
+  },
+  "the_bumblezone:sugar_water/obtain_sugar_infused_stones": {
+    "criteria": {
+      "obtain_sugar_infused_stone": "2024-12-05 02:03:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/upgrade_tools": {
+    "criteria": {
+      "stone_pickaxe": "2024-12-05 02:05:32 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/misc/light_gray_dye_from_tassel": {
+    "criteria": {
+      "has_tassel": "2024-12-05 02:05:46 +0000"
+    },
+    "done": true
+  },
+  "the_bumblezone:candles/obtain_all_colored_super_candles": {
+    "criteria": {
+      "orange_super_candle": "2024-12-05 02:06:31 +0000",
+      "brown_super_candle": "2024-12-05 02:08:30 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/misc/blue_dye_from_cornflower": {
+    "criteria": {
+      "has_cornflower": "2024-12-05 02:08:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/yellow_dye_from_dandelion": {
+    "criteria": {
+      "has_dandelion": "2024-12-05 02:08:32 +0000"
+    },
+    "done": true
   },
   "regions_unexplored:recipes/transportation/mauve_chest_boat": {
     "criteria": {
@@ -2615,25 +2659,6 @@
     },
     "done": true
   },
-  "the_bumblezone:armor/craft_flower_headwear": {
-    "criteria": {
-      "obtain_flower_headwear": "2024-12-05 01:55:47 +0000"
-    },
-    "done": true
-  },
-  "regions_unexplored:recipes/misc/light_gray_dye_from_tassel": {
-    "criteria": {
-      "has_tassel": "2024-12-05 02:05:46 +0000"
-    },
-    "done": true
-  },
-  "the_bumblezone:candles/obtain_all_colored_super_candles": {
-    "criteria": {
-      "orange_super_candle": "2024-12-05 02:06:31 +0000",
-      "brown_super_candle": "2024-12-05 02:08:30 +0000"
-    },
-    "done": false
-  },
   "minecraft:recipes/transportation/jungle_chest_boat": {
     "criteria": {
       "has_boat": "2024-12-05 02:11:52 +0000"
@@ -2655,18 +2680,6 @@
   "minecraft:recipes/transportation/oak_chest_boat": {
     "criteria": {
       "has_boat": "2024-12-05 02:11:52 +0000"
-    },
-    "done": true
-  },
-  "the_bumblezone:sugar_water/obtain_sugar_infused_stones": {
-    "criteria": {
-      "obtain_sugar_infused_stone": "2024-12-05 02:03:18 +0000"
-    },
-    "done": true
-  },
-  "minecraft:husbandry/tame_an_animal": {
-    "criteria": {
-      "tamed_animal": "2024-12-05 02:20:02 +0000"
     },
     "done": true
   },
@@ -2700,12 +2713,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/blue_dye_from_cornflower": {
-    "criteria": {
-      "has_cornflower": "2024-12-05 02:08:31 +0000"
-    },
-    "done": true
-  },
   "regions_unexplored:recipes/transportation/kapok_chest_boat": {
     "criteria": {
       "has_boat": "2024-12-05 02:11:52 +0000"
@@ -2727,12 +2734,6 @@
   "regions_unexplored:recipes/transportation/pine_chest_boat": {
     "criteria": {
       "has_boat": "2024-12-05 02:11:52 +0000"
-    },
-    "done": true
-  },
-  "the_bumblezone:beehemoth/tamed_beehemoth": {
-    "criteria": {
-      "tamed_beehemoth": "2024-12-05 02:20:02 +0000"
     },
     "done": true
   },
@@ -2766,27 +2767,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/yellow_dye_from_dandelion": {
-    "criteria": {
-      "has_dandelion": "2024-12-05 02:08:32 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/sugar_from_honey_bottle": {
-    "criteria": {
-      "has_honey_bottle": "2024-12-05 02:19:47 +0000"
-    },
-    "done": true
-  },
   "regions_unexplored:recipes/transportation/eucalyptus_chest_boat": {
     "criteria": {
       "has_boat": "2024-12-05 02:11:52 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/honey_block": {
-    "criteria": {
-      "has_honey_bottle": "2024-12-05 02:19:47 +0000"
     },
     "done": true
   },
@@ -2832,12 +2815,6 @@
     },
     "done": true
   },
-  "minecraft:story/upgrade_tools": {
-    "criteria": {
-      "stone_pickaxe": "2024-12-05 02:05:32 +0000"
-    },
-    "done": true
-  },
   "regions_unexplored:recipes/transportation/maple_chest_boat": {
     "criteria": {
       "has_boat": "2024-12-05 02:11:52 +0000"
@@ -2847,6 +2824,36 @@
   "the_bumblezone:tools/craft_honey_compass": {
     "criteria": {
       "obtain_honey_compass": "2024-12-05 02:13:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/sugar_from_honey_bottle": {
+    "criteria": {
+      "has_honey_bottle": "2024-12-05 02:19:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/honey_block": {
+    "criteria": {
+      "has_honey_bottle": "2024-12-05 02:19:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/tame_an_animal": {
+    "criteria": {
+      "tamed_animal": "2024-12-05 02:20:02 +0000"
+    },
+    "done": true
+  },
+  "the_bumblezone:beehemoth/tamed_beehemoth": {
+    "criteria": {
+      "tamed_beehemoth": "2024-12-05 02:20:02 +0000"
+    },
+    "done": true
+  },
+  "the_bumblezone:structures/enter_garden": {
+    "criteria": {
+      "in_hanging_garden": "2024-12-05 02:25:59 +0000"
     },
     "done": true
   },
