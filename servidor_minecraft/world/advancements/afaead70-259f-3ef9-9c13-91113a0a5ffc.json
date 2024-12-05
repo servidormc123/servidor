@@ -3290,7 +3290,8 @@
       "in_stinger_spear_shrine": "2024-12-05 02:00:18 +0000",
       "in_hanging_garden": "2024-12-05 02:25:24 +0000",
       "in_cherry_veteran_tree": "2024-12-05 01:46:32 +0000",
-      "in_subway": "2024-12-05 02:05:06 +0000"
+      "in_subway": "2024-12-05 02:05:06 +0000",
+      "in_throne_pillar": "2024-12-05 02:42:18 +0000"
     },
     "done": false
   },
@@ -3303,6 +3304,12 @@
   "minecraft:story/shiny_gear": {
     "criteria": {
       "diamond_helmet": "2024-12-05 01:15:26 +0000"
+    },
+    "done": true
+  },
+  "the_bumblezone:windy_air/obtain_windy_air": {
+    "criteria": {
+      "obtain_windy_air": "2024-12-05 02:49:14 +0000"
     },
     "done": true
   },
@@ -3347,6 +3354,12 @@
     },
     "done": true
   },
+  "the_bumblezone:the_queens_desire/the_beginning": {
+    "criteria": {
+      "bee_queen_first_trade": "2024-12-05 02:49:13 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/honey_block": {
     "criteria": {
       "has_honey_bottle": "2024-12-05 02:19:41 +0000"
@@ -3359,9 +3372,21 @@
     },
     "done": true
   },
+  "the_bumblezone:structures/enter_throne_pillar": {
+    "criteria": {
+      "in_throne_pillar": "2024-12-05 02:42:18 +0000"
+    },
+    "done": true
+  },
   "the_bumblezone:effects/getting_protection": {
     "criteria": {
       "getting_protection": "2024-12-05 02:30:29 +0000"
+    },
+    "done": true
+  },
+  "the_bumblezone:tools/craft_honey_compass": {
+    "criteria": {
+      "obtain_honey_compass": "2024-12-05 02:48:35 +0000"
     },
     "done": true
   },

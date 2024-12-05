@@ -510,3 +510,49 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [05Dec2024 02:40:50.562] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fakkus55 was kicked for floating too long!
 [05Dec2024 02:40:50.576] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fakkus55 lost connection: Flying is not enabled on this server
 [05Dec2024 02:40:50.577] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Fakkus55 left the game
+[05Dec2024 02:41:00.510] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablo: Set own game mode to Spectator Mode]
+[05Dec2024 02:41:20.120] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-1013, y=187, z=-3453} but found not block entity block Block{minecraft:cave_air} at location
+[05Dec2024 02:41:20.120] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:cave_air} but failed at location BlockPos{x=-1013, y=187, z=-3453}
+[05Dec2024 02:41:22.057] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity DuckleyEntity['Duckley'/65440, l='ServerLevel[world]', x=-1068.91, y=52.00, z=-3634.91] died: Duckley suffocated in a wall
+[05Dec2024 02:41:22.429] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablo: Set own game mode to Creative Mode]
+[05Dec2024 02:41:26.580] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity DuckleyEntity['Duckley'/65509, l='ServerLevel[world]', x=-1174.00, y=183.00, z=-3407.00] died: Duckley suffocated in a wall
+[05Dec2024 02:41:35.606] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity DuckleyEntity['Duckley'/65663, l='ServerLevel[world]', x=-1099.00, y=130.00, z=-3390.00] died: Duckley suffocated in a wall
+[05Dec2024 02:41:45.537] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Fakkus55[/[::1]:54572] logged in with entity id 66191 at (672.3620404980225, 94.19494236883665, -1277.0977071470875)
+[05Dec2024 02:41:45.548] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Fakkus55 joined the game
+[05Dec2024 02:41:58.575] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablo: Set own game mode to Survival Mode]
+[05Dec2024 02:42:03.164] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablo: Teleported Nuna to pablo]
+[05Dec2024 02:42:16.425] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablo: Teleported Fakkus55 to pablo]
+[05Dec2024 02:42:18.869] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nuna has made the advancement [Royal Presence]
+[05Dec2024 02:42:29.206] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablo: Teleported kamicha19 to pablo]
+[05Dec2024 02:42:47.151] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablo: Teleported pablo to pablo]
+[05Dec2024 02:42:52.198] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablo: Teleported pablo to Fakkus55]
+[05Dec2024 02:42:57.368] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablo: Teleported pablo to Fakkus55]
+[05Dec2024 02:43:15.495] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Fakkus55 has made the advancement [Royal Presence]
+[05Dec2024 02:43:53.259] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablo: Teleported pablo to Fakkus55]
+[05Dec2024 02:44:01.747] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Fakkus55 was stung to death
+[05Dec2024 02:44:01.763] [Server thread/INFO] [tombstone/]: The player Fakkus55 has successfully been saved
+[05Dec2024 02:44:04.247] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: kamicha19 lost connection: Timed out
+[05Dec2024 02:44:04.247] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kamicha19 left the game
+[05Dec2024 02:44:04.953] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pablo was stung to death
+[05Dec2024 02:44:04.963] [Server thread/INFO] [tombstone/]: The player pablo has successfully been saved
+[05Dec2024 02:44:12.918] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablo: Teleported pablo to Nuna]
+[05Dec2024 02:44:20.956] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablo: Teleported Fakkus55 to pablo]
+[05Dec2024 02:44:30.626] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablo: Set own game mode to Creative Mode]
+[05Dec2024 02:44:38.007] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablo: Set own game mode to Survival Mode]
+[05Dec2024 02:44:39.953] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: kamicha19[/[::1]:52982] logged in with entity id 67570 at (-1166.2395634839897, 132.0, -3536.8590138789727)
+[05Dec2024 02:44:39.962] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kamicha19 joined the game
+[05Dec2024 02:45:02.775] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablo: Teleported Nuna to pablo]
+[05Dec2024 02:45:33.666] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablo: Teleported pablo to Nuna]
+[05Dec2024 02:45:38.143] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pablo was stung to death
+[05Dec2024 02:45:38.185] [Server thread/INFO] [tombstone/]: The player pablo has successfully been saved
+[05Dec2024 02:45:43.109] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablo: Teleported pablo to Nuna]
+[05Dec2024 02:46:01.929] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pablo has completed the challenge [The Queen's Desire]
+[05Dec2024 02:46:25.194] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: kamicha19 lost connection: Timed out
+[05Dec2024 02:46:25.194] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kamicha19 left the game
+[05Dec2024 02:46:41.296] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Fakkus55> que pása mi loca
+[05Dec2024 02:46:47.626] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Fakkus55> todo legal?
+[05Dec2024 02:46:59.817] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Fakkus55 has completed the challenge [The Queen's Desire]
+[05Dec2024 02:49:12.698] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablo: Set own game mode to Creative Mode]
+[05Dec2024 02:49:13.955] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nuna has completed the challenge [The Queen's Desire]
+[05Dec2024 02:49:25.728] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablo: Set own game mode to Survival Mode]
+[05Dec2024 02:49:48.399] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablo: Set own game mode to Creative Mode]

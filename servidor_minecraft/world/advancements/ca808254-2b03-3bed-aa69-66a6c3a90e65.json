@@ -4366,7 +4366,8 @@
       "in_stinger_spear_shrine": "2024-12-05 01:59:52 +0000",
       "in_hanging_garden": "2024-12-05 02:25:45 +0000",
       "in_cherry_veteran_tree": "2024-12-05 01:45:57 +0000",
-      "in_subway": "2024-12-05 02:04:44 +0000"
+      "in_subway": "2024-12-05 02:04:44 +0000",
+      "in_throne_pillar": "2024-12-05 02:40:48 +0000"
     },
     "done": false
   },
@@ -4411,6 +4412,12 @@
   "regions_unexplored:recipes/decorations/cherry_branch_from_cherry_log": {
     "criteria": {
       "has_log": "2024-12-05 01:52:54 +0000"
+    },
+    "done": true
+  },
+  "the_bumblezone:windy_air/obtain_windy_air": {
+    "criteria": {
+      "obtain_windy_air": "2024-12-05 02:46:09 +0000"
     },
     "done": true
   },
@@ -4557,6 +4564,12 @@
     },
     "done": true
   },
+  "the_bumblezone:effects/bee_hit_wrath_of_the_hive": {
+    "criteria": {
+      "bee_hit_wrath_of_the_hive": "2024-12-05 02:43:57 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/cherry_trapdoor": {
     "criteria": {
       "has_planks": "2024-12-05 01:53:02 +0000"
@@ -4593,6 +4606,12 @@
     },
     "done": true
   },
+  "the_bumblezone:the_queens_desire/the_beginning": {
+    "criteria": {
+      "bee_queen_first_trade": "2024-12-05 02:46:01 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/honey_block": {
     "criteria": {
       "has_honey_bottle": "2024-12-05 02:14:45 +0000"
@@ -4620,6 +4639,12 @@
   "minecraft:recipes/misc/light_gray_dye_from_azure_bluet": {
     "criteria": {
       "has_azure_bluet": "2024-12-05 01:49:12 +0000"
+    },
+    "done": true
+  },
+  "the_bumblezone:structures/enter_throne_pillar": {
+    "criteria": {
+      "in_throne_pillar": "2024-12-05 02:40:48 +0000"
     },
     "done": true
   },
@@ -4662,6 +4687,12 @@
   "the_bumblezone:tools/craft_honey_compass": {
     "criteria": {
       "obtain_honey_compass": "2024-12-05 02:08:24 +0000"
+    },
+    "done": true
+  },
+  "the_bumblezone:honey_crystal/obtain_honey_crystal_block": {
+    "criteria": {
+      "obtain_honey_crystal_block": "2024-12-05 02:48:39 +0000"
     },
     "done": true
   },

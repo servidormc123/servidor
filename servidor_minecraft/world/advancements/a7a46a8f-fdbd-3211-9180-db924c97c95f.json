@@ -4185,7 +4185,8 @@
       "in_stinger_spear_shrine": "2024-12-05 02:00:19 +0000",
       "in_hanging_garden": "2024-12-05 02:26:14 +0000",
       "in_cherry_veteran_tree": "2024-12-05 01:46:49 +0000",
-      "in_subway": "2024-12-05 02:04:40 +0000"
+      "in_subway": "2024-12-05 02:04:40 +0000",
+      "in_throne_pillar": "2024-12-05 02:43:15 +0000"
     },
     "done": false
   },
@@ -4257,12 +4258,6 @@
     },
     "done": true
   },
-  "regions_unexplored:recipes/misc/cherry_sapling_from_cherry_shrub": {
-    "criteria": {
-      "has_cherry_shrub": "2024-12-05 02:39:56 +0000"
-    },
-    "done": true
-  },
   "regions_unexplored:recipes/misc/blue_dye_from_meadow_sage": {
     "criteria": {
       "has_meadow_sage": "2024-12-05 02:39:00 +0000"
@@ -4272,6 +4267,36 @@
   "regions_unexplored:recipes/misc/white_magnolia_sapling_from_white_magnolia_shrub": {
     "criteria": {
       "has_white_magnolia_shrub": "2024-12-05 02:39:05 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/misc/cherry_sapling_from_cherry_shrub": {
+    "criteria": {
+      "has_cherry_shrub": "2024-12-05 02:39:56 +0000"
+    },
+    "done": true
+  },
+  "the_bumblezone:windy_air/obtain_windy_air": {
+    "criteria": {
+      "obtain_windy_air": "2024-12-05 02:48:16 +0000"
+    },
+    "done": true
+  },
+  "the_bumblezone:the_queens_desire/the_beginning": {
+    "criteria": {
+      "bee_queen_first_trade": "2024-12-05 02:46:59 +0000"
+    },
+    "done": true
+  },
+  "the_bumblezone:structures/enter_throne_pillar": {
+    "criteria": {
+      "in_throne_pillar": "2024-12-05 02:43:15 +0000"
+    },
+    "done": true
+  },
+  "the_bumblezone:honey_crystal/obtain_honey_crystal_block": {
+    "criteria": {
+      "obtain_honey_crystal_block": "2024-12-05 02:48:34 +0000"
     },
     "done": true
   },
