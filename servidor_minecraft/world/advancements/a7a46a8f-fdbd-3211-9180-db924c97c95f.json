@@ -4288,6 +4288,12 @@
     },
     "done": true
   },
+  "the_bumblezone:decor/obtain_all_string_curtains": {
+    "criteria": {
+      "orange_string_curtain": "2024-12-05 02:53:04 +0000"
+    },
+    "done": false
+  },
   "the_bumblezone:structures/enter_throne_pillar": {
     "criteria": {
       "in_throne_pillar": "2024-12-05 02:43:15 +0000"

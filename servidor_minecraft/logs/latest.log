@@ -556,3 +556,41 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [05Dec2024 02:49:13.955] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nuna has completed the challenge [The Queen's Desire]
 [05Dec2024 02:49:25.728] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablo: Set own game mode to Survival Mode]
 [05Dec2024 02:49:48.399] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablo: Set own game mode to Creative Mode]
+[05Dec2024 02:52:23.063] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pablo has completed the challenge [The Bee Warrior Rises!]
+[05Dec2024 02:52:33.013] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablo: Set own game mode to Survival Mode]
+[05Dec2024 02:52:51.932] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pablo was doomed to fall
+[05Dec2024 02:52:51.960] [Server thread/INFO] [tombstone/]: The player pablo has successfully been saved
+[05Dec2024 02:52:56.962] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablo: Teleported pablo to Nuna]
+[05Dec2024 02:53:27.012] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablo: Teleported pablo to Nuna]
+[05Dec2024 02:53:38.394] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: pablo was kicked for floating too long!
+[05Dec2024 02:53:38.445] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: pablo lost connection: Flying is not enabled on this server
+[05Dec2024 02:53:38.445] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pablo left the game
+[05Dec2024 02:54:07.506] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: kamicha19[/[::1]:43590] logged in with entity id 69430 at (-1164.379404777661, 132.0, -3536.7037277233267)
+[05Dec2024 02:54:07.515] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kamicha19 joined the game
+[05Dec2024 02:54:13.463] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: pablo[/[::1]:43608] logged in with entity id 69447 at (-1162.3873343134449, 134.58797748333146, -3535.640476050025)
+[05Dec2024 02:54:13.477] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pablo joined the game
+[05Dec2024 02:54:16.002] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@4b29c36[id=<null>,name=pablo,properties={},legacy=false] (/[::1]:54166) lost connection: Timed out
+[05Dec2024 02:54:57.495] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kamicha19 has made the advancement [Royal Presence]
+[05Dec2024 02:55:04.744] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pablo was stung to death
+[05Dec2024 02:55:04.779] [Server thread/INFO] [tombstone/]: The player pablo has successfully been saved
+[05Dec2024 02:55:10.784] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablo: Teleported pablo to Fakkus55]
+[05Dec2024 02:55:37.016] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fakkus55 moved wrongly!
+[05Dec2024 02:55:38.095] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablo: Set own game mode to Creative Mode]
+[05Dec2024 02:55:53.945] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablo: Set own game mode to Survival Mode]
+[05Dec2024 02:56:30.266] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pablo fell from a high place
+[05Dec2024 02:56:30.268] [Server thread/INFO] [tombstone/]: The player pablo has successfully been saved
+[05Dec2024 02:56:36.713] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablo: Teleported pablo to Fakkus55]
+[05Dec2024 02:56:55.616] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablo: Set own game mode to Creative Mode]
+[05Dec2024 02:57:12.320] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablo: Set own game mode to Survival Mode]
+[05Dec2024 02:57:18.861] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kamicha19 fell from a high place
+[05Dec2024 02:57:18.863] [Server thread/INFO] [tombstone/]: The player kamicha19 has successfully been saved
+[05Dec2024 02:57:40.553] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablo: Teleported kamicha19 to pablo]
+[05Dec2024 02:58:07.395] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: pablo was kicked for floating too long!
+[05Dec2024 02:58:07.445] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: pablo lost connection: Flying is not enabled on this server
+[05Dec2024 02:58:07.445] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pablo left the game
+[05Dec2024 02:58:46.144] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@5ac55b0b[id=<null>,name=pablo,properties={},legacy=false] (/[::1]:45108) lost connection: Timed out
+[05Dec2024 02:59:08.947] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@6532d609[id=<null>,name=pablo,properties={},legacy=false] (/[::1]:52758) lost connection: Timed out
+[05Dec2024 03:00:23.916] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity DuckleyEntity['Duckley'/70219, l='ServerLevel[world]', x=-1391.00, y=159.00, z=-3492.00] died: Duckley suffocated in a wall
+[05Dec2024 03:00:30.903] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity DuckleyEntity['Duckley'/70755, l='ServerLevel[world]', x=-1409.00, y=82.00, z=-3523.00] died: Duckley suffocated in a wall
+[05Dec2024 03:01:18.149] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity DuckleyEntity['Duckley'/70848, l='ServerLevel[world]', x=-1468.00, y=232.00, z=-3517.00] died: Duckley suffocated in a wall
+[05Dec2024 03:01:21.654] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity DuckleyEntity['Duckley'/70886, l='ServerLevel[world]', x=-1486.00, y=181.00, z=-3588.00] died: Duckley suffocated in a wall
