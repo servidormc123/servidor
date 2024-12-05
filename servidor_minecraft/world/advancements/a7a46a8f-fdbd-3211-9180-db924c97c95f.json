@@ -4194,6 +4194,14 @@
     },
     "done": true
   },
+  "the_bumblezone:candles/obtain_all_colored_super_candles": {
+    "criteria": {
+      "black_super_candle": "2024-12-05 02:13:03 +0000",
+      "orange_super_candle": "2024-12-05 02:11:29 +0000",
+      "brown_super_candle": "2024-12-05 02:10:55 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/misc/red_dye_from_rose_bush": {
     "criteria": {
       "has_rose_bush": "2024-12-05 01:50:19 +0000"
@@ -4203,6 +4211,18 @@
   "minecraft:recipes/misc/pink_dye_from_pink_tulip": {
     "criteria": {
       "has_pink_tulip": "2024-12-05 01:49:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/sugar_from_honey_bottle": {
+    "criteria": {
+      "has_honey_bottle": "2024-12-05 02:18:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/honey_block": {
+    "criteria": {
+      "has_honey_bottle": "2024-12-05 02:18:12 +0000"
     },
     "done": true
   },

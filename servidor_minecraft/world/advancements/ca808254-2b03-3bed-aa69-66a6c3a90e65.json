@@ -4390,7 +4390,8 @@
   "the_bumblezone:candles/obtain_all_colored_super_candles": {
     "criteria": {
       "black_super_candle": "2024-12-05 02:09:06 +0000",
-      "orange_super_candle": "2024-12-05 02:06:29 +0000"
+      "orange_super_candle": "2024-12-05 02:06:29 +0000",
+      "brown_super_candle": "2024-12-05 02:10:28 +0000"
     },
     "done": false
   },
@@ -4433,6 +4434,12 @@
   "minecraft:recipes/food/dried_kelp_from_smoking": {
     "criteria": {
       "has_kelp": "2024-12-05 00:47:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/tame_an_animal": {
+    "criteria": {
+      "tamed_animal": "2024-12-05 02:14:47 +0000"
     },
     "done": true
   },
@@ -4513,6 +4520,12 @@
     },
     "done": true
   },
+  "the_bumblezone:beehemoth/tamed_beehemoth": {
+    "criteria": {
+      "tamed_beehemoth": "2024-12-05 02:14:47 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/dried_kelp_from_campfire_cooking": {
     "criteria": {
       "has_kelp": "2024-12-05 00:47:11 +0000"
@@ -4534,6 +4547,12 @@
   "minecraft:recipes/building_blocks/cherry_stairs": {
     "criteria": {
       "has_planks": "2024-12-05 01:53:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/beehive": {
+    "criteria": {
+      "has_honeycomb": "2024-12-05 02:13:42 +0000"
     },
     "done": true
   },
@@ -4564,6 +4583,18 @@
   "alexsmobs:alexsmobs/seagull_steal": {
     "criteria": {
       "ex": "2024-12-05 00:42:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/sugar_from_honey_bottle": {
+    "criteria": {
+      "has_honey_bottle": "2024-12-05 02:14:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/honey_block": {
+    "criteria": {
+      "has_honey_bottle": "2024-12-05 02:14:45 +0000"
     },
     "done": true
   },
@@ -4618,6 +4649,12 @@
   "the_bumblezone:tools/craft_honey_compass": {
     "criteria": {
       "obtain_honey_compass": "2024-12-05 02:08:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/honeycomb_block": {
+    "criteria": {
+      "has_honeycomb": "2024-12-05 02:13:42 +0000"
     },
     "done": true
   },

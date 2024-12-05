@@ -3910,3 +3910,32 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [05Dec2024 02:07:07.323] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablo: Teleported 4 entities to pablo]
 [05Dec2024 02:10:03.140] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [05Dec2024 02:10:03.148] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[05Dec2024 02:11:05.753] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablo: Teleported pablo to Fakkus55]
+[05Dec2024 02:12:46.743] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity DuckleyEntity['Duckley'/55596, l='ServerLevel[world]', x=641.00, y=92.00, z=-1245.00] died: Duckley suffocated in a wall
+[05Dec2024 02:13:10.301] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablo: Set own game mode to Creative Mode]
+[05Dec2024 02:13:19.146] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity DuckleyEntity['Duckley'/55778, l='ServerLevel[world]', x=889.00, y=69.00, z=-1279.40] died: Duckley suffocated in a wall
+[05Dec2024 02:14:47.815] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pablo has made the advancement [Best Friends Forever]
+[05Dec2024 02:15:03.158] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[05Dec2024 02:15:03.168] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[05Dec2024 02:15:11.148] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablo: Set own game mode to Survival Mode]
+[05Dec2024 02:15:19.215] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pablo fell from a high place
+[05Dec2024 02:15:19.216] [Server thread/DEBUG] [tombstone/]: A new grave of the player pablo was created at position [x:752, y:42, z:-1019, dim:the_bumblezone:the_bumblezone]
+[05Dec2024 02:15:19.217] [Server thread/INFO] [tombstone/]: The player pablo has successfully been saved
+[05Dec2024 02:15:20.699] [Server thread/DEBUG] [twilightforest/]: Player pablo (ca808254-2b03-3bed-aa69-66a6c3a90e65) respawned and received items held in storage
+[05Dec2024 02:15:40.915] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablo: Teleported pablo to kamicha19]
+[05Dec2024 02:15:47.663] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablo: Set own game mode to Spectator Mode]
+[05Dec2024 02:16:01.552] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablo: Set own game mode to Creative Mode]
+[05Dec2024 02:16:12.508] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity DuckleyEntity['Duckley'/56925, l='ServerLevel[world]', x=972.00, y=77.00, z=-753.00] died: Duckley suffocated in a wall
+[05Dec2024 02:16:21.862] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity DuckleyEntity['Duckley'/57040, l='ServerLevel[world]', x=881.00, y=49.00, z=-724.00] died: Duckley suffocated in a wall
+[05Dec2024 02:16:21.915] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablo: Set own game mode to Survival Mode]
+[05Dec2024 02:16:23.698] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=973, y=158, z=-657} but found not block entity block Block{the_bumblezone:sugar_water_block}[level=0] at location
+[05Dec2024 02:16:23.699] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{the_bumblezone:sugar_water_block}[level=0] but failed at location BlockPos{x=973, y=158, z=-657}
+[05Dec2024 02:16:23.699] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=975, y=162, z=-657} but found not block entity block Block{minecraft:cave_air} at location
+[05Dec2024 02:16:23.699] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:cave_air} but failed at location BlockPos{x=975, y=162, z=-657}
+[05Dec2024 02:16:26.000] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablo: Teleported 4 entities to pablo]
+[05Dec2024 02:16:41.856] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablo: Set own game mode to Creative Mode]
+[05Dec2024 02:16:53.106] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablo: Set own game mode to Survival Mode]
+[05Dec2024 02:18:30.310] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablo: Set own game mode to Creative Mode]
+[05Dec2024 02:20:02.433] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kamicha19 has made the advancement [Best Friends Forever]
+[05Dec2024 02:20:03.141] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[05Dec2024 02:20:03.150] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
