@@ -4714,15 +4714,15 @@
     },
     "done": true
   },
-  "the_bumblezone:armor/honey_bee_leggings_flower_pollen": {
-    "criteria": {
-      "honey_bee_leggings_flower_pollen": "2024-12-05 03:10:13 +0000"
-    },
-    "done": true
-  },
   "the_bumblezone:teleportation/teleport_out_of_bumblezone": {
     "criteria": {
       "teleport_out_of_bumblezone": "2024-12-05 03:05:20 +0000"
+    },
+    "done": true
+  },
+  "the_bumblezone:armor/honey_bee_leggings_flower_pollen": {
+    "criteria": {
+      "honey_bee_leggings_flower_pollen": "2024-12-05 03:10:13 +0000"
     },
     "done": true
   },

@@ -3279,6 +3279,29 @@
     },
     "done": true
   },
+  "minecraft:story/shiny_gear": {
+    "criteria": {
+      "diamond_helmet": "2024-12-05 01:15:26 +0000"
+    },
+    "done": true
+  },
+  "the_bumblezone:biomes/discover_all_biomes": {
+    "criteria": {
+      "floral_meadow": "2024-12-05 01:46:22 +0000",
+      "crystal_canyon": "2024-12-05 01:41:11 +0000",
+      "sugar_water_floor": "2024-12-05 01:40:05 +0000",
+      "hive_pillar": "2024-12-05 01:32:19 +0000",
+      "hive_wall": "2024-12-05 01:29:43 +0000",
+      "pollinated_fields": "2024-12-05 01:31:53 +0000"
+    },
+    "done": false
+  },
+  "the_bumblezone:teleportation/teleport_to_bumblezone_pearl": {
+    "criteria": {
+      "teleport_to_bumblezone_pearl": "2024-12-05 01:29:43 +0000"
+    },
+    "done": true
+  },
   "the_bumblezone:pollen_pile/hide_in_pollen_pile": {
     "criteria": {
       "strong_hidden": "2024-12-05 01:35:37 +0000"
@@ -3301,15 +3324,9 @@
     },
     "done": true
   },
-  "minecraft:story/shiny_gear": {
+  "the_bumblezone:honey_crystal_shield/obtain_honey_crystal_shield": {
     "criteria": {
-      "diamond_helmet": "2024-12-05 01:15:26 +0000"
-    },
-    "done": true
-  },
-  "the_bumblezone:windy_air/obtain_windy_air": {
-    "criteria": {
-      "obtain_windy_air": "2024-12-05 02:49:14 +0000"
+      "obtain_honey_crystal_shield": "2024-12-05 01:57:18 +0000"
     },
     "done": true
   },
@@ -3319,9 +3336,57 @@
     },
     "done": true
   },
-  "the_bumblezone:honey_crystal_shield/obtain_honey_crystal_shield": {
+  "minecraft:recipes/misc/sugar_from_honey_bottle": {
     "criteria": {
-      "obtain_honey_crystal_shield": "2024-12-05 01:57:18 +0000"
+      "has_honey_bottle": "2024-12-05 02:19:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/honey_block": {
+    "criteria": {
+      "has_honey_bottle": "2024-12-05 02:19:41 +0000"
+    },
+    "done": true
+  },
+  "the_bumblezone:beehemoth/tamed_beehemoth": {
+    "criteria": {
+      "tamed_beehemoth": "2024-12-05 02:21:57 +0000"
+    },
+    "done": true
+  },
+  "the_bumblezone:structures/enter_garden": {
+    "criteria": {
+      "in_hanging_garden": "2024-12-05 02:25:24 +0000"
+    },
+    "done": true
+  },
+  "the_bumblezone:effects/getting_protection": {
+    "criteria": {
+      "getting_protection": "2024-12-05 02:30:29 +0000"
+    },
+    "done": true
+  },
+  "the_bumblezone:structures/enter_throne_pillar": {
+    "criteria": {
+      "in_throne_pillar": "2024-12-05 02:42:18 +0000"
+    },
+    "done": true
+  },
+  "the_bumblezone:tools/craft_honey_compass": {
+    "criteria": {
+      "obtain_honey_compass": "2024-12-05 02:48:35 +0000"
+    },
+    "done": true
+  },
+  "the_bumblezone:the_queens_desire/the_beginning": {
+    "criteria": {
+      "bee_queen_first_trade": "2024-12-05 02:49:13 +0000"
+    },
+    "done": true
+  },
+  "the_bumblezone:windy_air/obtain_windy_air": {
+    "criteria": {
+      "obtain_windy_air": "2024-12-05 02:49:14 +0000"
     },
     "done": true
   },
@@ -3334,71 +3399,6 @@
   "the_bumblezone:teleportation/teleport_out_of_bumblezone": {
     "criteria": {
       "teleport_out_of_bumblezone": "2024-12-05 03:07:03 +0000"
-    },
-    "done": true
-  },
-  "the_bumblezone:biomes/discover_all_biomes": {
-    "criteria": {
-      "floral_meadow": "2024-12-05 01:46:22 +0000",
-      "crystal_canyon": "2024-12-05 01:41:11 +0000",
-      "sugar_water_floor": "2024-12-05 01:40:05 +0000",
-      "hive_pillar": "2024-12-05 01:32:19 +0000",
-      "hive_wall": "2024-12-05 01:29:43 +0000",
-      "pollinated_fields": "2024-12-05 01:31:53 +0000"
-    },
-    "done": false
-  },
-  "the_bumblezone:teleportation/teleport_to_bumblezone_pearl": {
-    "criteria": {
-      "teleport_to_bumblezone_pearl": "2024-12-05 01:29:43 +0000"
-    },
-    "done": true
-  },
-  "the_bumblezone:beehemoth/tamed_beehemoth": {
-    "criteria": {
-      "tamed_beehemoth": "2024-12-05 02:21:57 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/sugar_from_honey_bottle": {
-    "criteria": {
-      "has_honey_bottle": "2024-12-05 02:19:41 +0000"
-    },
-    "done": true
-  },
-  "the_bumblezone:the_queens_desire/the_beginning": {
-    "criteria": {
-      "bee_queen_first_trade": "2024-12-05 02:49:13 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/honey_block": {
-    "criteria": {
-      "has_honey_bottle": "2024-12-05 02:19:41 +0000"
-    },
-    "done": true
-  },
-  "the_bumblezone:structures/enter_garden": {
-    "criteria": {
-      "in_hanging_garden": "2024-12-05 02:25:24 +0000"
-    },
-    "done": true
-  },
-  "the_bumblezone:structures/enter_throne_pillar": {
-    "criteria": {
-      "in_throne_pillar": "2024-12-05 02:42:18 +0000"
-    },
-    "done": true
-  },
-  "the_bumblezone:effects/getting_protection": {
-    "criteria": {
-      "getting_protection": "2024-12-05 02:30:29 +0000"
-    },
-    "done": true
-  },
-  "the_bumblezone:tools/craft_honey_compass": {
-    "criteria": {
-      "obtain_honey_compass": "2024-12-05 02:48:35 +0000"
     },
     "done": true
   },
