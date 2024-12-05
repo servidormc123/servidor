@@ -2476,6 +2476,7 @@
       "crystal_canyon": "2024-12-05 01:41:09 +0000",
       "sugar_water_floor": "2024-12-05 01:40:01 +0000",
       "hive_wall": "2024-12-05 01:28:53 +0000",
+      "hive_pillar": "2024-12-05 02:04:04 +0000",
       "pollinated_fields": "2024-12-05 01:31:49 +0000"
     },
     "done": false
@@ -2572,13 +2573,52 @@
   },
   "the_bumblezone:structures/enter_all_structures": {
     "criteria": {
-      "in_cherry_veteran_tree": "2024-12-05 01:46:28 +0000"
+      "in_stinger_spear_shrine": "2024-12-05 02:00:18 +0000",
+      "in_cherry_veteran_tree": "2024-12-05 01:46:28 +0000",
+      "in_subway": "2024-12-05 02:04:39 +0000"
     },
     "done": false
   },
   "the_bumblezone:armor/craft_flower_headwear": {
     "criteria": {
       "obtain_flower_headwear": "2024-12-05 01:55:47 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/misc/light_gray_dye_from_tassel": {
+    "criteria": {
+      "has_tassel": "2024-12-05 02:05:46 +0000"
+    },
+    "done": true
+  },
+  "the_bumblezone:candles/obtain_all_colored_super_candles": {
+    "criteria": {
+      "orange_super_candle": "2024-12-05 02:06:31 +0000",
+      "brown_super_candle": "2024-12-05 02:08:30 +0000"
+    },
+    "done": false
+  },
+  "the_bumblezone:sugar_water/obtain_sugar_infused_stones": {
+    "criteria": {
+      "obtain_sugar_infused_stone": "2024-12-05 02:03:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/blue_dye_from_cornflower": {
+    "criteria": {
+      "has_cornflower": "2024-12-05 02:08:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/yellow_dye_from_dandelion": {
+    "criteria": {
+      "has_dandelion": "2024-12-05 02:08:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/upgrade_tools": {
+    "criteria": {
+      "stone_pickaxe": "2024-12-05 02:05:32 +0000"
     },
     "done": true
   },

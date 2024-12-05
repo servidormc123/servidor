@@ -3287,7 +3287,9 @@
   },
   "the_bumblezone:structures/enter_all_structures": {
     "criteria": {
-      "in_cherry_veteran_tree": "2024-12-05 01:46:32 +0000"
+      "in_stinger_spear_shrine": "2024-12-05 02:00:18 +0000",
+      "in_cherry_veteran_tree": "2024-12-05 01:46:32 +0000",
+      "in_subway": "2024-12-05 02:05:06 +0000"
     },
     "done": false
   },
@@ -3300,6 +3302,12 @@
   "minecraft:story/shiny_gear": {
     "criteria": {
       "diamond_helmet": "2024-12-05 01:15:26 +0000"
+    },
+    "done": true
+  },
+  "the_bumblezone:sugar_water/obtain_sugar_infused_stones": {
+    "criteria": {
+      "obtain_sugar_infused_stone": "2024-12-05 02:02:29 +0000"
     },
     "done": true
   },

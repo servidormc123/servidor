@@ -4182,7 +4182,9 @@
   },
   "the_bumblezone:structures/enter_all_structures": {
     "criteria": {
-      "in_cherry_veteran_tree": "2024-12-05 01:46:49 +0000"
+      "in_stinger_spear_shrine": "2024-12-05 02:00:19 +0000",
+      "in_cherry_veteran_tree": "2024-12-05 01:46:49 +0000",
+      "in_subway": "2024-12-05 02:04:40 +0000"
     },
     "done": false
   },
@@ -4209,6 +4211,12 @@
       "carve_wax_5": "2024-12-05 01:50:49 +0000"
     },
     "done": false
+  },
+  "the_bumblezone:honey_crystal_shield/obtain_maxed_honey_crystal_shield": {
+    "criteria": {
+      "obtain_maxed_honey_crystal_shield": "2024-12-05 02:05:50 +0000"
+    },
+    "done": true
   },
   "DataVersion": 3465
 }

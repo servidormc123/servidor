@@ -3888,3 +3888,25 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [05Dec2024 02:00:03.148] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [05Dec2024 02:00:03.948] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablo: Set own game mode to Survival Mode]
 [05Dec2024 02:00:18.663] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablo: Teleported 4 entities to pablo]
+[05Dec2024 02:01:16.911] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablo: Teleported 4 entities to pablo]
+[05Dec2024 02:02:33.873] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablo: Set own game mode to Creative Mode]
+[05Dec2024 02:03:15.069] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablo: Set own game mode to Spectator Mode]
+[05Dec2024 02:03:28.305] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity DuckleyEntity['Duckley'/53749, l='ServerLevel[world]', x=700.00, y=238.00, z=-964.00] died: Duckley suffocated in a wall
+[05Dec2024 02:03:29.826] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity DuckleyEntity['Duckley'/53970, l='ServerLevel[world]', x=699.00, y=167.00, z=-999.00] died: Duckley suffocated in a wall
+[05Dec2024 02:03:33.710] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity DuckleyEntity['Duckley'/53982, l='ServerLevel[world]', x=697.00, y=103.00, z=-1029.00] died: Duckley suffocated in a wall
+[05Dec2024 02:03:39.204] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity DuckleyEntity['Duckley'/54108, l='ServerLevel[world]', x=748.00, y=107.00, z=-1118.00] died: Duckley suffocated in a wall
+[05Dec2024 02:03:48.052] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity DuckleyEntity['Duckley'/54242, l='ServerLevel[world]', x=849.00, y=77.00, z=-954.00] died: Duckley suffocated in a wall
+[05Dec2024 02:03:48.053] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity DuckleyEntity['Duckley'/54243, l='ServerLevel[world]', x=855.00, y=99.00, z=-932.00] died: Duckley suffocated in a wall
+[05Dec2024 02:03:58.355] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablo: Set own game mode to Survival Mode]
+[05Dec2024 02:04:04.329] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablo: Teleported 4 entities to pablo]
+[05Dec2024 02:04:19.843] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity DuckleyEntity['Duckley'/54458, l='ServerLevel[world]', x=711.00, y=72.00, z=-1191.00] died: Duckley suffocated in a wall
+[05Dec2024 02:05:03.140] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[05Dec2024 02:05:03.148] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[05Dec2024 02:05:21.555] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablo: Teleported 4 entities to pablo]
+[05Dec2024 02:05:32.144] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kamicha19 has made the advancement [Getting an Upgrade]
+[05Dec2024 02:05:50.396] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Fakkus55 has completed the challenge [Grand Hive Defender]
+[05Dec2024 02:06:55.870] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablo: Set own game mode to Spectator Mode]
+[05Dec2024 02:07:05.303] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablo: Set own game mode to Survival Mode]
+[05Dec2024 02:07:07.323] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablo: Teleported 4 entities to pablo]
+[05Dec2024 02:10:03.140] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[05Dec2024 02:10:03.148] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world

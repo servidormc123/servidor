@@ -4364,7 +4364,8 @@
   "the_bumblezone:structures/enter_all_structures": {
     "criteria": {
       "in_stinger_spear_shrine": "2024-12-05 01:59:52 +0000",
-      "in_cherry_veteran_tree": "2024-12-05 01:45:57 +0000"
+      "in_cherry_veteran_tree": "2024-12-05 01:45:57 +0000",
+      "in_subway": "2024-12-05 02:04:44 +0000"
     },
     "done": false
   },
@@ -4379,6 +4380,19 @@
       "obtain_flower_headwear": "2024-12-05 01:47:25 +0000"
     },
     "done": true
+  },
+  "the_bumblezone:stinger_spear/obtain_stinger_spear": {
+    "criteria": {
+      "obtain_stinger_spear": "2024-12-05 02:00:08 +0000"
+    },
+    "done": true
+  },
+  "the_bumblezone:candles/obtain_all_colored_super_candles": {
+    "criteria": {
+      "black_super_candle": "2024-12-05 02:09:06 +0000",
+      "orange_super_candle": "2024-12-05 02:06:29 +0000"
+    },
+    "done": false
   },
   "minecraft:recipes/misc/red_dye_from_rose_bush": {
     "criteria": {
@@ -4440,6 +4454,12 @@
     },
     "done": true
   },
+  "the_bumblezone:stinger_spear/stinger_spear_poisoning": {
+    "criteria": {
+      "stinger_spear_poisoning": "2024-12-05 02:00:34 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/yellow_dye_from_sunflower": {
     "criteria": {
       "has_sunflower": "2024-12-05 01:49:09 +0000"
@@ -4496,6 +4516,12 @@
   "minecraft:recipes/food/dried_kelp_from_campfire_cooking": {
     "criteria": {
       "has_kelp": "2024-12-05 00:47:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/netherite_upgrade_smithing_template": {
+    "criteria": {
+      "has_netherite_upgrade_smithing_template": "2024-12-05 02:05:45 +0000"
     },
     "done": true
   },
@@ -4586,6 +4612,12 @@
   "another_furniture:recipes/cherry_table": {
     "criteria": {
       "has_planks": "2024-12-05 01:53:02 +0000"
+    },
+    "done": true
+  },
+  "the_bumblezone:tools/craft_honey_compass": {
+    "criteria": {
+      "obtain_honey_compass": "2024-12-05 02:08:24 +0000"
     },
     "done": true
   },
