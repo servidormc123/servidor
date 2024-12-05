@@ -3402,5 +3402,11 @@
     },
     "done": true
   },
+  "the_bumblezone:effects/consume_bee_soup": {
+    "criteria": {
+      "consume_bee_soup": "2024-12-05 03:27:10 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }

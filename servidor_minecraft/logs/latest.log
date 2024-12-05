@@ -657,3 +657,44 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [05Dec2024 03:21:17.939] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity SigmaEntity['Sigma'/729, l='ServerLevel[world]', x=130.28, y=-2.00, z=-78.50] died: Sigma tried to swim in lava
 [05Dec2024 03:21:25.398] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity SigmaEntity['Sigma'/73249, l='ServerLevel[world]', x=125.87, y=7.74, z=-1154.83] died: Sigma drowned
 [05Dec2024 03:21:45.752] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity SigmaEntity['Sigma'/76822, l='ServerLevel[world]', x=53.82, y=24.00, z=-971.88] died: Sigma was eaten by a Dusktrap
+[05Dec2024 03:21:59.857] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity SigmaEntity['Sigma'/73521, l='ServerLevel[world]', x=-10.70, y=-13.00, z=-1204.54] died: Sigma fell from a high place
+[05Dec2024 03:24:09.661] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablo: Set own game mode to Creative Mode]
+[05Dec2024 03:24:16.896] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity SigmaEntity['Sigma'/73194, l='ServerLevel[world]', x=46.19, y=41.00, z=-985.01] died: Sigma was eaten by a Dusktrap
+[05Dec2024 03:24:26.307] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kamicha19 was slain by Fakkus55
+[05Dec2024 03:24:26.309] [Server thread/INFO] [tombstone/]: The player kamicha19 has successfully been saved
+[05Dec2024 03:24:37.125] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: kamicha19 lost connection: Timed out
+[05Dec2024 03:24:37.127] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kamicha19 left the game
+[05Dec2024 03:24:38.823] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: kamicha19[/[::1]:54352] logged in with entity id 80257 at (66.57143847470378, 94.0, -1031.110751638148)
+[05Dec2024 03:24:38.833] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kamicha19 joined the game
+[05Dec2024 03:24:43.311] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablo: Set own game mode to Survival Mode]
+[05Dec2024 03:24:49.133] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablo: Set the time to 1000]
+[05Dec2024 03:24:57.969] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablo: Teleported kamicha19 to pablo]
+[05Dec2024 03:25:41.001] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity SigmaEntity['Sigma'/78934, l='ServerLevel[world]', x=56.42, y=26.44, z=-970.46] died: Sigma was eaten by a Dusktrap
+[05Dec2024 03:26:03.077] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Fakkus55 was slain by pablo
+[05Dec2024 03:26:03.081] [Server thread/INFO] [tombstone/]: The player Fakkus55 has successfully been saved
+[05Dec2024 03:26:22.701] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity SigmaEntity['Sigma'/78517, l='ServerLevel[world]', x=55.66, y=7.75, z=-953.82] died: Sigma drowned
+[05Dec2024 03:26:23.981] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <pablo> kami?
+[05Dec2024 03:26:24.114] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: kamicha19 lost connection: Timed out
+[05Dec2024 03:26:24.114] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kamicha19 left the game
+[05Dec2024 03:27:07.814] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity SigmaEntity['Sigma'/80397, l='ServerLevel[world]', x=78.70, y=15.18, z=-64.77] died: Sigma tried to swim in lava
+[05Dec2024 03:27:10.007] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nuna has made the advancement [A Stingy Delicacy]
+[05Dec2024 03:29:06.240] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity SigmaEntity['Sigma'/72867, l='ServerLevel[world]', x=40.91, y=50.00, z=-1074.97] died: Sigma was eaten by a Dusktrap
+[05Dec2024 03:29:07.894] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity SigmaEntity['Sigma'/73098, l='ServerLevel[world]', x=160.10, y=24.00, z=-989.29] died: Sigma was eaten by a Dusktrap
+[05Dec2024 03:29:08.350] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity SigmaEntity['Sigma'/78932, l='ServerLevel[world]', x=49.60, y=41.73, z=-983.49] died: Sigma was eaten by a Dusktrap
+[05Dec2024 03:29:09.491] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity SigmaEntity['Sigma'/73025, l='ServerLevel[world]', x=55.66, y=7.75, z=-953.82] died: Sigma drowned
+[05Dec2024 03:29:32.093] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity SigmaEntity['Sigma'/73123, l='ServerLevel[world]', x=42.33, y=41.00, z=-980.67] died: Sigma was eaten by a Dusktrap
+[05Dec2024 03:30:42.755] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Fakkus55 has made the advancement [A Stingy Delicacy]
+[05Dec2024 03:31:09.771] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: pablo was kicked for floating too long!
+[05Dec2024 03:31:09.818] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: pablo lost connection: Flying is not enabled on this server
+[05Dec2024 03:31:09.819] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pablo left the game
+[05Dec2024 03:31:26.817] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fakkus55 was kicked for floating too long!
+[05Dec2024 03:31:26.879] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fakkus55 lost connection: Flying is not enabled on this server
+[05Dec2024 03:31:26.880] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Fakkus55 left the game
+[05Dec2024 03:31:28.198] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity SigmaEntity['Sigma'/73238, l='ServerLevel[world]', x=131.14, y=-9.00, z=-1132.01] died: Sigma was eaten by a Dusktrap
+[05Dec2024 03:31:34.418] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: pablo[/[::1]:59794] logged in with entity id 81933 at (46.06267797680671, 97.64757047863772, -1065.7624412621533)
+[05Dec2024 03:31:34.431] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pablo joined the game
+[05Dec2024 03:31:46.012] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: Disconnecting com.mojang.authlib.GameProfile@192ec831[id=<null>,name=pablo,properties={},legacy=false] (/[::1]:45834): Took too long to log in
+[05Dec2024 03:31:46.013] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@192ec831[id=<null>,name=pablo,properties={},legacy=false] (/[::1]:45834) lost connection: Took too long to log in
+[05Dec2024 03:31:46.058] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[05Dec2024 03:32:01.623] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Fakkus55[/[::1]:59224] logged in with entity id 82028 at (65.53043831152557, 113.60377278393085, -1134.762934335308)
+[05Dec2024 03:32:01.632] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Fakkus55 joined the game

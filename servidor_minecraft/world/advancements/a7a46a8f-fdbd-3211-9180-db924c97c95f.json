@@ -1157,6 +1157,7 @@
       "apple": "2024-11-15 04:36:39 +0000",
       "pumpkin_pie": "2024-11-15 05:34:35 +0000",
       "bread": "2024-11-18 00:50:23 +0000",
+      "golden_apple": "2024-12-05 03:25:09 +0000",
       "rotten_flesh": "2024-11-15 19:07:10 +0000",
       "glow_berries": "2024-11-17 22:25:33 +0000",
       "golden_carrot": "2024-12-05 01:00:30 +0000",
@@ -4303,6 +4304,18 @@
   "the_bumblezone:structures/enter_throne_pillar": {
     "criteria": {
       "in_throne_pillar": "2024-12-05 02:43:15 +0000"
+    },
+    "done": true
+  },
+  "the_bumblezone:effects/consume_bee_soup": {
+    "criteria": {
+      "consume_bee_soup": "2024-12-05 03:30:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/mushroom_stew": {
+    "criteria": {
+      "has_bowl": "2024-12-05 03:30:42 +0000"
     },
     "done": true
   },
