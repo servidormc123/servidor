@@ -4361,9 +4361,39 @@
     },
     "done": true
   },
+  "the_bumblezone:structures/enter_all_structures": {
+    "criteria": {
+      "in_cherry_veteran_tree": "2024-12-05 01:45:57 +0000"
+    },
+    "done": false
+  },
+  "the_bumblezone:armor/craft_flower_headwear": {
+    "criteria": {
+      "obtain_flower_headwear": "2024-12-05 01:47:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/red_dye_from_rose_bush": {
+    "criteria": {
+      "has_rose_bush": "2024-12-05 01:49:11 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/throw_trident": {
     "criteria": {
       "shot_trident": "2024-12-05 01:22:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_blue_dye_from_blue_orchid": {
+    "criteria": {
+      "has_blue_orchid": "2024-12-05 01:49:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/flower_banner_pattern": {
+    "criteria": {
+      "has_oxeye_daisy": "2024-12-05 01:49:12 +0000"
     },
     "done": true
   },
@@ -4373,8 +4403,30 @@
     },
     "done": true
   },
+  "the_bumblezone:honey_crystal_shield/obtain_honey_crystal_shield": {
+    "criteria": {
+      "obtain_honey_crystal_shield": "2024-12-05 01:42:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/yellow_dye_from_sunflower": {
+    "criteria": {
+      "has_sunflower": "2024-12-05 01:49:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/red_dye_from_tulip": {
+    "criteria": {
+      "has_red_flower": "2024-12-05 01:49:12 +0000"
+    },
+    "done": true
+  },
   "the_bumblezone:biomes/discover_all_biomes": {
     "criteria": {
+      "floral_meadow": "2024-12-05 01:45:56 +0000",
+      "crystal_canyon": "2024-12-05 01:38:57 +0000",
+      "sugar_water_floor": "2024-12-05 01:38:43 +0000",
+      "hive_pillar": "2024-12-05 01:45:38 +0000",
       "hive_wall": "2024-12-05 01:29:45 +0000",
       "pollinated_fields": "2024-12-05 01:31:41 +0000"
     },
@@ -4383,6 +4435,12 @@
   "the_bumblezone:teleportation/teleport_to_bumblezone_pearl": {
     "criteria": {
       "teleport_to_bumblezone_pearl": "2024-12-05 01:29:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/pink_dye_from_pink_petals": {
+    "criteria": {
+      "has_pink_petals": "2024-12-05 01:49:12 +0000"
     },
     "done": true
   },
@@ -4419,6 +4477,18 @@
   "minecraft:recipes/building_blocks/dark_prismarine": {
     "criteria": {
       "has_prismarine_shard": "2024-12-05 00:43:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_gray_dye_from_azure_bluet": {
+    "criteria": {
+      "has_azure_bluet": "2024-12-05 01:49:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_gray_dye_from_oxeye_daisy": {
+    "criteria": {
+      "has_oxeye_daisy": "2024-12-05 01:49:12 +0000"
     },
     "done": true
   },

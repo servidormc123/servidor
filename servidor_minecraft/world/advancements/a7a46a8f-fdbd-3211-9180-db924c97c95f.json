@@ -4109,28 +4109,27 @@
     },
     "done": true
   },
+  "dungeons_arise:find_fishing_hut": {
+    "criteria": {
+      "location0": "2024-12-05 00:51:01 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_cod_from_smoking": {
     "criteria": {
       "has_cod": "2024-12-05 00:51:13 +0000"
     },
     "done": true
   },
-  "the_bumblezone:biomes/discover_all_biomes": {
+  "minecraft:recipes/food/cooked_cod_from_campfire_cooking": {
     "criteria": {
-      "hive_wall": "2024-12-05 01:29:26 +0000",
-      "pollinated_fields": "2024-12-05 01:31:54 +0000"
-    },
-    "done": false
-  },
-  "the_bumblezone:teleportation/teleport_to_bumblezone_pearl": {
-    "criteria": {
-      "teleport_to_bumblezone_pearl": "2024-12-05 01:29:25 +0000"
+      "has_cod": "2024-12-05 00:51:13 +0000"
     },
     "done": true
   },
-  "dungeons_arise:find_fishing_hut": {
+  "minecraft:recipes/food/cooked_cod": {
     "criteria": {
-      "location0": "2024-12-05 00:51:01 +0000"
+      "has_cod": "2024-12-05 00:51:13 +0000"
     },
     "done": true
   },
@@ -4146,15 +4145,50 @@
     },
     "done": true
   },
-  "minecraft:recipes/food/cooked_cod_from_campfire_cooking": {
+  "the_bumblezone:teleportation/teleport_to_bumblezone_pearl": {
     "criteria": {
-      "has_cod": "2024-12-05 00:51:13 +0000"
+      "teleport_to_bumblezone_pearl": "2024-12-05 01:29:25 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/food/cooked_cod": {
+  "the_bumblezone:biomes/discover_all_biomes": {
     "criteria": {
-      "has_cod": "2024-12-05 00:51:13 +0000"
+      "floral_meadow": "2024-12-05 01:46:24 +0000",
+      "crystal_canyon": "2024-12-05 01:41:18 +0000",
+      "sugar_water_floor": "2024-12-05 01:40:06 +0000",
+      "hive_pillar": "2024-12-05 01:46:19 +0000",
+      "hive_wall": "2024-12-05 01:29:26 +0000",
+      "pollinated_fields": "2024-12-05 01:31:54 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/decorations/beehive": {
+    "criteria": {
+      "has_honeycomb": "2024-12-05 01:40:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/honeycomb_block": {
+    "criteria": {
+      "has_honeycomb": "2024-12-05 01:40:43 +0000"
+    },
+    "done": true
+  },
+  "the_bumblezone:honey_crystal_shield/obtain_honey_crystal_shield": {
+    "criteria": {
+      "obtain_honey_crystal_shield": "2024-12-05 01:43:20 +0000"
+    },
+    "done": true
+  },
+  "the_bumblezone:structures/enter_all_structures": {
+    "criteria": {
+      "in_cherry_veteran_tree": "2024-12-05 01:46:49 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/misc/pink_dye_from_pink_tulip": {
+    "criteria": {
+      "has_pink_tulip": "2024-12-05 01:49:50 +0000"
     },
     "done": true
   },

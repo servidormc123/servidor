@@ -306,3 +306,34 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [05Dec2024 01:39:00.662] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity DuckleyEntity['Duckley'/47895, l='ServerLevel[world]', x=382.00, y=81.00, z=-115.00] died: Duckley suffocated in a wall
 [05Dec2024 01:39:09.448] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablo: Set own game mode to Survival Mode]
 [05Dec2024 01:39:16.649] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablo: Teleported 4 entities to pablo]
+[05Dec2024 01:40:09.498] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nuna fell from a high place
+[05Dec2024 01:40:09.501] [Server thread/INFO] [tombstone/]: The player Nuna has successfully been saved
+[05Dec2024 01:40:22.591] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablo: Teleported Nuna to Fakkus55]
+[05Dec2024 01:41:04.322] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablo: Teleported 4 entities to pablo]
+[05Dec2024 01:41:33.193] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity DuckleyEntity['Duckley'/48659, l='ServerLevel[world]', x=521.00, y=45.00, z=-12.00] died: Duckley suffocated in a wall
+[05Dec2024 01:43:26.050] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kamicha19 was stung to death
+[05Dec2024 01:43:26.109] [Server thread/INFO] [tombstone/]: The player kamicha19 has successfully been saved
+[05Dec2024 01:43:35.299] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pablo was stung to death
+[05Dec2024 01:43:35.309] [Server thread/INFO] [tombstone/]: The player pablo has successfully been saved
+[05Dec2024 01:43:56.973] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablo: Teleported kamicha19 to pablo]
+[05Dec2024 01:44:29.048] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablo: Teleported pablo to Fakkus55]
+[05Dec2024 01:45:51.434] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablo: Set own game mode to Spectator Mode]
+[05Dec2024 01:46:08.346] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablo: Set own game mode to Survival Mode]
+[05Dec2024 01:46:18.934] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablo: Teleported 4 entities to pablo]
+[05Dec2024 01:47:13.753] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fakkus55 lost connection: Timed out
+[05Dec2024 01:47:13.753] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Fakkus55 left the game
+[05Dec2024 01:47:42.213] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Fakkus55[/[::1]:59462] logged in with entity id 51346 at (469.86634573760995, 45.0, -121.8725553978773)
+[05Dec2024 01:47:42.232] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Fakkus55 joined the game
+[05Dec2024 01:48:04.181] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablo: Teleported pablo to Fakkus55]
+[05Dec2024 01:48:07.398] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: kamicha19 lost connection: Timed out
+[05Dec2024 01:48:07.398] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kamicha19 left the game
+[05Dec2024 01:48:12.345] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fakkus55 lost connection: Timed out
+[05Dec2024 01:48:12.345] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Fakkus55 left the game
+[05Dec2024 01:48:21.178] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablo: Teleported pablo to Nuna]
+[05Dec2024 01:48:56.513] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Fakkus55[/[::1]:38960] logged in with entity id 51522 at (469.86634573760995, 45.0, -121.8725553978773)
+[05Dec2024 01:48:56.525] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Fakkus55 joined the game
+[05Dec2024 01:49:09.247] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=487, y=42, z=-207} BlockPos{x=486, y=40, z=-207}
+[05Dec2024 01:49:09.302] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=487, y=42, z=-207} BlockPos{x=486, y=40, z=-207}
+[05Dec2024 01:49:09.356] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=487, y=42, z=-207} BlockPos{x=486, y=40, z=-207}
+[05Dec2024 01:49:10.856] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=484, y=41, z=-208} BlockPos{x=482, y=40, z=-206}
+[05Dec2024 01:49:49.863] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablo: Teleported Fakkus55 to pablo]

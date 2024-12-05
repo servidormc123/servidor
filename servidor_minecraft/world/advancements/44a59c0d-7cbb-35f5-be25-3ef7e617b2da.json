@@ -573,6 +573,7 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "cooked_porkchop": "2024-11-23 19:22:30 +0000",
+      "cooked_beef": "2024-12-05 01:41:16 +0000",
       "baked_potato": "2024-11-25 00:03:26 +0000",
       "bread": "2024-11-23 20:35:41 +0000",
       "rotten_flesh": "2024-11-25 00:02:59 +0000"
@@ -2307,6 +2308,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/andesite_stairs": {
+    "criteria": {
+      "has_andesite": "2024-12-05 01:40:37 +0000"
+    },
+    "done": true
+  },
+  "the_bumblezone:structures/enter_all_structures": {
+    "criteria": {
+      "in_cherry_veteran_tree": "2024-12-05 01:46:28 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/redstone/birch_door": {
     "criteria": {
       "has_planks": "2024-12-05 01:10:26 +0000"
@@ -2373,9 +2386,21 @@
     },
     "done": true
   },
+  "the_bumblezone:honey_crystal_shield/obtain_honey_crystal_shield": {
+    "criteria": {
+      "obtain_honey_crystal_shield": "2024-12-05 01:42:41 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/honey_bottle": {
     "criteria": {
       "has_honey_block": "2024-12-05 01:29:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2024-12-05 01:40:37 +0000"
     },
     "done": true
   },
@@ -2391,8 +2416,17 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_andesite_stairs_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2024-12-05 01:40:37 +0000"
+    },
+    "done": true
+  },
   "the_bumblezone:biomes/discover_all_biomes": {
     "criteria": {
+      "floral_meadow": "2024-12-05 01:46:20 +0000",
+      "crystal_canyon": "2024-12-05 01:41:09 +0000",
+      "sugar_water_floor": "2024-12-05 01:40:01 +0000",
       "hive_wall": "2024-12-05 01:28:53 +0000",
       "pollinated_fields": "2024-12-05 01:31:49 +0000"
     },
@@ -2422,6 +2456,24 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/andesite_wall_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2024-12-05 01:40:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/beehive": {
+    "criteria": {
+      "has_honeycomb": "2024-12-05 01:43:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite_slab_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2024-12-05 01:40:37 +0000"
+    },
+    "done": true
+  },
   "dungeons_arise:find_fishing_hut": {
     "criteria": {
       "location0": "2024-12-05 01:02:31 +0000"
@@ -2434,9 +2486,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/andesite_slab_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2024-12-05 01:40:37 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/honey_block_slide": {
     "criteria": {
       "honey_block_slide": "2024-12-05 01:30:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/andesite_stairs_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2024-12-05 01:40:37 +0000"
     },
     "done": true
   },
@@ -2458,6 +2522,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_andesite": {
+    "criteria": {
+      "has_andesite": "2024-12-05 01:40:37 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/birch_trapdoor": {
     "criteria": {
       "has_planks": "2024-12-05 01:10:26 +0000"
@@ -2467,6 +2537,18 @@
   "another_furniture:recipes/birch_shelf": {
     "criteria": {
       "has_planks": "2024-12-05 01:10:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/andesite_wall": {
+    "criteria": {
+      "has_andesite": "2024-12-05 01:40:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/andesite_slab": {
+    "criteria": {
+      "has_andesite": "2024-12-05 01:40:37 +0000"
     },
     "done": true
   },
@@ -2485,6 +2567,12 @@
   "another_furniture:recipes/birch_table": {
     "criteria": {
       "has_planks": "2024-12-05 01:10:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/honeycomb_block": {
+    "criteria": {
+      "has_honeycomb": "2024-12-05 01:43:14 +0000"
     },
     "done": true
   },
