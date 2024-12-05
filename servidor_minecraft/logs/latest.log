@@ -698,3 +698,56 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [05Dec2024 03:31:46.058] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
 [05Dec2024 03:32:01.623] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Fakkus55[/[::1]:59224] logged in with entity id 82028 at (65.53043831152557, 113.60377278393085, -1134.762934335308)
 [05Dec2024 03:32:01.632] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Fakkus55 joined the game
+[05Dec2024 03:32:13.467] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fakkus55 was kicked for floating too long!
+[05Dec2024 03:32:13.519] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fakkus55 lost connection: Flying is not enabled on this server
+[05Dec2024 03:32:13.519] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Fakkus55 left the game
+[05Dec2024 03:32:28.777] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Fakkus55[/[::1]:33488] logged in with entity id 82281 at (65.53043831152557, 90.43599836692016, -1134.762934335308)
+[05Dec2024 03:32:28.785] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Fakkus55 joined the game
+[05Dec2024 03:32:40.312] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fakkus55 was kicked for floating too long!
+[05Dec2024 03:32:40.369] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fakkus55 lost connection: Flying is not enabled on this server
+[05Dec2024 03:32:40.369] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Fakkus55 left the game
+[05Dec2024 03:32:58.881] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Fakkus55[/[::1]:42476] logged in with entity id 82534 at (65.53043831152557, 70.47643135035233, -1134.762934335308)
+[05Dec2024 03:32:58.891] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Fakkus55 joined the game
+[05Dec2024 03:33:06.913] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablo: Teleported Fakkus55 to pablo]
+[05Dec2024 03:33:23.509] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity SigmaEntity['Sigma'/79173, l='ServerLevel[world]', x=100.50, y=15.00, z=-1073.64] died: Sigma was eaten by a Dusktrap
+[05Dec2024 03:33:54.273] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fakkus55 was kicked for floating too long!
+[05Dec2024 03:33:54.315] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fakkus55 lost connection: Flying is not enabled on this server
+[05Dec2024 03:33:54.315] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Fakkus55 left the game
+[05Dec2024 03:34:10.970] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Fakkus55[/[::1]:47762] logged in with entity id 83066 at (55.338716560484706, 101.57166799705139, -1057.0063061138271)
+[05Dec2024 03:34:10.978] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Fakkus55 joined the game
+[05Dec2024 03:34:19.394] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity SigmaEntity['Sigma'/73192, l='ServerLevel[world]', x=46.66, y=41.66, z=-985.51] died: Sigma was eaten by a Dusktrap
+[05Dec2024 03:34:26.054] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fakkus55 was kicked for floating too long!
+[05Dec2024 03:34:26.115] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fakkus55 lost connection: Flying is not enabled on this server
+[05Dec2024 03:34:26.116] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Fakkus55 left the game
+[05Dec2024 03:34:43.918] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Fakkus55[/[::1]:40940] logged in with entity id 83151 at (42.263954900608596, 96.37701530788473, -1052.5570362783453)
+[05Dec2024 03:34:43.927] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Fakkus55 joined the game
+[05Dec2024 03:34:47.991] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity SigmaEntity['Sigma'/72843, l='ServerLevel[world]', x=20.02, y=63.00, z=-1067.23] died: Sigma was eaten by a Dusktrap
+[05Dec2024 03:35:24.908] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nuna burned to death
+[05Dec2024 03:35:24.911] [Server thread/INFO] [tombstone/]: The player Nuna has successfully been saved
+[05Dec2024 03:35:53.041] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity SigmaEntity['Sigma'/73036, l='ServerLevel[world]', x=56.60, y=25.00, z=-970.60] died: Sigma was eaten by a Dusktrap
+[05Dec2024 03:36:02.725] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablo: Set own game mode to Creative Mode]
+[05Dec2024 03:36:40.505] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablo: Set own game mode to Survival Mode]
+[05Dec2024 03:36:47.801] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity SigmaEntity['Sigma'/81776, l='ServerLevel[world]', x=55.49, y=32.00, z=-1030.41] died: Sigma was eaten by a Dusktrap
+[05Dec2024 03:36:48.457] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablo: Set the time to 1000]
+[05Dec2024 03:36:57.904] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity SigmaEntity['Sigma'/82255, l='ServerLevel[world]', x=41.07, y=94.00, z=-1055.38] died: Sigma was burnt to a crisp whilst fighting pablo
+[05Dec2024 03:37:03.541] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity SigmaEntity['Sigma'/73121, l='ServerLevel[world]', x=53.08, y=43.00, z=-978.52] died: Sigma was eaten by a Dusktrap
+[05Dec2024 03:37:24.591] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity SigmaEntity['Sigma'/73166, l='ServerLevel[world]', x=-52.58, y=4.00, z=-1151.30] died: Sigma was eaten by a Dusktrap
+[05Dec2024 03:37:53.189] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity SigmaEntity['Sigma'/73738, l='ServerLevel[world]', x=-13.49, y=-9.00, z=-1207.54] died: Sigma fell from a high place
+[05Dec2024 03:37:57.522] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[05Dec2024 03:37:57.543] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[05Dec2024 03:37:57.544] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[05Dec2024 03:37:57.567] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: pablo lost connection: Server closed
+[05Dec2024 03:37:57.567] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pablo left the game
+[05Dec2024 03:37:57.575] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[05Dec2024 03:37:57.684] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[05Dec2024 03:37:57.998] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/twilightforest:twilight_forest
+[05Dec2024 03:37:57.999] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/the_bumblezone:the_bumblezone
+[05Dec2024 03:37:58.004] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[05Dec2024 03:37:58.004] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[05Dec2024 03:37:58.031] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[05Dec2024 03:37:58.031] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (twilight_forest): All chunks are saved
+[05Dec2024 03:37:58.031] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (the_bumblezone): All chunks are saved
+[05Dec2024 03:37:58.031] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[05Dec2024 03:37:58.031] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[05Dec2024 03:37:58.031] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[05Dec2024 03:37:58.221] [Server thread/INFO] [journeymap/]: Loading JourneyMap Forge Configs

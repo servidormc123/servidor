@@ -4277,15 +4277,9 @@
     },
     "done": true
   },
-  "the_bumblezone:windy_air/obtain_windy_air": {
+  "the_bumblezone:structures/enter_throne_pillar": {
     "criteria": {
-      "obtain_windy_air": "2024-12-05 02:48:16 +0000"
-    },
-    "done": true
-  },
-  "the_bumblezone:teleportation/teleport_out_of_bumblezone": {
-    "criteria": {
-      "teleport_out_of_bumblezone": "2024-12-05 03:06:22 +0000"
+      "in_throne_pillar": "2024-12-05 02:43:15 +0000"
     },
     "done": true
   },
@@ -4295,15 +4289,33 @@
     },
     "done": true
   },
+  "the_bumblezone:windy_air/obtain_windy_air": {
+    "criteria": {
+      "obtain_windy_air": "2024-12-05 02:48:16 +0000"
+    },
+    "done": true
+  },
+  "the_bumblezone:honey_crystal/obtain_honey_crystal_block": {
+    "criteria": {
+      "obtain_honey_crystal_block": "2024-12-05 02:48:34 +0000"
+    },
+    "done": true
+  },
   "the_bumblezone:decor/obtain_all_string_curtains": {
     "criteria": {
       "orange_string_curtain": "2024-12-05 02:53:04 +0000"
     },
     "done": false
   },
-  "the_bumblezone:structures/enter_throne_pillar": {
+  "the_bumblezone:teleportation/teleport_out_of_bumblezone": {
     "criteria": {
-      "in_throne_pillar": "2024-12-05 02:43:15 +0000"
+      "teleport_out_of_bumblezone": "2024-12-05 03:06:22 +0000"
+    },
+    "done": true
+  },
+  "the_bumblezone:tools/craft_honey_compass": {
+    "criteria": {
+      "obtain_honey_compass": "2024-12-05 03:09:05 +0000"
     },
     "done": true
   },
@@ -4316,18 +4328,6 @@
   "minecraft:recipes/food/mushroom_stew": {
     "criteria": {
       "has_bowl": "2024-12-05 03:30:42 +0000"
-    },
-    "done": true
-  },
-  "the_bumblezone:tools/craft_honey_compass": {
-    "criteria": {
-      "obtain_honey_compass": "2024-12-05 03:09:05 +0000"
-    },
-    "done": true
-  },
-  "the_bumblezone:honey_crystal/obtain_honey_crystal_block": {
-    "criteria": {
-      "obtain_honey_crystal_block": "2024-12-05 02:48:34 +0000"
     },
     "done": true
   },
