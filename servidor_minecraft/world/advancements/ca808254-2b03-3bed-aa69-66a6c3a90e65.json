@@ -1392,6 +1392,7 @@
       "cooked_mutton": "2024-11-14 05:03:32 +0000",
       "cooked_beef": "2024-11-15 02:28:36 +0000",
       "baked_potato": "2024-11-16 00:28:08 +0000",
+      "apple": "2024-12-05 01:08:01 +0000",
       "pumpkin_pie": "2024-11-15 04:42:29 +0000",
       "bread": "2024-11-15 05:02:29 +0000",
       "golden_apple": "2024-11-26 04:19:07 +0000",
@@ -4360,9 +4361,28 @@
     },
     "done": true
   },
+  "minecraft:adventure/throw_trident": {
+    "criteria": {
+      "shot_trident": "2024-12-05 01:22:11 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/dried_kelp_from_smoking": {
     "criteria": {
       "has_kelp": "2024-12-05 00:47:11 +0000"
+    },
+    "done": true
+  },
+  "the_bumblezone:biomes/discover_all_biomes": {
+    "criteria": {
+      "hive_wall": "2024-12-05 01:29:45 +0000",
+      "pollinated_fields": "2024-12-05 01:31:41 +0000"
+    },
+    "done": false
+  },
+  "the_bumblezone:teleportation/teleport_to_bumblezone_pearl": {
+    "criteria": {
+      "teleport_to_bumblezone_pearl": "2024-12-05 01:29:45 +0000"
     },
     "done": true
   },

@@ -210,3 +210,99 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [05Dec2024 01:07:50.895] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity SigmaEntity['Sigma'/26534, l='ServerLevel[world]', x=55.51, y=3.00, z=-952.62] died: Sigma fell from a high place
 [05Dec2024 01:08:32.041] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity SigmaEntity['Sigma'/26362, l='ServerLevel[world]', x=73.47, y=18.00, z=-1067.39] died: Sigma was eaten by a Dusktrap
 [05Dec2024 01:08:59.441] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity SigmaEntity['Sigma'/26377, l='ServerLevel[world]', x=40.44, y=50.00, z=-1074.64] died: Sigma was eaten by a Dusktrap
+[05Dec2024 01:09:29.541] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity SigmaEntity['Sigma'/26349, l='ServerLevel[world]', x=20.85, y=63.00, z=-1067.15] died: Sigma was eaten by a Dusktrap
+[05Dec2024 01:09:29.829] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablo: Teleported pablo to Fakkus55]
+[05Dec2024 01:10:15.966] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity SigmaEntity['Sigma'/28885, l='ServerLevel[world]', x=75.50, y=14.03, z=-1095.30] died: Sigma was eaten by a Dusktrap
+[05Dec2024 01:11:59.295] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Nuna[/[::1]:35532] logged in with entity id 30163 at (45.99326739325577, 95.0, -1051.5089465188778)
+[05Dec2024 01:11:59.307] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nuna joined the game
+[05Dec2024 01:12:05.678] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablo: Gave 200 experience points to Fakkus55]
+[05Dec2024 01:12:09.070] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablo: Gave 200 experience points to Fakkus55]
+[05Dec2024 01:12:10.865] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablo: Gave 200 experience points to Fakkus55]
+[05Dec2024 01:12:12.270] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablo: Gave 200 experience points to Fakkus55]
+[05Dec2024 01:12:37.030] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablo: Set own game mode to Creative Mode]
+[05Dec2024 01:12:40.290] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity SigmaEntity['Sigma'/26345, l='ServerLevel[world]', x=39.81, y=50.00, z=-1076.89] died: Sigma was eaten by a Dusktrap
+[05Dec2024 01:13:01.950] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablo: Set own game mode to Survival Mode]
+[05Dec2024 01:13:10.714] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity SigmaEntity['Sigma'/26548, l='ServerLevel[world]', x=131.25, y=-9.00, z=-1132.75] died: Sigma was eaten by a Dusktrap
+[05Dec2024 01:13:53.262] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity SigmaEntity['Sigma'/29857, l='ServerLevel[world]', x=-38.15, y=31.00, z=-1091.85] died: Sigma was eaten by a Dusktrap
+[05Dec2024 01:14:00.052] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity SigmaEntity['Sigma'/26540, l='ServerLevel[world]', x=120.94, y=4.06, z=-1148.31] died: Sigma was doomed to fall
+[05Dec2024 01:14:08.717] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablo: Gave 200 experience points to Fakkus55]
+[05Dec2024 01:14:13.366] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablo: Gave 200 experience points to Fakkus55]
+[05Dec2024 01:14:14.424] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablo: Gave 200 experience points to Fakkus55]
+[05Dec2024 01:14:17.945] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity SigmaEntity['Sigma'/26672, l='ServerLevel[world]', x=38.53, y=5.00, z=-909.58] died: Sigma was eaten by a Dusktrap
+[05Dec2024 01:14:52.330] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity SigmaEntity['Sigma'/28254, l='ServerLevel[world]', x=85.09, y=105.00, z=-1268.90] died: Sigma was slain by kamicha19
+[05Dec2024 01:14:56.269] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity SigmaEntity['Sigma'/28268, l='ServerLevel[world]', x=93.44, y=105.00, z=-1267.80] died: Sigma was slain by kamicha19
+[05Dec2024 01:15:03.146] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity SigmaEntity['Sigma'/28267, l='ServerLevel[world]', x=90.70, y=105.00, z=-1286.94] died: Sigma was slain by kamicha19
+[05Dec2024 01:15:23.609] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity SigmaEntity['Sigma'/26472, l='ServerLevel[world]', x=104.51, y=-11.00, z=-1107.67] died: Sigma was eaten by a Dusktrap
+[05Dec2024 01:15:26.820] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nuna has made the advancement [Cover Me with Diamonds]
+[05Dec2024 01:15:28.473] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity SigmaEntity['Sigma'/28044, l='ServerLevel[world]', x=97.89, y=99.00, z=-1282.54] died: Sigma was slain by kamicha19
+[05Dec2024 01:15:47.175] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity SigmaEntity['Sigma'/28289, l='ServerLevel[world]', x=21.43, y=90.00, z=-1274.29] died: Sigma was slain by kamicha19
+[05Dec2024 01:15:56.076] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity SigmaEntity['Sigma'/29623, l='ServerLevel[world]', x=11.30, y=87.00, z=-1249.30] died: Sigma was slain by kamicha19
+[05Dec2024 01:15:58.625] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablo: Teleported kamicha19 to pablo]
+[05Dec2024 01:16:58.223] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kamicha19 has made the advancement [Cover Me with Diamonds]
+[05Dec2024 01:18:02.803] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity SigmaEntity['Sigma'/26418, l='ServerLevel[world]', x=31.36, y=3.00, z=-1117.47] died: Sigma was eaten by a Dusktrap
+[05Dec2024 01:18:40.693] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity SigmaEntity['Sigma'/26373, l='ServerLevel[world]', x=40.90, y=50.00, z=-1074.13] died: Sigma was eaten by a Dusktrap
+[05Dec2024 01:19:01.084] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Fakkus55 has made the advancement [Ambush]
+[05Dec2024 01:19:23.026] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity SigmaEntity['Sigma'/28252, l='ServerLevel[world]', x=62.95, y=95.00, z=-1227.27] died: Sigma was slain by kamicha19
+[05Dec2024 01:19:30.456] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity SigmaEntity['Sigma'/32172, l='ServerLevel[world]', x=165.40, y=26.00, z=-1295.39] died: Sigma burned to death
+[05Dec2024 01:19:33.521] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablo: Set the time to 1000]
+[05Dec2024 01:20:13.041] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity SigmaEntity['Sigma'/26346, l='ServerLevel[world]', x=39.11, y=50.00, z=-1076.55] died: Sigma was eaten by a Dusktrap
+[05Dec2024 01:20:19.172] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity SigmaEntity['Sigma'/31977, l='ServerLevel[world]', x=84.28, y=95.77, z=-1274.67] died: Sigma was slain by kamicha19
+[05Dec2024 01:20:24.490] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity SigmaEntity['Sigma'/26380, l='ServerLevel[world]', x=18.36, y=63.00, z=-1067.64] died: Sigma was eaten by a Dusktrap
+[05Dec2024 01:20:30.173] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity SigmaEntity['Sigma'/32154, l='ServerLevel[world]', x=98.81, y=93.00, z=-1272.87] died: Sigma was slain by kamicha19
+[05Dec2024 01:21:04.078] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity SigmaEntity['Sigma'/32153, l='ServerLevel[world]', x=34.03, y=90.00, z=-1288.88] died: Sigma was slain by kamicha19
+[05Dec2024 01:21:13.022] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity SigmaEntity['Sigma'/30008, l='ServerLevel[world]', x=20.30, y=90.00, z=-1273.40] died: Sigma was slain by kamicha19
+[05Dec2024 01:21:20.023] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity SigmaEntity['Sigma'/30009, l='ServerLevel[world]', x=38.30, y=87.00, z=-1271.35] died: Sigma was slain by kamicha19
+[05Dec2024 01:21:26.122] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity SigmaEntity['Sigma'/33823, l='ServerLevel[world]', x=39.10, y=87.00, z=-1252.70] died: Sigma was slain by kamicha19
+[05Dec2024 01:22:00.548] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity SigmaEntity['Sigma'/27544, l='ServerLevel[world]', x=-31.74, y=-42.00, z=-1209.67] died: Sigma fell from a high place
+[05Dec2024 01:22:11.114] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pablo has made the advancement [A Throwaway Joke]
+[05Dec2024 01:23:11.802] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kamicha19 was blown up by Creeper
+[05Dec2024 01:23:11.814] [Server thread/INFO] [tombstone/]: The player kamicha19 has successfully been saved
+[05Dec2024 01:23:12.601] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity SigmaEntity['Sigma'/29811, l='ServerLevel[world]', x=-54.91, y=51.78, z=-1047.30] died: Sigma was eaten by a Dusktrap
+[05Dec2024 01:23:18.939] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity SigmaEntity['Sigma'/26374, l='ServerLevel[world]', x=39.15, y=50.00, z=-1076.85] died: Sigma was eaten by a Dusktrap
+[05Dec2024 01:23:23.308] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablo: Teleported kamicha19 to pablo]
+[05Dec2024 01:23:29.676] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablo: Teleported kamicha19 to pablo]
+[05Dec2024 01:23:38.853] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablo: Set own game mode to Creative Mode]
+[05Dec2024 01:24:07.157] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablo: Set own game mode to Survival Mode]
+[05Dec2024 01:24:12.061] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity SigmaEntity['Sigma'/34508, l='ServerLevel[world]', x=26.70, y=94.00, z=-1056.95] died: Sigma was slain by Nuna
+[05Dec2024 01:24:27.274] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity SigmaEntity['Sigma'/35046, l='ServerLevel[world]', x=25.42, y=94.00, z=-1056.49] died: Sigma was slain by Fakkus55
+[05Dec2024 01:25:04.595] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity SigmaEntity['Sigma'/30478, l='ServerLevel[world]', x=39.67, y=50.00, z=-1076.16] died: Sigma was eaten by a Dusktrap
+[05Dec2024 01:25:10.791] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity SigmaEntity['Sigma'/26456, l='ServerLevel[world]', x=56.49, y=26.44, z=-970.50] died: Sigma was eaten by a Dusktrap
+[05Dec2024 01:25:36.005] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity SigmaEntity['Sigma'/34214, l='ServerLevel[world]', x=53.85, y=24.00, z=-971.85] died: Sigma was eaten by a Dusktrap
+[05Dec2024 01:25:45.387] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablo: Teleported Nuna to pablo]
+[05Dec2024 01:26:31.100] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity SigmaEntity['Sigma'/26544, l='ServerLevel[world]', x=118.29, y=5.00, z=-1146.71] died: Sigma fell from a high place
+[05Dec2024 01:27:29.419] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablo: Teleported Fakkus55 to pablo]
+[05Dec2024 01:28:39.754] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity SigmaEntity['Sigma'/26437, l='ServerLevel[world]', x=100.50, y=15.00, z=-1073.63] died: Sigma was eaten by a Dusktrap
+[05Dec2024 01:28:52.891] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3356ms or 67 ticks behind
+[05Dec2024 01:29:02.770] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity DuckleyEntity['Duckley'/36793, l='ServerLevel[world]', x=13.00, y=136.00, z=-297.00] died: Duckley suffocated in a wall
+[05Dec2024 01:29:04.437] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity DuckleyEntity['Duckley'/36816, l='ServerLevel[world]', x=64.60, y=119.00, z=-281.00] died: Duckley suffocated in a wall
+[05Dec2024 01:29:14.901] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity SigmaEntity['Sigma'/26545, l='ServerLevel[world]', x=131.49, y=-9.00, z=-1132.29] died: Sigma was eaten by a Dusktrap
+[05Dec2024 01:29:16.534] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity DuckleyEntity['Duckley'/37262, l='ServerLevel[world]', x=82.00, y=128.00, z=-201.00] died: Duckley suffocated in a wall
+[05Dec2024 01:29:18.738] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity DuckleyEntity['Duckley'/37256, l='ServerLevel[world]', x=134.00, y=48.00, z=-243.00] died: Duckley suffocated in a wall
+[05Dec2024 01:29:20.670] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablo: Set own game mode to Creative Mode]
+[05Dec2024 01:29:29.265] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity DuckleyEntity['Duckley'/37725, l='ServerLevel[world]', x=49.00, y=38.00, z=-132.00] died: Duckley suffocated in a wall
+[05Dec2024 01:29:31.864] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablo: Set own game mode to Survival Mode]
+[05Dec2024 01:30:03.811] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kamicha19 has made the advancement [Sticky Situation]
+[05Dec2024 01:30:30.391] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Fakkus55 was stung to death
+[05Dec2024 01:30:30.404] [Server thread/INFO] [tombstone/]: The player Fakkus55 has successfully been saved
+[05Dec2024 01:30:38.305] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablo: Teleported Fakkus55 to pablo]
+[05Dec2024 01:30:50.347] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablo: Set own game mode to Creative Mode]
+[05Dec2024 01:30:59.848] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablo: Set own game mode to Survival Mode]
+[05Dec2024 01:31:33.058] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablo: Teleported kamicha19 to pablo]
+[05Dec2024 01:31:42.871] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pablo fell from a high place
+[05Dec2024 01:31:42.874] [Server thread/INFO] [tombstone/]: The player pablo has successfully been saved
+[05Dec2024 01:31:48.785] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablo: Teleported pablo to kamicha19]
+[05Dec2024 01:31:53.610] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kamicha19 was doomed to fall by Fakkus55
+[05Dec2024 01:31:53.614] [Server thread/INFO] [tombstone/]: The player kamicha19 has successfully been saved
+[05Dec2024 01:32:02.811] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablo: Teleported kamicha19 to pablo]
+[05Dec2024 01:33:55.895] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablo: Teleported pablo to Fakkus55]
+[05Dec2024 01:34:48.055] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablo: Teleported 4 entities to pablo]
+[05Dec2024 01:35:42.598] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablo: Set own game mode to Creative Mode]
+[05Dec2024 01:36:09.325] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablo: Set own game mode to Survival Mode]
+[05Dec2024 01:36:09.372] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-28, y=48, z=-272} BlockPos{x=-27, y=49, z=-272}
+[05Dec2024 01:38:33.111] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablo: Set own game mode to Spectator Mode]
+[05Dec2024 01:38:39.193] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=82, y=93, z=71} but found not block entity block Block{minecraft:cave_air} at location
+[05Dec2024 01:38:39.193] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:cave_air} but failed at location BlockPos{x=82, y=93, z=71}
+[05Dec2024 01:38:52.549] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity DuckleyEntity['Duckley'/47753, l='ServerLevel[world]', x=284.00, y=116.00, z=14.00] died: Duckley suffocated in a wall
+[05Dec2024 01:39:00.662] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity DuckleyEntity['Duckley'/47895, l='ServerLevel[world]', x=382.00, y=81.00, z=-115.00] died: Duckley suffocated in a wall
+[05Dec2024 01:39:09.448] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablo: Set own game mode to Survival Mode]
+[05Dec2024 01:39:16.649] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablo: Teleported 4 entities to pablo]

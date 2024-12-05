@@ -1179,10 +1179,12 @@
       "minecraft:spider": "2024-11-15 19:41:02 +0000",
       "minecraft:piglin_brute": "2024-11-18 23:25:55 +0000",
       "minecraft:creeper": "2024-11-15 19:12:11 +0000",
+      "minecraft:witch": "2024-12-05 01:19:01 +0000",
       "minecraft:husk": "2024-11-15 04:22:38 +0000",
       "minecraft:cave_spider": "2024-11-15 05:20:55 +0000",
       "minecraft:piglin": "2024-11-18 23:22:29 +0000",
       "minecraft:enderman": "2024-11-16 01:33:13 +0000",
+      "minecraft:endermite": "2024-12-05 01:29:09 +0000",
       "minecraft:zombie": "2024-11-15 04:16:18 +0000",
       "minecraft:drowned": "2024-11-15 04:55:07 +0000",
       "minecraft:zombie_villager": "2024-11-17 22:24:32 +0000"
@@ -4113,6 +4115,19 @@
     },
     "done": true
   },
+  "the_bumblezone:biomes/discover_all_biomes": {
+    "criteria": {
+      "hive_wall": "2024-12-05 01:29:26 +0000",
+      "pollinated_fields": "2024-12-05 01:31:54 +0000"
+    },
+    "done": false
+  },
+  "the_bumblezone:teleportation/teleport_to_bumblezone_pearl": {
+    "criteria": {
+      "teleport_to_bumblezone_pearl": "2024-12-05 01:29:25 +0000"
+    },
+    "done": true
+  },
   "dungeons_arise:find_fishing_hut": {
     "criteria": {
       "location0": "2024-12-05 00:51:01 +0000"
@@ -4122,6 +4137,12 @@
   "alexsmobs:alexsmobs/seagull_steal": {
     "criteria": {
       "ex": "2024-12-05 01:02:49 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/ambush": {
+    "criteria": {
+      "coded_trigger": "2024-12-05 01:19:01 +0000"
     },
     "done": true
   },
