@@ -38,13 +38,17 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:taiga": "2024-11-15 04:00:58 +0000",
+      "minecraft:deep_ocean": "2024-12-06 03:55:24 +0000",
       "minecraft:sunflower_plains": "2024-11-15 20:09:37 +0000",
       "minecraft:birch_forest": "2024-11-15 19:53:05 +0000",
       "minecraft:mangrove_swamp": "2024-11-26 03:11:01 +0000",
       "minecraft:river": "2024-11-15 03:59:39 +0000",
+      "minecraft:stony_shore": "2024-12-06 03:56:17 +0000",
       "minecraft:dripstone_caves": "2024-11-15 05:07:23 +0000",
+      "minecraft:cold_ocean": "2024-12-06 03:56:06 +0000",
       "minecraft:forest": "2024-11-15 03:58:34 +0000",
       "minecraft:lush_caves": "2024-11-17 22:13:30 +0000",
+      "minecraft:ocean": "2024-12-06 03:54:56 +0000",
       "minecraft:flower_forest": "2024-11-15 20:07:58 +0000",
       "minecraft:old_growth_birch_forest": "2024-11-15 19:54:46 +0000",
       "minecraft:deep_dark": "2024-11-26 02:45:41 +0000",
@@ -1023,8 +1027,10 @@
     "criteria": {
       "silver_birch_forest": "2024-11-15 04:10:44 +0000",
       "shrubland": "2024-12-05 00:52:27 +0000",
+      "pine_taiga": "2024-12-06 03:51:47 +0000",
       "autumnal_maple_forest": "2024-11-23 20:38:17 +0000",
       "muddy_river": "2024-11-26 03:16:16 +0000",
+      "prismachasm": "2024-12-06 03:59:39 +0000",
       "ancient_delta": "2024-11-23 04:51:47 +0000",
       "willow_forest": "2024-11-15 19:51:22 +0000",
       "redstone_caves": "2024-11-17 22:27:28 +0000",
@@ -1032,13 +1038,18 @@
       "scorching_caves": "2024-11-23 04:57:43 +0000",
       "grassy_beach": "2024-12-05 00:50:51 +0000",
       "rocky_meadow": "2024-11-15 19:51:15 +0000",
+      "blackwood_taiga": "2024-12-06 03:46:57 +0000",
       "flower_fields": "2024-11-17 23:06:28 +0000",
       "maple_forest": "2024-11-15 04:10:23 +0000",
       "mountains": "2024-11-23 21:00:39 +0000",
       "boreal_forest": "2024-11-15 04:06:48 +0000",
+      "towering_cliffs": "2024-12-06 03:49:52 +0000",
       "infernal_holt": "2024-11-18 23:29:00 +0000",
       "cold_river": "2024-11-15 19:45:05 +0000",
-      "pine_slopes": "2024-11-23 21:00:14 +0000"
+      "pine_slopes": "2024-11-23 21:00:14 +0000",
+      "old_growth_bayou": "2024-12-06 03:48:29 +0000",
+      "golden_boreal_taiga": "2024-12-06 04:04:00 +0000",
+      "lupine_plains": "2024-12-06 03:51:14 +0000"
     },
     "done": false
   },
@@ -1046,18 +1057,24 @@
     "criteria": {
       "silver_birch_forest": "2024-11-15 04:10:44 +0000",
       "shrubland": "2024-12-05 00:52:27 +0000",
+      "pine_taiga": "2024-12-06 03:51:47 +0000",
       "autumnal_maple_forest": "2024-11-23 20:38:17 +0000",
       "muddy_river": "2024-11-26 03:16:16 +0000",
       "willow_forest": "2024-11-15 19:51:22 +0000",
       "poppy_fields": "2024-11-16 02:45:17 +0000",
       "grassy_beach": "2024-12-05 00:50:51 +0000",
       "rocky_meadow": "2024-11-15 19:51:15 +0000",
+      "blackwood_taiga": "2024-12-06 03:46:57 +0000",
       "flower_fields": "2024-11-17 23:06:28 +0000",
       "maple_forest": "2024-11-15 04:10:23 +0000",
       "mountains": "2024-11-23 21:00:39 +0000",
       "boreal_forest": "2024-11-15 04:06:48 +0000",
+      "towering_cliffs": "2024-12-06 03:49:52 +0000",
       "cold_river": "2024-11-15 19:45:05 +0000",
-      "pine_slopes": "2024-11-23 21:00:14 +0000"
+      "pine_slopes": "2024-11-23 21:00:14 +0000",
+      "old_growth_bayou": "2024-12-06 03:48:29 +0000",
+      "golden_boreal_taiga": "2024-12-06 04:04:00 +0000",
+      "lupine_plains": "2024-12-06 03:51:14 +0000"
     },
     "done": false
   },
@@ -3109,6 +3126,7 @@
   "regions_unexplored:spelunker": {
     "criteria": {
       "redstone_caves": "2024-11-17 22:27:28 +0000",
+      "prismachasm": "2024-12-06 03:59:39 +0000",
       "scorching_caves": "2024-11-23 04:57:43 +0000",
       "ancient_delta": "2024-11-23 04:51:47 +0000"
     },
@@ -4331,15 +4349,159 @@
     },
     "done": true
   },
+  "another_furniture:recipes/jungle_chair": {
+    "criteria": {
+      "has_planks": "2024-12-06 03:47:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cyan_bed": {
+    "criteria": {
+      "has_cyan_wool": "2024-12-06 03:48:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/jungle_stairs": {
+    "criteria": {
+      "has_planks": "2024-12-06 03:47:49 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/cyan_tall_stool": {
+    "criteria": {
+      "has_wool": "2024-12-06 03:48:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cyan_banner": {
+    "criteria": {
+      "has_cyan_wool": "2024-12-06 03:48:15 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_abandoned_temple": {
+    "criteria": {
+      "location0": "2024-12-06 03:46:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/jungle_trapdoor": {
+    "criteria": {
+      "has_planks": "2024-12-06 03:47:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/jungle_sign": {
+    "criteria": {
+      "has_planks": "2024-12-06 03:47:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/jungle_door": {
+    "criteria": {
+      "has_planks": "2024-12-06 03:47:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/jungle_fence": {
+    "criteria": {
+      "has_planks": "2024-12-06 03:47:49 +0000"
+    },
+    "done": true
+  },
   "tombstone:adventure/christmas": {
     "criteria": {
       "coded_trigger": "2024-12-06 03:09:57 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/redstone/slime_block": {
+    "criteria": {
+      "has_slime_ball": "2024-12-06 04:06:45 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/jungle_table": {
+    "criteria": {
+      "has_planks": "2024-12-06 03:47:49 +0000"
+    },
+    "done": true
+  },
   "tombstone:adventure/mysterious_gift": {
     "criteria": {
       "coded_trigger": "2024-12-06 03:09:57 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/cyan_stool": {
+    "criteria": {
+      "has_wool": "2024-12-06 03:48:15 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/jungle_shelf": {
+    "criteria": {
+      "has_planks": "2024-12-06 03:47:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/jungle_slab": {
+    "criteria": {
+      "has_planks": "2024-12-06 03:47:49 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/cyan_curtain": {
+    "criteria": {
+      "has_wool": "2024-12-06 03:48:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/jungle_button": {
+    "criteria": {
+      "has_planks": "2024-12-06 03:47:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cyan_carpet": {
+    "criteria": {
+      "has_cyan_wool": "2024-12-06 03:48:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/lead": {
+    "criteria": {
+      "has_slime_ball": "2024-12-06 04:06:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/jungle_fence_gate": {
+    "criteria": {
+      "has_planks": "2024-12-06 03:47:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/sticky_piston": {
+    "criteria": {
+      "has_slime_ball": "2024-12-06 04:06:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/jungle_pressure_plate": {
+    "criteria": {
+      "has_planks": "2024-12-06 03:47:49 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/cyan_lamp": {
+    "criteria": {
+      "has_wool": "2024-12-06 03:48:15 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/cyan_sofa": {
+    "criteria": {
+      "has_wool": "2024-12-06 03:48:15 +0000"
     },
     "done": true
   },

@@ -242,3 +242,192 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [06Dec2024 03:34:05.078] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity SigmaEntity['Sigma'/13971, l='ServerLevel[world]', x=1258.03, y=21.00, z=-1809.03] died: Sigma suffocated in a wall
 [06Dec2024 03:34:05.225] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity SigmaEntity['Sigma'/13955, l='ServerLevel[world]', x=1254.49, y=43.00, z=-1686.47] died: Sigma suffocated in a wall
 [06Dec2024 03:34:11.888] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2079ms or 41 ticks behind
+[06Dec2024 03:34:31.342] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4482ms or 89 ticks behind
+[06Dec2024 03:34:48.471] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2161ms or 43 ticks behind
+[06Dec2024 03:34:48.556] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity SigmaEntity['Sigma'/14889, l='ServerLevel[world]', x=1288.25, y=40.00, z=-2063.51] died: Sigma suffocated in a wall
+[06Dec2024 03:34:49.612] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity SigmaEntity['Sigma'/13467, l='ServerLevel[world]', x=-128.63, y=34.69, z=-1039.37] died: Sigma was eaten by a Dusktrap
+[06Dec2024 03:35:06.970] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity DuncanEntity['Duncan'/15067, l='ServerLevel[world]', x=1148.71, y=62.61, z=-2091.92] died: Duncan was slain by JonyDC
+[06Dec2024 03:35:34.041] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity SigmaEntity['Sigma'/9413, l='ServerLevel[world]', x=32.37, y=45.00, z=-992.64] died: Sigma was eaten by a Dusktrap
+[06Dec2024 03:35:59.909] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablo: Teleported pablo to JonyDC]
+[06Dec2024 03:36:19.107] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity SigmaEntity['Sigma'/961, l='ServerLevel[world]', x=84.81, y=17.00, z=-1106.50] died: Sigma was eaten by a Dusktrap
+[06Dec2024 03:36:20.464] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity SigmaEntity['Sigma'/11047, l='ServerLevel[world]', x=-77.44, y=-3.00, z=-1091.85] died: Sigma was eaten by a Dusktrap
+[06Dec2024 03:36:26.431] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity SigmaEntity['Sigma'/1009, l='ServerLevel[world]', x=103.63, y=13.69, z=-1078.39] died: Sigma was eaten by a Dusktrap
+[06Dec2024 03:37:21.073] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2013ms or 40 ticks behind
+[06Dec2024 03:37:29.591] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JonyDC lost connection: Timed out
+[06Dec2024 03:37:29.592] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JonyDC left the game
+[06Dec2024 03:37:36.639] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kamicha19 was slain by Cave Spider
+[06Dec2024 03:37:36.655] [Server thread/INFO] [tombstone/]: The player kamicha19 has successfully been saved
+[06Dec2024 03:37:39.720] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity SigmaEntity['Sigma'/1965, l='ServerLevel[world]', x=-31.85, y=10.00, z=-1042.15] died: Sigma was eaten by a Dusktrap
+[06Dec2024 03:37:53.556] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: JonyDC[/[::1]:53320] logged in with entity id 18673 at (1392.195056072833, 63.0, -2493.7021834067536)
+[06Dec2024 03:37:53.565] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JonyDC joined the game
+[06Dec2024 03:37:58.896] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablo: Teleported pablo to JonyDC]
+[06Dec2024 03:38:07.852] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablo: Teleported kamicha19 to pablo]
+[06Dec2024 03:38:14.895] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablo: Teleported pablo to JonyDC]
+[06Dec2024 03:38:20.300] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablo: Teleported pablo to JonyDC]
+[06Dec2024 03:38:28.400] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablo: Teleported pablo to JonyDC]
+[06Dec2024 03:38:31.360] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablo: Teleported kamicha19 to pablo]
+[06Dec2024 03:39:26.648] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablo: Teleported kamicha19 to pablo]
+[06Dec2024 03:39:45.611] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kamicha19 was blown up by Creeper
+[06Dec2024 03:39:45.634] [Server thread/INFO] [tombstone/]: The player kamicha19 has successfully been saved
+[06Dec2024 03:39:58.135] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: kamicha19 lost connection: Timed out
+[06Dec2024 03:39:58.136] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kamicha19 left the game
+[06Dec2024 03:40:07.144] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity SigmaEntity['Sigma'/10210, l='ServerLevel[world]', x=37.53, y=4.00, z=-1110.88] died: Sigma was eaten by a Dusktrap
+[06Dec2024 03:40:19.073] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablo: Teleported pablo to Fakkus55]
+[06Dec2024 03:40:45.093] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablo: Set the time to 1000]
+[06Dec2024 03:40:46.247] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JonyDC lost connection: You logged in from another location
+[06Dec2024 03:40:46.248] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JonyDC left the game
+[06Dec2024 03:40:46.257] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: JonyDC[/[::1]:40730] logged in with entity id 21280 at (1661.6812870801793, 81.0, -2735.347343751262)
+[06Dec2024 03:40:46.267] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JonyDC joined the game
+[06Dec2024 03:40:53.603] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JonyDC was shot by Skeleton
+[06Dec2024 03:40:53.609] [Server thread/INFO] [tombstone/]: The player JonyDC has successfully been saved
+[06Dec2024 03:40:55.019] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity SigmaEntity['Sigma'/1052, l='ServerLevel[world]', x=55.93, y=7.75, z=-953.11] died: Sigma drowned
+[06Dec2024 03:40:57.289] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JonyDC has made the advancement [The Most Useful Key]
+[06Dec2024 03:41:09.427] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JonyDC has reached the goal [A Fast Comeback]
+[06Dec2024 03:41:58.855] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablo: Set own game mode to Creative Mode]
+[06Dec2024 03:42:28.526] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity SigmaEntity['Sigma'/11869, l='ServerLevel[world]', x=42.55, y=41.00, z=-980.33] died: Sigma was eaten by a Dusktrap
+[06Dec2024 03:42:37.143] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablo: Teleported pablo to JonyDC]
+[06Dec2024 03:43:01.492] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JonyDC lost connection: Timed out
+[06Dec2024 03:43:01.492] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JonyDC left the game
+[06Dec2024 03:43:08.257] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: JonyDC[/[::1]:54756] logged in with entity id 23289 at (1728.701957487786, 74.0, -2786.418214203681)
+[06Dec2024 03:43:08.267] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JonyDC joined the game
+[06Dec2024 03:43:18.545] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablo: Set own game mode to Survival Mode]
+[06Dec2024 03:43:51.428] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity SigmaEntity['Sigma'/14574, l='ServerLevel[world]', x=-40.45, y=-5.00, z=-939.63] died: Sigma was eaten by a Dusktrap
+[06Dec2024 03:44:39.630] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity SigmaEntity['Sigma'/18876, l='ServerLevel[world]', x=201.51, y=14.44, z=-942.56] died: Sigma was eaten by a Dusktrap
+[06Dec2024 03:44:57.227] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity SigmaEntity['Sigma'/10213, l='ServerLevel[world]', x=58.50, y=16.00, z=-947.65] died: Sigma was eaten by a Dusktrap
+[06Dec2024 03:45:00.070] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity SigmaEntity['Sigma'/853, l='ServerLevel[world]', x=39.96, y=50.00, z=-1076.32] died: Sigma was eaten by a Dusktrap
+[06Dec2024 03:45:49.390] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pablo has made the advancement [R.I.P. Yondu]
+[06Dec2024 03:46:09.642] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pablo has reached the goal [Heliomancer]
+[06Dec2024 03:46:20.900] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pablo was shot by Skeleton
+[06Dec2024 03:46:20.905] [Server thread/INFO] [tombstone/]: The player pablo has successfully been saved
+[06Dec2024 03:46:44.726] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: dungeons_arise:mechanical_nest/mechanical_nest_decoration
+[06Dec2024 03:46:44.782] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: dungeons_arise:mechanical_nest/mechanical_nest_decoration
+[06Dec2024 03:46:44.804] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: dungeons_arise:mechanical_nest/mechanical_nest_decoration
+[06Dec2024 03:46:44.862] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: dungeons_arise:mechanical_nest/mechanical_nest_decoration
+[06Dec2024 03:46:44.969] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: dungeons_arise:mechanical_nest/mechanical_nest_decoration
+[06Dec2024 03:46:44.971] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: dungeons_arise:mechanical_nest/mechanical_nest_decoration
+[06Dec2024 03:46:44.984] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: dungeons_arise:mechanical_nest/mechanical_nest_decoration
+[06Dec2024 03:46:45.030] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: dungeons_arise:mechanical_nest/mechanical_nest_decoration
+[06Dec2024 03:46:46.459] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4800ms or 96 ticks behind
+[06Dec2024 03:46:48.045] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JonyDC has made the advancement [Chattering Teeth]
+[06Dec2024 03:46:57.241] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablo: Teleported Fakkus55 to pablo]
+[06Dec2024 03:48:13.224] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pablo has made the advancement [Chattering Teeth]
+[06Dec2024 03:48:50.674] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablo: Teleported pablo to JonyDC]
+[06Dec2024 03:49:00.078] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: pablo was kicked for floating too long!
+[06Dec2024 03:49:00.127] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: pablo lost connection: Flying is not enabled on this server
+[06Dec2024 03:49:00.127] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pablo left the game
+[06Dec2024 03:49:37.475] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@72449810[id=<null>,name=pablo,properties={},legacy=false] (/[::1]:44052) lost connection: Timed out
+[06Dec2024 03:49:38.295] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: pablo[/[::1]:33654] logged in with entity id 26528 at (1712.5519986759216, 75.71439732396676, -2809.1230710153695)
+[06Dec2024 03:49:38.312] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pablo joined the game
+[06Dec2024 03:50:32.309] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablo: Teleported pablo to Fakkus55]
+[06Dec2024 03:50:44.135] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: kamicha19[/[::1]:52564] logged in with entity id 27078 at (1454.0157432561377, 64.0, -2597.1628986328947)
+[06Dec2024 03:50:44.145] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kamicha19 joined the game
+[06Dec2024 03:50:53.734] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JonyDC has made the advancement [Chompy]
+[06Dec2024 03:51:02.523] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JonyDC has reached the goal [Strong or Careful]
+[06Dec2024 03:51:02.524] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JonyDC was slain by Crocodile
+[06Dec2024 03:51:02.557] [Server thread/INFO] [tombstone/]: The player JonyDC has successfully been saved
+[06Dec2024 03:51:21.693] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablo: Set the time to 1000]
+[06Dec2024 03:51:28.734] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity SigmaEntity['Sigma'/28456, l='ServerLevel[world]', x=1307.00, y=8.00, z=-2465.49] died: Sigma fell from a high place
+[06Dec2024 03:51:37.056] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3296ms or 65 ticks behind
+[06Dec2024 03:51:37.105] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JonyDC moved too quickly! 2.301305863200014,0.9986640208878583,-9.882566466908884
+[06Dec2024 03:51:37.115] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: pablo moved too quickly! -4.385032427051328,-3.9512786403318927,-8.160774429306912
+[06Dec2024 03:51:37.116] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fakkus55 moved too quickly! -8.533189364877671,2.0,4.917781712321812
+[06Dec2024 03:52:15.905] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablo: Teleported pablo to Fakkus55]
+[06Dec2024 03:52:26.254] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablo: Teleported pablo to JonyDC]
+[06Dec2024 03:52:44.601] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JonyDC lost connection: You logged in from another location
+[06Dec2024 03:52:44.601] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JonyDC left the game
+[06Dec2024 03:52:44.615] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: JonyDC[/[::1]:51954] logged in with entity id 30575 at (1924.412857141712, 64.0, -2992.508835846541)
+[06Dec2024 03:52:44.623] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JonyDC joined the game
+[06Dec2024 03:53:56.040] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablo: Set own game mode to Creative Mode]
+[06Dec2024 03:54:15.406] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablo: Set own game mode to Survival Mode]
+[06Dec2024 03:54:28.381] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JonyDC was slain by Skeleton
+[06Dec2024 03:54:28.390] [Server thread/INFO] [tombstone/]: The player JonyDC has successfully been saved
+[06Dec2024 03:54:28.729] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pablo was slain by Skeleton
+[06Dec2024 03:54:28.741] [Server thread/INFO] [tombstone/]: The player pablo has successfully been saved
+[06Dec2024 03:54:37.076] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JonyDC has made the advancement [Distant Dreamer]
+[06Dec2024 03:54:45.330] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pablo was slain by Skeleton
+[06Dec2024 03:54:45.354] [Server thread/INFO] [tombstone/]: The player pablo has successfully been saved
+[06Dec2024 03:54:47.381] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JonyDC was slain by Skeleton
+[06Dec2024 03:54:47.393] [Server thread/INFO] [tombstone/]: The player JonyDC has successfully been saved
+[06Dec2024 03:55:00.405] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JonyDC lost connection: Timed out
+[06Dec2024 03:55:00.407] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JonyDC left the game
+[06Dec2024 03:55:17.742] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: Disconnecting com.mojang.authlib.GameProfile@1e993415[id=<null>,name=JonyDC,properties={},legacy=false] (/[::1]:42802): Took too long to log in
+[06Dec2024 03:55:17.744] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@1e993415[id=<null>,name=JonyDC,properties={},legacy=false] (/[::1]:42802) lost connection: Took too long to log in
+[06Dec2024 03:55:17.806] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[06Dec2024 03:55:18.077] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity SigmaEntity['Sigma'/34749, l='ServerLevel[world]', x=1407.51, y=12.00, z=-2008.50] died: Sigma suffocated in a wall
+[06Dec2024 03:55:54.630] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@29e35a1e[id=<null>,name=JonyDC,properties={},legacy=false] (/[::1]:55918) lost connection: Timed out
+[06Dec2024 03:56:04.803] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: JonyDC[/[::1]:48634] logged in with entity id 36239 at (1987.487500011921, 66.82802940609994, -2895.300000011921)
+[06Dec2024 03:56:04.812] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JonyDC joined the game
+[06Dec2024 03:56:23.630] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JonyDC lost connection: You logged in from another location
+[06Dec2024 03:56:23.630] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JonyDC left the game
+[06Dec2024 03:56:23.639] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: JonyDC[/[::1]:50376] logged in with entity id 36616 at (1987.487500011921, 66.82802940609994, -2895.300000011921)
+[06Dec2024 03:56:23.647] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JonyDC joined the game
+[06Dec2024 03:56:49.968] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablo: Teleported JonyDC to pablo]
+[06Dec2024 03:56:51.138] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JonyDC> [name:"Death 00:54:28 12-06-2024", x:1987, y:66, z:-2896, dim:minecraft:overworld]
+[06Dec2024 03:57:17.389] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablo: Teleported JonyDC to 1987.500000, 66.000000, -2895.500000]
+[06Dec2024 03:58:46.484] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablo: Teleported pablo to JonyDC]
+[06Dec2024 03:58:53.942] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JonyDC lost connection: Timed out
+[06Dec2024 03:58:53.942] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JonyDC left the game
+[06Dec2024 03:59:04.643] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: JonyDC[/[::1]:40720] logged in with entity id 39345 at (2081.2724244835695, 104.0, -2883.3205736668174)
+[06Dec2024 03:59:04.651] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JonyDC joined the game
+[06Dec2024 04:00:38.921] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <kamicha19> boca llena
+[06Dec2024 04:01:24.353] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: pablo was kicked for floating too long!
+[06Dec2024 04:01:24.383] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: pablo lost connection: Flying is not enabled on this server
+[06Dec2024 04:01:24.384] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pablo left the game
+[06Dec2024 04:01:52.094] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: pablo[/[::1]:42348] logged in with entity id 41115 at (2013.4834516867736, 150.90386842807393, -2893.1248001285876)
+[06Dec2024 04:01:52.109] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pablo joined the game
+[06Dec2024 04:02:01.982] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@7891b8de[id=<null>,name=pablo,properties={},legacy=false] (/[::1]:37956) lost connection: Timed out
+[06Dec2024 04:02:23.571] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity SigmaEntity['Sigma'/38970, l='ServerLevel[world]', x=771.73, y=54.31, z=-1185.30] died: Sigma tried to swim in lava
+[06Dec2024 04:03:30.501] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: kamicha19 lost connection: Timed out
+[06Dec2024 04:03:30.502] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kamicha19 left the game
+[06Dec2024 04:03:48.432] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JonyDC was kicked for floating too long!
+[06Dec2024 04:03:48.486] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JonyDC lost connection: Flying is not enabled on this server
+[06Dec2024 04:03:48.487] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JonyDC left the game
+[06Dec2024 04:04:41.688] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: JonyDC[/[::1]:60844] logged in with entity id 42999 at (2063.772423601894, 146.00133597911216, -2865.6852036380665)
+[06Dec2024 04:04:41.698] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JonyDC joined the game
+[06Dec2024 04:04:59.842] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablo: Teleported pablo to Fakkus55]
+[06Dec2024 04:05:02.133] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JonyDC lost connection: You logged in from another location
+[06Dec2024 04:05:02.134] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JonyDC left the game
+[06Dec2024 04:05:02.146] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: JonyDC[/[::1]:42110] logged in with entity id 43173 at (2063.772423601894, 146.00133597911216, -2865.6852036380665)
+[06Dec2024 04:05:02.155] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JonyDC joined the game
+[06Dec2024 04:05:34.353] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablo: Teleported Fakkus55 to pablo]
+[06Dec2024 04:05:45.510] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablo: Set the time to 1000]
+[06Dec2024 04:05:48.874] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity SigmaEntity['Sigma'/43688, l='ServerLevel[world]', x=131.36, y=-9.00, z=-1132.59] died: Sigma was eaten by a Dusktrap
+[06Dec2024 04:05:58.772] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity SigmaEntity['Sigma'/43668, l='ServerLevel[world]', x=137.46, y=8.00, z=-1033.21] died: Sigma was eaten by a Dusktrap
+[06Dec2024 04:06:18.647] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pablo has made the advancement [Mutual Aid]
+[06Dec2024 04:06:23.174] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity SigmaEntity['Sigma'/43486, l='ServerLevel[world]', x=-29.02, y=10.00, z=-1042.08] died: Sigma was eaten by a Dusktrap
+[06Dec2024 04:06:53.385] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity SigmaEntity['Sigma'/43490, l='ServerLevel[world]', x=-15.38, y=13.00, z=-1036.61] died: Sigma was eaten by a Dusktrap
+[06Dec2024 04:06:56.939] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity SigmaEntity['Sigma'/43556, l='ServerLevel[world]', x=-40.75, y=9.00, z=-1011.59] died: Sigma was eaten by a Dusktrap
+[06Dec2024 04:07:02.227] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JonyDC was kicked for floating too long!
+[06Dec2024 04:07:02.295] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JonyDC lost connection: Flying is not enabled on this server
+[06Dec2024 04:07:02.295] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JonyDC left the game
+[06Dec2024 04:07:14.742] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity SigmaEntity['Sigma'/44240, l='ServerLevel[world]', x=-107.50, y=16.00, z=-977.62] died: Sigma was eaten by a Dusktrap
+[06Dec2024 04:07:17.604] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: JonyDC[/[::1]:34234] logged in with entity id 45188 at (1984.8060325959887, 143.79673560066868, -2860.0347656651193)
+[06Dec2024 04:07:17.614] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JonyDC joined the game
+[06Dec2024 04:07:47.665] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JonyDC lost connection: Timed out
+[06Dec2024 04:07:47.666] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JonyDC left the game
+[06Dec2024 04:08:04.437] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@45f0a152[id=<null>,name=JonyDC,properties={},legacy=false] (/[::1]:38294) lost connection: Timed out
+[06Dec2024 04:08:13.003] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: JonyDC[/[::1]:39466] logged in with entity id 45788 at (1982.2104947297553, 143.5, -2851.4880303825366)
+[06Dec2024 04:08:13.013] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JonyDC joined the game
+[06Dec2024 04:09:30.823] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity SigmaEntity['Sigma'/43554, l='ServerLevel[world]', x=58.54, y=17.00, z=-963.46] died: Sigma was eaten by a Dusktrap
+[06Dec2024 04:09:36.973] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity SigmaEntity['Sigma'/43801, l='ServerLevel[world]', x=125.50, y=5.00, z=-1155.68] died: Sigma fell from a high place
+[06Dec2024 04:09:58.433] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity SigmaEntity['Sigma'/43657, l='ServerLevel[world]', x=42.15, y=41.00, z=-980.15] died: Sigma was eaten by a Dusktrap
+[06Dec2024 04:10:01.675] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity SigmaEntity['Sigma'/43678, l='ServerLevel[world]', x=-63.07, y=21.00, z=-1150.15] died: Sigma was eaten by a Dusktrap
+[06Dec2024 04:10:05.151] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: pablo moved wrongly!
+[06Dec2024 04:10:53.678] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity SigmaEntity['Sigma'/43432, l='ServerLevel[world]', x=20.85, y=63.00, z=-1067.15] died: Sigma was eaten by a Dusktrap
+[06Dec2024 04:11:09.491] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity SigmaEntity['Sigma'/43923, l='ServerLevel[world]', x=121.70, y=15.00, z=-1167.70] died: Sigma was squished too much
+[06Dec2024 04:11:28.096] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JonyDC lost connection: You logged in from another location
+[06Dec2024 04:11:28.096] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JonyDC left the game
+[06Dec2024 04:11:28.106] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: JonyDC[/[::1]:58602] logged in with entity id 47426 at (2030.3083569806342, 182.0, -2852.381729837778)
+[06Dec2024 04:11:28.116] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JonyDC joined the game
+[06Dec2024 04:11:35.755] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JonyDC was slain by Slime
+[06Dec2024 04:11:35.760] [Server thread/INFO] [tombstone/]: The player JonyDC has successfully been saved
+[06Dec2024 04:11:58.189] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JonyDC lost connection: Timed out
+[06Dec2024 04:11:58.190] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JonyDC left the game
+[06Dec2024 04:12:12.034] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@45db04d8[id=<null>,name=JonyDC,properties={},legacy=false] (/[::1]:44108) lost connection: Timed out
+[06Dec2024 04:12:42.715] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity SigmaEntity['Sigma'/43421, l='ServerLevel[world]', x=74.00, y=18.00, z=-1067.70] died: Sigma was eaten by a Dusktrap
+[06Dec2024 04:13:04.347] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: JonyDC[/[::1]:32988] logged in with entity id 47957 at (2030.3083569806342, 182.0, -2852.381729837778)
+[06Dec2024 04:13:04.358] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JonyDC joined the game
+[06Dec2024 04:13:06.352] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity SigmaEntity['Sigma'/43715, l='ServerLevel[world]', x=75.70, y=42.00, z=-933.70] died: Sigma was squished too much
+[06Dec2024 04:13:48.881] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity SigmaEntity['Sigma'/43810, l='ServerLevel[world]', x=159.63, y=-5.00, z=-1129.17] died: Sigma was eaten by a Dusktrap
+[06Dec2024 04:14:20.079] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity SigmaEntity['Sigma'/43511, l='ServerLevel[world]', x=102.12, y=17.74, z=-1120.63] died: Sigma drowned
+[06Dec2024 04:14:35.781] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity SigmaEntity['Sigma'/43641, l='ServerLevel[world]', x=42.41, y=41.00, z=-980.41] died: Sigma was eaten by a Dusktrap

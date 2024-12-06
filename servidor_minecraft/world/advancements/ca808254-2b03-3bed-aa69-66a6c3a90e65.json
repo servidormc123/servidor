@@ -13,6 +13,7 @@
       "minecraft:eroded_badlands": "2024-11-28 04:59:52 +0000",
       "minecraft:frozen_river": "2024-11-25 04:20:04 +0000",
       "minecraft:sunflower_plains": "2024-11-18 00:48:32 +0000",
+      "minecraft:birch_forest": "2024-12-06 03:53:25 +0000",
       "minecraft:bamboo_jungle": "2024-11-26 04:43:47 +0000",
       "minecraft:badlands": "2024-11-28 04:57:27 +0000",
       "minecraft:beach": "2024-11-11 04:18:28 +0000",
@@ -556,7 +557,8 @@
       "gravel_beach": "2024-11-11 04:18:29 +0000",
       "redwoods": "2024-11-18 00:53:02 +0000",
       "golden_boreal_taiga": "2024-11-17 02:08:45 +0000",
-      "rainforest": "2024-11-18 01:15:34 +0000"
+      "rainforest": "2024-11-18 01:15:34 +0000",
+      "lupine_plains": "2024-12-06 03:36:34 +0000"
     },
     "done": false
   },
@@ -593,7 +595,8 @@
       "gravel_beach": "2024-11-11 04:18:29 +0000",
       "redwoods": "2024-11-18 00:53:02 +0000",
       "golden_boreal_taiga": "2024-11-17 02:08:45 +0000",
-      "rainforest": "2024-11-18 01:15:34 +0000"
+      "rainforest": "2024-11-18 01:15:34 +0000",
+      "lupine_plains": "2024-12-06 03:36:34 +0000"
     },
     "done": false
   },
@@ -994,6 +997,7 @@
       "minecraft:ravager": "2024-11-26 04:29:58 +0000",
       "minecraft:spider": "2024-11-14 04:53:16 +0000",
       "minecraft:creeper": "2024-11-17 22:54:06 +0000",
+      "minecraft:slime": "2024-12-06 03:55:19 +0000",
       "minecraft:wither_skeleton": "2024-11-26 03:48:28 +0000",
       "minecraft:cave_spider": "2024-11-25 00:56:59 +0000",
       "minecraft:silverfish": "2024-11-17 22:21:50 +0000",
@@ -4760,6 +4764,126 @@
   "the_bumblezone:effects/protection_of_the_hive_defense": {
     "criteria": {
       "protection_of_the_hive_defense": "2024-12-06 03:25:12 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/seeking_arrow": {
+    "criteria": {
+      "seeking_arrow": "2024-12-06 03:45:49 +0000"
+    },
+    "done": true
+  },
+  "mowziesmobs:suns_blessing": {
+    "criteria": {
+      "get_suns_blessing": "2024-12-06 03:46:09 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/burrowing_arrow": {
+    "criteria": {
+      "burrowing_arrow": "2024-12-06 03:48:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/acacia_planks": {
+    "criteria": {
+      "has_log": "2024-12-06 03:50:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/slime_block": {
+    "criteria": {
+      "has_slime_ball": "2024-12-06 03:58:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/lead": {
+    "criteria": {
+      "has_slime_ball": "2024-12-06 03:58:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/sticky_piston": {
+    "criteria": {
+      "has_slime_ball": "2024-12-06 03:58:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/acacia_button": {
+    "criteria": {
+      "has_planks": "2024-12-06 04:03:37 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/acacia_shelf": {
+    "criteria": {
+      "has_planks": "2024-12-06 04:03:37 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/acacia_table": {
+    "criteria": {
+      "has_planks": "2024-12-06 04:03:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/acacia_stairs": {
+    "criteria": {
+      "has_planks": "2024-12-06 04:03:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/acacia_door": {
+    "criteria": {
+      "has_planks": "2024-12-06 04:03:37 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/mutual_aid": {
+    "criteria": {
+      "coded_trigger": "2024-12-06 04:06:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/acacia_sign": {
+    "criteria": {
+      "has_planks": "2024-12-06 04:03:37 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/acacia_chair": {
+    "criteria": {
+      "has_planks": "2024-12-06 04:03:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/acacia_pressure_plate": {
+    "criteria": {
+      "has_planks": "2024-12-06 04:03:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/acacia_slab": {
+    "criteria": {
+      "has_planks": "2024-12-06 04:03:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/acacia_trapdoor": {
+    "criteria": {
+      "has_planks": "2024-12-06 04:03:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/acacia_fence_gate": {
+    "criteria": {
+      "has_planks": "2024-12-06 04:03:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/acacia_fence": {
+    "criteria": {
+      "has_planks": "2024-12-06 04:03:37 +0000"
     },
     "done": true
   },
