@@ -577,7 +577,8 @@
       "cooked_beef": "2024-12-05 01:41:16 +0000",
       "baked_potato": "2024-11-25 00:03:26 +0000",
       "bread": "2024-11-23 20:35:41 +0000",
-      "rotten_flesh": "2024-11-25 00:02:59 +0000"
+      "rotten_flesh": "2024-11-25 00:02:59 +0000",
+      "melon_slice": "2024-12-06 03:17:33 +0000"
     },
     "done": false
   },
@@ -2887,6 +2888,24 @@
   "regions_unexplored:recipes/decorations/magnolia_branch_from_magnolia_log": {
     "criteria": {
       "has_log": "2024-12-05 03:11:05 +0000"
+    },
+    "done": true
+  },
+  "the_bumblezone:windy_air/obtain_windy_air": {
+    "criteria": {
+      "obtain_windy_air": "2024-12-06 03:14:14 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/christmas": {
+    "criteria": {
+      "coded_trigger": "2024-12-06 03:11:09 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/mysterious_gift": {
+    "criteria": {
+      "coded_trigger": "2024-12-06 03:11:09 +0000"
     },
     "done": true
   },
