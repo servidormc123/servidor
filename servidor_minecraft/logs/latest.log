@@ -431,3 +431,41 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [06Dec2024 04:13:48.881] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity SigmaEntity['Sigma'/43810, l='ServerLevel[world]', x=159.63, y=-5.00, z=-1129.17] died: Sigma was eaten by a Dusktrap
 [06Dec2024 04:14:20.079] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity SigmaEntity['Sigma'/43511, l='ServerLevel[world]', x=102.12, y=17.74, z=-1120.63] died: Sigma drowned
 [06Dec2024 04:14:35.781] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity SigmaEntity['Sigma'/43641, l='ServerLevel[world]', x=42.41, y=41.00, z=-980.41] died: Sigma was eaten by a Dusktrap
+[06Dec2024 04:15:13.879] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity SigmaEntity['Sigma'/43681, l='ServerLevel[world]', x=131.20, y=-9.00, z=-1132.50] died: Sigma was eaten by a Dusktrap
+[06Dec2024 04:15:25.882] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity SigmaEntity['Sigma'/43718, l='ServerLevel[world]', x=75.30, y=42.00, z=-933.30] died: Sigma was squished too much
+[06Dec2024 04:15:53.784] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity SigmaEntity['Sigma'/44015, l='ServerLevel[world]', x=45.80, y=5.00, z=-917.45] died: Sigma fell from a high place
+[06Dec2024 04:16:08.826] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity SigmaEntity['Sigma'/43658, l='ServerLevel[world]', x=46.00, y=-3.00, z=-959.50] died: Sigma was eaten by a Dusktrap
+[06Dec2024 04:16:11.118] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity SigmaEntity['Sigma'/43399, l='ServerLevel[world]', x=39.85, y=50.00, z=-1076.15] died: Sigma was eaten by a Dusktrap
+[06Dec2024 04:16:11.520] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity SigmaEntity['Sigma'/43415, l='ServerLevel[world]', x=40.30, y=50.00, z=-1074.30] died: Sigma was eaten by a Dusktrap
+[06Dec2024 04:16:31.052] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablo: Set own game mode to Creative Mode]
+[06Dec2024 04:16:51.104] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablo: Gave 200 experience points to Fakkus55]
+[06Dec2024 04:16:53.894] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablo: Gave 200 experience points to Fakkus55]
+[06Dec2024 04:16:55.598] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablo: Gave 200 experience points to Fakkus55]
+[06Dec2024 04:16:56.948] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablo: Gave 200 experience points to Fakkus55]
+[06Dec2024 04:17:23.276] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity SigmaEntity['Sigma'/43642, l='ServerLevel[world]', x=49.01, y=41.00, z=-983.02] died: Sigma was eaten by a Dusktrap
+[06Dec2024 04:17:24.382] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity SigmaEntity['Sigma'/43719, l='ServerLevel[world]', x=75.30, y=42.00, z=-933.70] died: Sigma was squished too much
+[06Dec2024 04:17:34.936] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity SigmaEntity['Sigma'/44264, l='ServerLevel[world]', x=-12.75, y=-10.00, z=-1206.70] died: Sigma fell from a high place
+[06Dec2024 04:18:04.314] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablo: Gave 200 experience points to Fakkus55]
+[06Dec2024 04:18:05.357] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablo: Gave 200 experience points to Fakkus55]
+[06Dec2024 04:18:11.995] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablo: Set own game mode to Survival Mode]
+[06Dec2024 04:19:10.219] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity SigmaEntity['Sigma'/43431, l='ServerLevel[world]', x=40.78, y=50.00, z=-1074.28] died: Sigma was eaten by a Dusktrap
+[06Dec2024 04:20:41.148] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pablo was shot by Fakkus55
+[06Dec2024 04:20:41.157] [Server thread/INFO] [tombstone/]: The player pablo has successfully been saved
+[06Dec2024 04:21:01.853] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JonyDC lost connection: You logged in from another location
+[06Dec2024 04:21:01.854] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JonyDC left the game
+[06Dec2024 04:21:01.862] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: JonyDC[/[::1]:39280] logged in with entity id 51670 at (2060.4208070825907, 223.0, -2920.2422842363853)
+[06Dec2024 04:21:01.869] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JonyDC joined the game
+[06Dec2024 04:21:02.725] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity SigmaEntity['Sigma'/43720, l='ServerLevel[world]', x=75.30, y=42.00, z=-933.30] died: Sigma was squished too much
+[06Dec2024 04:21:22.284] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JonyDC lost connection: You logged in from another location
+[06Dec2024 04:21:22.285] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JonyDC left the game
+[06Dec2024 04:21:22.298] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: JonyDC[/[::1]:59724] logged in with entity id 51838 at (2060.4208070825907, 223.0, -2920.2422842363853)
+[06Dec2024 04:21:22.307] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JonyDC joined the game
+[06Dec2024 04:21:47.368] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity SigmaEntity['Sigma'/43429, l='ServerLevel[world]', x=39.98, y=50.00, z=-1076.27] died: Sigma was eaten by a Dusktrap
+[06Dec2024 04:21:49.455] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity SigmaEntity['Sigma'/51748, l='ServerLevel[world]', x=39.70, y=50.00, z=-1076.29] died: Sigma was eaten by a Dusktrap
+[06Dec2024 04:24:51.720] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pablo fell from a high place
+[06Dec2024 04:24:51.723] [Server thread/INFO] [tombstone/]: The player pablo has successfully been saved
+[06Dec2024 04:24:59.038] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity SigmaEntity['Sigma'/47905, l='ServerLevel[world]', x=55.66, y=7.75, z=-953.82] died: Sigma drowned
+[06Dec2024 04:25:11.200] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pablo fell from a high place
+[06Dec2024 04:25:11.261] [Server thread/INFO] [tombstone/]: The player pablo has successfully been saved
+[06Dec2024 04:25:30.383] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity SigmaEntity['Sigma'/44332, l='ServerLevel[world]', x=-145.72, y=41.00, z=-1117.50] died: Sigma was eaten by a Dusktrap
+[06Dec2024 04:25:30.959] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity SigmaEntity['Sigma'/43395, l='ServerLevel[world]', x=1.69, y=91.00, z=-1058.50] died: Sigma was shot by Fakkus55
