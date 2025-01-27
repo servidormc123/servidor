@@ -1,83 +1,142 @@
-[27Jan2025 21:13:22.102] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgeserver, --fml.forgeVersion, 47.3.7, --fml.mcVersion, 1.20.1, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20230612.114412, nogui]
-[27Jan2025 21:13:22.107] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.0.9+10.0.9+main.dcd20f30 starting: java version 17.0.13 by Ubuntu; OS Linux arch amd64 version 6.5.0-1025-azure
-[27Jan2025 21:13:22.682] [main/INFO] [net.minecraftforge.fml.loading.ImmediateWindowHandler/]: ImmediateWindowProvider not loading because launch target is forgeserver
-[27Jan2025 21:13:22.746] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/workspaces/servidor/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2365!/ Service=ModLauncher Env=SERVER
-[27Jan2025 21:13:22.970] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/servidor/servidor_minecraft/libraries/net/minecraftforge/fmlcore/1.20.1-47.3.7/fmlcore-1.20.1-47.3.7.jar is missing mods.toml file
-[27Jan2025 21:13:22.973] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/servidor/servidor_minecraft/libraries/net/minecraftforge/javafmllanguage/1.20.1-47.3.7/javafmllanguage-1.20.1-47.3.7.jar is missing mods.toml file
-[27Jan2025 21:13:22.975] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/servidor/servidor_minecraft/libraries/net/minecraftforge/lowcodelanguage/1.20.1-47.3.7/lowcodelanguage-1.20.1-47.3.7.jar is missing mods.toml file
-[27Jan2025 21:13:22.976] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/servidor/servidor_minecraft/libraries/net/minecraftforge/mclanguage/1.20.1-47.3.7/mclanguage-1.20.1-47.3.7.jar is missing mods.toml file
-[27Jan2025 21:13:23.126] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: Found 2 dependencies adding them to mods collection
-[27Jan2025 21:13:25.078] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
-[27Jan2025 21:13:25.102] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgeserver' with arguments [nogui]
-[27Jan2025 21:13:26.357] [main/INFO] [MixinExtras|Service/]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.4.1).
-[27Jan2025 21:13:32.641] [main/WARN] [mixin/]: Mixin alexscaves.mixins.json:SwampHutPieceMixin has multiple constructors, (Lnet/minecraft/world/level/levelgen/structure/pieces/StructurePieceType;IIIIIILnet/minecraft/core/Direction;)V was selected
+[27Jan2025 21:52:09.870] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgeserver, --fml.forgeVersion, 47.3.7, --fml.mcVersion, 1.20.1, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20230612.114412, nogui]
+[27Jan2025 21:52:09.874] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.0.9+10.0.9+main.dcd20f30 starting: java version 17.0.13 by Ubuntu; OS Linux arch amd64 version 6.5.0-1025-azure
+[27Jan2025 21:52:10.218] [main/INFO] [net.minecraftforge.fml.loading.ImmediateWindowHandler/]: ImmediateWindowProvider not loading because launch target is forgeserver
+[27Jan2025 21:52:10.269] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/workspaces/servidor/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2365!/ Service=ModLauncher Env=SERVER
+[27Jan2025 21:52:10.504] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/servidor/servidor_minecraft/libraries/net/minecraftforge/fmlcore/1.20.1-47.3.7/fmlcore-1.20.1-47.3.7.jar is missing mods.toml file
+[27Jan2025 21:52:10.505] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/servidor/servidor_minecraft/libraries/net/minecraftforge/javafmllanguage/1.20.1-47.3.7/javafmllanguage-1.20.1-47.3.7.jar is missing mods.toml file
+[27Jan2025 21:52:10.507] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/servidor/servidor_minecraft/libraries/net/minecraftforge/lowcodelanguage/1.20.1-47.3.7/lowcodelanguage-1.20.1-47.3.7.jar is missing mods.toml file
+[27Jan2025 21:52:10.508] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/servidor/servidor_minecraft/libraries/net/minecraftforge/mclanguage/1.20.1-47.3.7/mclanguage-1.20.1-47.3.7.jar is missing mods.toml file
+[27Jan2025 21:52:10.663] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: Found 2 dependencies adding them to mods collection
+[27Jan2025 21:52:12.730] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
+[27Jan2025 21:52:12.766] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgeserver' with arguments [nogui]
+[27Jan2025 21:52:14.347] [main/INFO] [MixinExtras|Service/]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.4.1).
+[27Jan2025 21:52:19.614] [main/WARN] [mixin/]: Mixin alexscaves.mixins.json:SwampHutPieceMixin has multiple constructors, (Lnet/minecraft/world/level/levelgen/structure/pieces/StructurePieceType;IIIIIILnet/minecraft/core/Direction;)V was selected
 
-[27Jan2025 21:13:33.205] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 47.3.7, for MC 1.20.1 with MCP 20230612.114412
-[27Jan2025 21:13:33.205] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v47.3.7 Initialized
-[27Jan2025 21:13:36.884] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class com.github.alexmodguy.alexscaves.server.entity.living.TremorzillaEntity from class com.github.alexmodguy.alexscaves.server.entity.living.LicowitchEntity
-[27Jan2025 21:13:37.267] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
-[27Jan2025 21:13:37.599] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: OUTDATED Current: 47.3.7 Target: 47.3.25
-[27Jan2025 21:13:37.599] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [twilightforest] Starting version check at https://gh.tamaized.com/TeamTwilight/twilightforest/update.json
-[27Jan2025 21:13:37.812] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [twilightforest] Found status: AHEAD Current: 4.3.2508 Target: null
-[27Jan2025 21:13:41.338] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[27Jan2025 21:13:43.853] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/servidor/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23123!/assets/.mcassetsroot' uses unexpected schema
-[27Jan2025 21:13:43.853] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/servidor/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23123!/data/.mcassetsroot' uses unexpected schema
-[27Jan2025 21:13:46.196] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/poison as it's serializer returned null
-[27Jan2025 21:13:46.231] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/frosted as it's serializer returned null
-[27Jan2025 21:13:46.238] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/blindness as it's serializer returned null
-[27Jan2025 21:13:46.239] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/hunger as it's serializer returned null
-[27Jan2025 21:13:46.241] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/regeneration as it's serializer returned null
-[27Jan2025 21:13:46.242] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/slowness as it's serializer returned null
-[27Jan2025 21:13:46.248] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/fire_resistance as it's serializer returned null
-[27Jan2025 21:13:46.250] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/resistance as it's serializer returned null
-[27Jan2025 21:13:46.252] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 12 recipes
-[27Jan2025 21:13:46.380] [main/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 2009 advancements
-[27Jan2025 21:13:46.394] [main/INFO] [top.theillusivec4.curios.Curios/]: Loaded 11 curio slots
-[27Jan2025 21:13:46.397] [main/INFO] [top.theillusivec4.curios.Curios/]: Loaded 1 curio entities
-[27Jan2025 21:13:46.404] [main/INFO] [twilightforest/]: Loaded 9 Stalactite configs!
-[27Jan2025 21:13:46.413] [main/WARN] [net.minecraftforge.registries.NamespacedWrapper/]: Not all defined tags for registry ResourceKey[minecraft:root / minecraft:block] are present in data pack: netherexp:sounds/polished_blackstone
-[27Jan2025 21:13:48.992] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.20.1
-[27Jan2025 21:13:48.992] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
-[27Jan2025 21:13:48.993] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
-[27Jan2025 21:13:48.993] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
-[27Jan2025 21:13:49.145] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
-[27Jan2025 21:13:49.175] [Server thread/INFO] [net.minecraft.server.network.ServerConnectionListener/]: Using epoll channel type
-[27Jan2025 21:13:49.251] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[27Jan2025 21:13:49.251] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: The server will make no attempt to authenticate usernames. Beware.
-[27Jan2025 21:13:49.251] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[27Jan2025 21:13:49.251] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: To change this, set "online-mode" to "true" in the server.properties file.
-[27Jan2025 21:13:49.264] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Configuration file ./world/serverconfig/jei-server.toml is not correct. Correcting
-[27Jan2025 21:13:49.266] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key cheat mode was corrected from null to its default, SimpleCommentedConfig:{}. 
-[27Jan2025 21:13:49.266] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key cheat mode.enableCheatModeForOp was corrected from null to its default, true. 
-[27Jan2025 21:13:49.267] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key cheat mode.enableCheatModeForCreative was corrected from null to its default, true. 
-[27Jan2025 21:13:49.268] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key cheat mode.enableCheatModeForGive was corrected from null to its default, false. 
-[27Jan2025 21:13:49.329] [Server thread/INFO] [net.jadenxgamer.elysium_api.Elysium/]: ElysiumBiomeSource successfully initialized for minecraft:the_nether
-[27Jan2025 21:13:49.331] [Server thread/INFO] [net.jadenxgamer.elysium_api.Elysium/]: ElysiumBiomeSource successfully initialized for minecraft:overworld
-[27Jan2025 21:13:49.333] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
-[27Jan2025 21:13:56.151] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
-[27Jan2025 21:13:59.606] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[27Jan2025 21:13:59.608] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[27Jan2025 21:13:59.609] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[27Jan2025 21:13:59.610] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[27Jan2025 21:13:59.610] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[27Jan2025 21:13:59.612] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[27Jan2025 21:13:59.613] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[27Jan2025 21:13:59.653] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[27Jan2025 21:14:00.168] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 9%
-[27Jan2025 21:14:00.652] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 76%
-[27Jan2025 21:14:00.830] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 4678 ms
-[27Jan2025 21:14:00.831] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (11.568s)! For help, type "help"
-[27Jan2025 21:14:00.863] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
-[27Jan2025 21:17:45.417] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
-[27Jan2025 21:17:45.464] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
-[27Jan2025 21:17:45.465] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
-[27Jan2025 21:17:45.466] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
-[27Jan2025 21:17:46.377] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[27Jan2025 21:17:47.190] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[27Jan2025 21:17:47.191] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
-[27Jan2025 21:17:47.192] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/twilightforest:twilight_forest
-[27Jan2025 21:17:47.264] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[27Jan2025 21:17:47.264] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[27Jan2025 21:17:47.264] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[27Jan2025 21:17:47.264] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (twilight_forest): All chunks are saved
-[27Jan2025 21:17:47.265] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[27Jan2025 21:52:20.222] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 47.3.7, for MC 1.20.1 with MCP 20230612.114412
+[27Jan2025 21:52:20.223] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v47.3.7 Initialized
+[27Jan2025 21:52:24.272] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class com.github.alexmodguy.alexscaves.server.entity.living.TremorzillaEntity from class com.github.alexmodguy.alexscaves.server.entity.living.LicowitchEntity
+[27Jan2025 21:52:24.592] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
+[27Jan2025 21:52:24.976] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: OUTDATED Current: 47.3.7 Target: 47.3.25
+[27Jan2025 21:52:24.978] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [twilightforest] Starting version check at https://gh.tamaized.com/TeamTwilight/twilightforest/update.json
+[27Jan2025 21:52:25.209] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [twilightforest] Found status: AHEAD Current: 4.3.2508 Target: null
+[27Jan2025 21:52:28.782] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[27Jan2025 21:52:31.352] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/servidor/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23123!/assets/.mcassetsroot' uses unexpected schema
+[27Jan2025 21:52:31.353] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/servidor/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23123!/data/.mcassetsroot' uses unexpected schema
+[27Jan2025 21:52:33.586] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/poison as it's serializer returned null
+[27Jan2025 21:52:33.645] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/frosted as it's serializer returned null
+[27Jan2025 21:52:33.658] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/blindness as it's serializer returned null
+[27Jan2025 21:52:33.660] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/hunger as it's serializer returned null
+[27Jan2025 21:52:33.663] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/regeneration as it's serializer returned null
+[27Jan2025 21:52:33.666] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/slowness as it's serializer returned null
+[27Jan2025 21:52:33.674] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/fire_resistance as it's serializer returned null
+[27Jan2025 21:52:33.677] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/resistance as it's serializer returned null
+[27Jan2025 21:52:33.682] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 12 recipes
+[27Jan2025 21:52:33.937] [main/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 2009 advancements
+[27Jan2025 21:52:33.952] [main/INFO] [top.theillusivec4.curios.Curios/]: Loaded 11 curio slots
+[27Jan2025 21:52:33.955] [main/INFO] [top.theillusivec4.curios.Curios/]: Loaded 1 curio entities
+[27Jan2025 21:52:33.965] [main/INFO] [twilightforest/]: Loaded 9 Stalactite configs!
+[27Jan2025 21:52:33.984] [main/WARN] [net.minecraftforge.registries.NamespacedWrapper/]: Not all defined tags for registry ResourceKey[minecraft:root / minecraft:block] are present in data pack: netherexp:sounds/polished_blackstone
+[27Jan2025 21:52:36.390] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.20.1
+[27Jan2025 21:52:36.391] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
+[27Jan2025 21:52:36.391] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
+[27Jan2025 21:52:36.391] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
+[27Jan2025 21:52:36.458] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
+[27Jan2025 21:52:36.483] [Server thread/INFO] [net.minecraft.server.network.ServerConnectionListener/]: Using epoll channel type
+[27Jan2025 21:52:36.599] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[27Jan2025 21:52:36.599] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: The server will make no attempt to authenticate usernames. Beware.
+[27Jan2025 21:52:36.599] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[27Jan2025 21:52:36.600] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: To change this, set "online-mode" to "true" in the server.properties file.
+[27Jan2025 21:52:36.697] [Server thread/INFO] [net.jadenxgamer.elysium_api.Elysium/]: ElysiumBiomeSource successfully initialized for minecraft:overworld
+[27Jan2025 21:52:36.698] [Server thread/INFO] [net.jadenxgamer.elysium_api.Elysium/]: ElysiumBiomeSource successfully initialized for minecraft:the_nether
+[27Jan2025 21:52:36.700] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
+[27Jan2025 21:52:42.049] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
+[27Jan2025 21:52:46.732] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[27Jan2025 21:52:46.738] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[27Jan2025 21:52:46.740] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[27Jan2025 21:52:46.741] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[27Jan2025 21:52:46.742] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[27Jan2025 21:52:46.743] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[27Jan2025 21:52:46.745] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[27Jan2025 21:52:46.746] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[27Jan2025 21:52:46.747] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[27Jan2025 21:52:46.748] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[27Jan2025 21:52:47.052] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[27Jan2025 21:52:47.550] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 50%
+[27Jan2025 21:52:47.848] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 5798 ms
+[27Jan2025 21:52:47.849] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (11.230s)! For help, type "help"
+[27Jan2025 21:52:47.955] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
+[27Jan2025 21:54:28.404] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Fakkus55[/127.15.23.58:49111] logged in with entity id 197 at (-101.69999998807907, 68.0, -58.69999998807907)
+[27Jan2025 21:54:28.446] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Fakkus55 joined the game
+[27Jan2025 21:55:12.965] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@52372cc7[id=<null>,name=pablo,properties={},legacy=false] (/127.54.255.13:35717) lost connection: Disconnected
+[27Jan2025 21:55:24.066] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Fakkus55 was slain by Spider
+[27Jan2025 21:55:31.983] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-39, y=71, z=-50}
+[27Jan2025 21:55:36.330] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-43, y=69, z=-38}
+[27Jan2025 21:55:36.478] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-42, y=69, z=-39}
+[27Jan2025 21:56:14.330] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: pablo[/127.54.255.13:52469] logged in with entity id 555 at (-330.7556051457584, 69.0, 52.82185405179649)
+[27Jan2025 21:56:14.362] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pablo joined the game
+[27Jan2025 21:56:26.728] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablo: Teleported pablo to Fakkus55]
+[27Jan2025 21:56:41.288] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablo: Set the time to 1000]
+[27Jan2025 21:57:04.771] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablo: Set Fakkus55's game mode to Creative Mode]
+[27Jan2025 21:57:04.772] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablo: Set own game mode to Creative Mode]
+[27Jan2025 21:57:29.900] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fakkus55 moved too quickly! -9.681472442191364,0.0,3.1854361020799473
+[27Jan2025 21:57:38.426] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element minecraft:village_desert took 942 ms
+[27Jan2025 21:57:53.785] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablo: Teleported pablo to -2015.500000, 60.000000, 3072.500000]
+[27Jan2025 21:57:53.793] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4186ms or 83 ticks behind
+[27Jan2025 21:58:03.344] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablo: Teleported Fakkus55 to pablo]
+[27Jan2025 21:59:03.334] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Fakkus55 has completed the challenge [Overkill]
+[27Jan2025 21:59:22.019] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Fakkus55 has made the advancement [Acquire Hardware]
+[27Jan2025 22:00:03.346] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablo: Summoned new Ender Dragon]
+[27Jan2025 22:00:15.241] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablo: Summoned new Ender Dragon]
+[27Jan2025 22:00:19.027] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablo: Summoned new Ender Dragon]
+[27Jan2025 22:00:24.318] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/1295, l='ServerLevel[world]', x=-1987.30, y=62.36, z=3082.70] died, message: 'Villager was slain by Ender Dragon'
+[27Jan2025 22:00:42.343] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablo: The difficulty has been set to Peaceful]
+[27Jan2025 22:01:59.522] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown item 'minecraft:'
+[27Jan2025 22:01:59.543] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ...ive pablo  minecraft:diamond_sword{Enchantments:[{id:"minecraft:sharpness",lvl:32767},{id:"minecraft:unbreaking",lvl:32767},{id:"minecraft:fire_aspect",lvl:32767},{id:"minecraft:knockback",lvl:32767},{id:"minecraft:looting",lvl:32767}],display:{Name:'{"text":"Esp<--[HERE]
+[27Jan2025 22:02:17.264] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Librarian'/1311, l='ServerLevel[world]', x=-1982.42, y=64.35, z=3052.18] died, message: 'Librarian was slain by Ender Dragon'
+[27Jan2025 22:02:41.258] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Fakkus55 was killed
+[27Jan2025 22:02:41.259] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pablo was killed
+[27Jan2025 22:02:41.261] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/1306, l='ServerLevel[world]', x=-2008.10, y=62.00, z=3097.15] died, message: 'Villager was killed'
+[27Jan2025 22:02:41.262] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Farmer'/1308, l='ServerLevel[world]', x=-2017.46, y=72.00, z=3081.26] died, message: 'Farmer was killed'
+[27Jan2025 22:02:41.263] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/1334, l='ServerLevel[world]', x=-1970.85, y=63.56, z=3079.27] died, message: 'Villager was killed'
+[27Jan2025 22:02:41.264] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/1337, l='ServerLevel[world]', x=-2008.58, y=62.00, z=3098.01] died, message: 'Villager was killed'
+[27Jan2025 22:02:41.264] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/1338, l='ServerLevel[world]', x=-1970.79, y=63.56, z=3079.84] died, message: 'Villager was killed'
+[27Jan2025 22:02:41.265] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/1297, l='ServerLevel[world]', x=-1970.43, y=63.56, z=3079.33] died, message: 'Villager was killed'
+[27Jan2025 22:02:41.265] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Weaponsmith'/1299, l='ServerLevel[world]', x=-2010.87, y=64.00, z=3064.87] died, message: 'Weaponsmith was killed'
+[27Jan2025 22:02:41.266] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Farmer'/1300, l='ServerLevel[world]', x=-1972.39, y=65.00, z=3074.25] died, message: 'Farmer was killed'
+[27Jan2025 22:02:41.267] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Farmer'/1301, l='ServerLevel[world]', x=-1946.68, y=62.47, z=3032.94] died, message: 'Farmer was killed'
+[27Jan2025 22:02:41.268] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Farmer'/1333, l='ServerLevel[world]', x=-2031.45, y=74.94, z=3078.32] died, message: 'Farmer was killed'
+[27Jan2025 22:02:41.288] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablo: Killed 287 entities]
+[27Jan2025 22:07:04.936] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablo: Set the time to 1000]
+[27Jan2025 22:18:41.592] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablo: Set the time to 1000]
+[27Jan2025 22:18:49.061] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablo: Teleported pablo to Fakkus55]
+[27Jan2025 22:29:57.661] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Fakkus55 has made the advancement [Bring Home the Beacon]
+[27Jan2025 22:29:57.662] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pablo has made the advancement [Bring Home the Beacon]
+[27Jan2025 22:30:20.183] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Fakkus55 has made the advancement [Diamonds!]
+[27Jan2025 22:33:31.296] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablo: Set the time to 1000]
+[27Jan2025 22:35:13.691] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablo: Set the world spawn point to 178, 124, -158 [0.0]]
+[27Jan2025 22:35:23.564] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Fakkus55 was killed
+[27Jan2025 22:35:23.565] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablo: Killed Fakkus55]
+[27Jan2025 22:36:39.821] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Made Fakkus55 a server operator
+[27Jan2025 22:40:14.629] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pablo has made the advancement [Glow Sticks]
+[27Jan2025 22:43:35.035] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablo: Set the time to 1000]
+[27Jan2025 22:52:26.426] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pablo has made the advancement [Best Friends Forever]
+[27Jan2025 22:53:46.862] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablo: Set the time to 1000]
+[27Jan2025 22:54:11.011] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: pablo lost connection: Disconnected
+[27Jan2025 22:54:11.011] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pablo left the game
+[27Jan2025 22:54:14.011] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fakkus55 lost connection: Disconnected
+[27Jan2025 22:54:14.012] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Fakkus55 left the game
+[27Jan2025 22:54:33.757] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[27Jan2025 22:54:33.776] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: srop<--[HERE]
+[27Jan2025 22:54:40.107] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[27Jan2025 22:54:40.156] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[27Jan2025 22:54:40.157] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[27Jan2025 22:54:40.157] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[27Jan2025 22:54:40.601] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[27Jan2025 22:54:41.433] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[27Jan2025 22:54:41.434] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/twilightforest:twilight_forest
+[27Jan2025 22:54:41.435] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[27Jan2025 22:54:41.468] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[27Jan2025 22:54:41.468] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[27Jan2025 22:54:41.468] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (twilight_forest): All chunks are saved
+[27Jan2025 22:54:41.468] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[27Jan2025 22:54:41.469] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
