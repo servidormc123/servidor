@@ -1735,3 +1735,14 @@
 [01Feb2025 23:16:57.092] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1186, y=71, z=-1370} BlockPos{x=1186, y=69, z=-1371}
 [01Feb2025 23:16:57.148] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1186, y=71, z=-1370} BlockPos{x=1186, y=69, z=-1371}
 [01Feb2025 23:17:24.499] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1230, y=73, z=-1325} BlockPos{x=1231, y=71, z=-1324}
+[01Feb2025 23:19:41.950] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablito: Teleported pablito to Fakkus55]
+[01Feb2025 23:20:08.488] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1184, y=72, z=-1373} BlockPos{x=1183, y=70, z=-1373}
+[01Feb2025 23:20:08.545] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1184, y=72, z=-1373} BlockPos{x=1183, y=70, z=-1373}
+[01Feb2025 23:20:16.788] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1212, y=70, z=-1367} BlockPos{x=1211, y=68, z=-1368}
+[01Feb2025 23:24:05.888] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablito: Teleported pablito to Fakkus55]
+[01Feb2025 23:25:57.701] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Fakkus55 has reached the goal [Exorcism]
+[01Feb2025 23:26:05.454] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablito: Teleported pablito to Fakkus55]
+[01Feb2025 23:26:47.344] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablito: Teleported Fakkus55 to pablito]
+[01Feb2025 23:26:58.477] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Fakkus55 was blown up by Creeper
+[01Feb2025 23:27:08.758] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablito: Teleported Fakkus55 to pablito]
+[01Feb2025 23:27:19.781] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablito: Teleported Fakkus55 to pablito]
