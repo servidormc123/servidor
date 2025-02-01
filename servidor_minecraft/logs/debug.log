@@ -9248,3 +9248,38 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [01Feb2025 21:22:53.517] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-22, y=-57, z=11}
 [01Feb2025 21:22:55.801] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [01Feb2025 21:22:55.812] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[01Feb2025 21:27:55.770] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[01Feb2025 21:27:55.781] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[01Feb2025 21:29:26.001] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pablito has made the advancement [Monster Hunter]
+[01Feb2025 21:29:57.038] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Fakkus55 has made the advancement [Monster Hunter]
+[01Feb2025 21:30:25.634] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pablito was slain by Fallen Chaos Knight
+[01Feb2025 21:30:36.237] [Server thread/DEBUG] [twilightforest/]: Player pablito (7cad6d23-b90d-32e7-a33e-08234c01e126) respawned and received items held in storage
+[01Feb2025 21:30:40.643] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Fakkus55 has made the advancement [Dark Metallurgy]
+[01Feb2025 21:31:19.887] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Fakkus55 has made the advancement [Acquire Hardware]
+[01Feb2025 21:31:45.087] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Fakkus55 has made the advancement [Dungeon Now Loading]
+[01Feb2025 21:32:55.761] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[01Feb2025 21:32:55.772] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[01Feb2025 21:33:02.282] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Oddur'/4194, l='ServerLevel[world]', x=1424.10, y=70.00, z=-1390.07] died, message: 'Oddur was slain by Door Knight'
+[01Feb2025 21:33:25.233] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pablito was slain by Corpse Fly
+[01Feb2025 21:33:27.698] [Server thread/DEBUG] [twilightforest/]: Player pablito (7cad6d23-b90d-32e7-a33e-08234c01e126) respawned and received items held in storage
+[01Feb2025 21:34:19.783] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pablito was slain by Dread Hound
+[01Feb2025 21:34:22.726] [Server thread/DEBUG] [twilightforest/]: Player pablito (7cad6d23-b90d-32e7-a33e-08234c01e126) respawned and received items held in storage
+[01Feb2025 21:34:26.692] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Fakkus55 was shot by Dark Vortex
+[01Feb2025 21:34:29.269] [Server thread/DEBUG] [twilightforest/]: Player Fakkus55 (a7a46a8f-fdbd-3211-9180-db924c97c95f) respawned and received items held in storage
+[01Feb2025 21:34:32.228] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablito: Set the time to 1000]
+[01Feb2025 21:34:41.907] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablito: The difficulty has been set to Peaceful]
+[01Feb2025 21:34:45.557] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablito: Teleported Fakkus55 to pablito]
+[01Feb2025 21:35:08.281] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablito: The difficulty has been set to Easy]
+[01Feb2025 21:35:27.981] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pablito has made the advancement [Acquire Hardware]
+[01Feb2025 21:35:27.992] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pablito has made the advancement [Dark Metallurgy]
+[01Feb2025 21:37:55.760] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[01Feb2025 21:37:55.771] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[01Feb2025 21:41:05.285] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablito: Teleported pablito to Fakkus55]
+[01Feb2025 21:42:19.999] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pablito was slain by Fakkus55
+[01Feb2025 21:42:21.395] [Server thread/DEBUG] [twilightforest/]: Player pablito (7cad6d23-b90d-32e7-a33e-08234c01e126) respawned and received items held in storage
+[01Feb2025 21:42:55.761] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[01Feb2025 21:42:55.772] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[01Feb2025 21:45:28.971] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Fakkus55 was slain by Iron Golem
+[01Feb2025 21:45:30.756] [Server thread/DEBUG] [twilightforest/]: Player Fakkus55 (a7a46a8f-fdbd-3211-9180-db924c97c95f) respawned and received items held in storage
+[01Feb2025 21:45:57.740] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablito: Teleported Fakkus55 to pablito]
+[01Feb2025 21:47:02.431] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablito: Teleported Fakkus55 to pablito]
