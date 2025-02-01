@@ -1746,3 +1746,66 @@
 [01Feb2025 23:26:58.477] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Fakkus55 was blown up by Creeper
 [01Feb2025 23:27:08.758] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablito: Teleported Fakkus55 to pablito]
 [01Feb2025 23:27:19.781] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablito: Teleported Fakkus55 to pablito]
+[01Feb2025 23:28:41.081] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Fakkus55 withered away whilst fighting Nightmare Stalker
+[01Feb2025 23:28:50.038] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablito: Teleported Fakkus55 to pablito]
+[01Feb2025 23:29:33.792] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablito: Teleported Fakkus55 to pablito]
+[01Feb2025 23:30:32.182] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <pablito> mi tnt
+[01Feb2025 23:32:26.707] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablito: Teleported Fakkus55 to pablito]
+[01Feb2025 23:32:54.187] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <pablito> mi tnttttt
+[01Feb2025 23:34:03.827] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pablito was slain by Nightmare Stalker
+[01Feb2025 23:34:16.326] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pablito was slain by Nightmare Stalker
+[01Feb2025 23:34:30.379] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablito: Teleported pablito to Fakkus55]
+[01Feb2025 23:35:04.680] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pablito withered away whilst fighting Nightmare Stalker
+[01Feb2025 23:36:03.431] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Fakkus55 has reached the goal [Fighting Nightmares]
+[01Feb2025 23:37:14.884] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablito: Teleported pablito to Fakkus55]
+[01Feb2025 23:39:13.396] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablito: Teleported Fakkus55 to pablito]
+[01Feb2025 23:42:14.983] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <pablito> zz
+[01Feb2025 23:42:15.231] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <pablito> z
+[01Feb2025 23:42:15.501] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <pablito> z
+[01Feb2025 23:42:15.783] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <pablito> z
+[01Feb2025 23:42:15.897] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <pablito> z
+[01Feb2025 23:42:16.181] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <pablito> z
+[01Feb2025 23:42:16.451] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <pablito> z
+[01Feb2025 23:42:16.736] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <pablito> z
+[01Feb2025 23:42:17.049] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <pablito> z
+[01Feb2025 23:42:17.311] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <pablito> z
+[01Feb2025 23:42:17.637] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <pablito> z
+[01Feb2025 23:42:17.933] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <pablito> z
+[01Feb2025 23:45:35.261] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablito: Teleported pablito to Fakkus55]
+[01Feb2025 23:45:47.921] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=569, y=-12, z=-241}
+[01Feb2025 23:45:47.921] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=569, y=-12, z=-242}
+[01Feb2025 23:45:48.021] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=569, y=-13, z=-248}
+[01Feb2025 23:46:06.333] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pablito was blown up by Creeper
+[01Feb2025 23:46:10.546] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablito: Teleported pablito to Fakkus55]
+[01Feb2025 23:46:17.895] [Worker-Main-76/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=559, y=-26, z=-250}
+[01Feb2025 23:46:17.896] [Worker-Main-76/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=563, y=-26, z=-248}
+[01Feb2025 23:46:17.896] [Worker-Main-76/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=563, y=-12, z=-248}
+[01Feb2025 23:46:17.897] [Worker-Main-76/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=563, y=-12, z=-249}
+[01Feb2025 23:46:18.117] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=562, y=-26, z=-242}
+[01Feb2025 23:46:18.117] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=562, y=-12, z=-242}
+[01Feb2025 23:46:18.117] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=563, y=-13, z=-242}
+[01Feb2025 23:48:34.137] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablito: Set own game mode to Spectator Mode]
+[01Feb2025 23:49:19.794] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablito: Set own game mode to Survival Mode]
+[01Feb2025 23:49:27.000] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablito: Teleported pablito to Fakkus55]
+[01Feb2025 23:50:01.392] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablito: Set own game mode to Spectator Mode]
+[01Feb2025 23:50:10.665] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablito: Set own game mode to Survival Mode]
+[01Feb2025 23:50:14.584] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablito: Teleported Fakkus55 to pablito]
+[01Feb2025 23:50:54.290] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pablito has made the advancement [Intruder Alert]
+[01Feb2025 23:51:16.640] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Fakkus55 has made the advancement [Intruder Alert]
+[01Feb2025 23:51:32.467] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pablito was shot by Pillager
+[01Feb2025 23:51:36.899] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablito: Teleported pablito to Fakkus55]
+[01Feb2025 23:51:55.700] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pablito was shot by Pillager
+[01Feb2025 23:53:39.752] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablito: Set own game mode to Spectator Mode]
+[01Feb2025 23:53:44.350] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablito: Teleported pablito to Fakkus55]
+[01Feb2025 23:53:54.541] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablito: Set own game mode to Survival Mode]
+[01Feb2025 23:54:08.799] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pablito was shot by Pillager
+[01Feb2025 23:54:13.698] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablito: Teleported pablito to Fakkus55]
+[01Feb2025 23:54:37.197] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablito: Set own game mode to Creative Mode]
+[01Feb2025 23:55:20.795] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablito: Teleported pablito to Fakkus55]
+[01Feb2025 23:55:23.086] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablito: Set own game mode to Survival Mode]
+[01Feb2025 23:56:09.865] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pablito has made the advancement [Ol' Betsy]
+[01Feb2025 23:56:09.941] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pablito has made the advancement [Take Aim]
+[01Feb2025 23:56:09.942] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pablito has made the advancement [Who's the Pillager Now?]
+[01Feb2025 23:56:31.037] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pablito has made the advancement [Voluntary Exile]
+[01Feb2025 23:57:55.044] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Fakkus55 was shot by Pillager
+[01Feb2025 23:58:02.647] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablito: Teleported Fakkus55 to pablito]
