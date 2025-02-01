@@ -1526,3 +1526,46 @@
 [01Feb2025 21:12:07.817] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
 [01Feb2025 21:12:18.194] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Ziyaettin'/1231, l='ServerLevel[world]', x=-5309.50, y=21.00, z=2491.50] died, message: 'Ziyaettin was shot by Pillager'
 [01Feb2025 21:13:49.470] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Made pablo a server operator
+[01Feb2025 21:17:42.984] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablo: Set the time to 1000]
+[01Feb2025 21:17:52.830] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: pablo lost connection: Disconnected
+[01Feb2025 21:17:52.830] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pablo left the game
+[01Feb2025 21:18:16.059] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Made Pablito a server operator
+[01Feb2025 21:18:34.131] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Fakkus55[/127.15.23.58:50083] logged in with entity id 3608 at (48.5, 67.0, -325.5)
+[01Feb2025 21:18:34.145] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Fakkus55 joined the game
+[01Feb2025 21:18:34.189] [Server thread/INFO] [Jade/]: Syncing config to Fakkus55 (a7a46a8f-fdbd-3211-9180-db924c97c95f)
+[01Feb2025 21:19:10.982] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: pablito[/127.54.255.13:51879] logged in with entity id 3776 at (55.5, 76.0, -316.5)
+[01Feb2025 21:19:10.989] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pablito joined the game
+[01Feb2025 21:19:11.020] [Server thread/INFO] [Jade/]: Syncing config to pablito (7cad6d23-b90d-32e7-a33e-08234c01e126)
+[01Feb2025 21:21:40.860] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6295ms or 125 ticks behind
+[01Feb2025 21:21:43.001] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pablito has made the advancement [Minecraft Comes Alive]
+[01Feb2025 21:21:52.344] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[01Feb2025 21:21:52.345] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[01Feb2025 21:21:52.347] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[01Feb2025 21:21:52.349] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[01Feb2025 21:21:52.350] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[01Feb2025 21:21:52.351] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[01Feb2025 21:21:52.352] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[01Feb2025 21:21:52.355] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[01Feb2025 21:21:56.736] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Fakkus55 has made the advancement [Minecraft Comes Alive]
+[01Feb2025 21:22:06.102] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Made pablito a server operator
+[01Feb2025 21:22:06.436] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=339, y=-50, z=686}
+[01Feb2025 21:22:11.516] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[01Feb2025 21:22:11.517] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[01Feb2025 21:22:11.518] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[01Feb2025 21:22:11.518] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[01Feb2025 21:22:11.519] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[01Feb2025 21:22:11.519] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[01Feb2025 21:22:11.520] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[01Feb2025 21:22:20.117] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[01Feb2025 21:22:20.123] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[01Feb2025 21:22:20.126] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[01Feb2025 21:22:20.129] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[01Feb2025 21:22:20.131] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[01Feb2025 21:22:20.134] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[01Feb2025 21:22:20.149] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[01Feb2025 21:22:20.152] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[01Feb2025 21:22:20.160] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[01Feb2025 21:22:20.160] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[01Feb2025 21:22:23.439] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablito: Teleported Fakkus55 to pablito]
+[01Feb2025 21:22:30.204] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=329, y=-56, z=729}
+[01Feb2025 21:22:53.517] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-22, y=-57, z=11}

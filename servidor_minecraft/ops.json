@@ -1,7 +1,19 @@
 [
   {
+    "uuid": "7cad6d23-b90d-32e7-a33e-08234c01e126",
+    "name": "pablito",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
     "uuid": "ca808254-2b03-3bed-aa69-66a6c3a90e65",
     "name": "pablo",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "1af0a2db-9f5d-498f-847e-a262c89da87d",
+    "name": "Pablito",
     "level": 4,
     "bypassesPlayerLimit": false
   }
