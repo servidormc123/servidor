@@ -203,6 +203,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/sleep_in_bed": {
+    "criteria": {
+      "slept_in_bed": "2025-02-01 22:50:41 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/oak_stairs": {
     "criteria": {
       "has_planks": "2025-02-01 21:35:27 +0000"
@@ -409,6 +415,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/torch": {
+    "criteria": {
+      "has_stone_pickaxe": "2025-02-01 22:55:43 +0000"
+    },
+    "done": true
+  },
   "nova_structures:root": {
     "criteria": {
       "nova_structures:adventure/find_tavern": "2025-02-01 22:37:15 +0000"
@@ -574,6 +586,12 @@
   "minecraft:recipes/food/baked_potato_from_smoking": {
     "criteria": {
       "has_potato": "2025-02-01 22:15:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/upgrade_tools": {
+    "criteria": {
+      "stone_pickaxe": "2025-02-01 22:55:43 +0000"
     },
     "done": true
   },
@@ -866,6 +884,12 @@
   "minecraft:recipes/redstone/iron_door": {
     "criteria": {
       "has_iron_ingot": "2025-02-01 21:35:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_nuggets": {
+    "criteria": {
+      "has_iron_nugget": "2025-02-01 22:55:31 +0000"
     },
     "done": true
   },
