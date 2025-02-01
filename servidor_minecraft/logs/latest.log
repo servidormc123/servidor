@@ -1730,3 +1730,8 @@
 [01Feb2025 23:06:29.238] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablito: Teleported Fakkus55 to pablito]
 [01Feb2025 23:06:57.890] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Fakkus55 has made the advancement [Isn't It Iron Pick]
 [01Feb2025 23:07:46.436] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablito: The difficulty has been set to Hard]
+[01Feb2025 23:16:56.002] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1179, y=71, z=-1369} BlockPos{x=1179, y=69, z=-1369}
+[01Feb2025 23:16:56.042] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1179, y=71, z=-1369} BlockPos{x=1179, y=69, z=-1369}
+[01Feb2025 23:16:57.092] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1186, y=71, z=-1370} BlockPos{x=1186, y=69, z=-1371}
+[01Feb2025 23:16:57.148] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1186, y=71, z=-1370} BlockPos{x=1186, y=69, z=-1371}
+[01Feb2025 23:17:24.499] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1230, y=73, z=-1325} BlockPos{x=1231, y=71, z=-1324}

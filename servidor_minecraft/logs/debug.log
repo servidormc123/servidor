@@ -9524,3 +9524,12 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [01Feb2025 23:07:46.436] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablito: The difficulty has been set to Hard]
 [01Feb2025 23:07:59.070] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [01Feb2025 23:07:59.081] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[01Feb2025 23:12:59.059] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[01Feb2025 23:12:59.070] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[01Feb2025 23:16:56.002] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1179, y=71, z=-1369} BlockPos{x=1179, y=69, z=-1369}
+[01Feb2025 23:16:56.042] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1179, y=71, z=-1369} BlockPos{x=1179, y=69, z=-1369}
+[01Feb2025 23:16:57.092] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1186, y=71, z=-1370} BlockPos{x=1186, y=69, z=-1371}
+[01Feb2025 23:16:57.148] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1186, y=71, z=-1370} BlockPos{x=1186, y=69, z=-1371}
+[01Feb2025 23:17:24.499] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1230, y=73, z=-1325} BlockPos{x=1231, y=71, z=-1324}
+[01Feb2025 23:17:59.074] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[01Feb2025 23:17:59.084] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
