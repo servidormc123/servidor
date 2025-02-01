@@ -9417,3 +9417,27 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [01Feb2025 22:37:16.544] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Fakkus55 has made the advancement [Safe Haven]
 [01Feb2025 22:37:46.214] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pablito has made the advancement [Call For Adventure]
 [01Feb2025 22:37:49.528] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3312ms or 66 ticks behind
+[01Feb2025 22:37:59.071] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[01Feb2025 22:37:59.081] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[01Feb2025 22:38:13.610] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=46, y=75, z=-939}
+[01Feb2025 22:38:13.610] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=38, y=72, z=-940}
+[01Feb2025 22:38:48.697] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/node/fountain with rotation COUNTERCLOCKWISE_90 at (832 | 41 | -1521)
+[01Feb2025 22:38:48.697] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/node/fountain with rotation COUNTERCLOCKWISE_90 at (832 | 41 | -1521)
+[01Feb2025 22:38:48.853] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/node/prison with rotation COUNTERCLOCKWISE_90 at (832 | 42 | -1548)
+[01Feb2025 22:38:48.853] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/node/prison with rotation COUNTERCLOCKWISE_90 at (832 | 42 | -1548)
+[01Feb2025 22:38:48.853] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/node/fountain with rotation COUNTERCLOCKWISE_90 at (832 | 41 | -1521)
+[01Feb2025 22:38:48.853] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/node/fountain with rotation COUNTERCLOCKWISE_90 at (832 | 41 | -1521)
+[01Feb2025 22:38:48.883] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/node/prison with rotation COUNTERCLOCKWISE_90 at (832 | 42 | -1548)
+[01Feb2025 22:38:48.884] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/node/prison with rotation COUNTERCLOCKWISE_90 at (832 | 42 | -1548)
+[01Feb2025 22:39:26.950] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablito: Teleported pablito to Fakkus55]
+[01Feb2025 22:42:59.082] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[01Feb2025 22:42:59.093] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[01Feb2025 22:44:50.705] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Fakkus55 was doomed to fall by pablito
+[01Feb2025 22:44:53.982] [Server thread/DEBUG] [twilightforest/]: Player Fakkus55 (a7a46a8f-fdbd-3211-9180-db924c97c95f) respawned and received items held in storage
+[01Feb2025 22:44:59.498] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablito: Teleported Fakkus55 to pablito]
+[01Feb2025 22:45:57.246] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablito: Teleported pablito to Fakkus55]
+[01Feb2025 22:47:51.040] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pablito fell from a high place
+[01Feb2025 22:47:52.523] [Server thread/DEBUG] [twilightforest/]: Player pablito (7cad6d23-b90d-32e7-a33e-08234c01e126) respawned and received items held in storage
+[01Feb2025 22:47:57.861] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablito: Teleported pablito to Fakkus55]
+[01Feb2025 22:47:59.066] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[01Feb2025 22:47:59.076] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
