@@ -1697,3 +1697,36 @@
 [01Feb2025 22:53:09.684] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablito: Set own game mode to Survival Mode]
 [01Feb2025 22:53:14.144] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablito: Teleported Fakkus55 to pablito]
 [01Feb2025 22:55:43.436] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pablito has made the advancement [Getting an Upgrade]
+[01Feb2025 22:59:23.941] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pablito has made the advancement [Isn't It Iron Pick]
+[01Feb2025 22:59:25.638] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Fakkus55 has made the advancement [Not Today, Thank You]
+[01Feb2025 23:00:20.853] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Fakkus55 has made the advancement [Suit Up]
+[01Feb2025 23:00:29.838] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pablito has made the advancement [Suit Up]
+[01Feb2025 23:01:54.290] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablito: The difficulty has been set to Hard]
+[01Feb2025 23:02:46.636] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pablito has made the advancement [Not Today, Thank You]
+[01Feb2025 23:03:01.483] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Ragna'/32196, l='ServerLevel[world]', x=1403.79, y=74.00, z=-1351.46] died, message: 'Ragna was slain by Zombie Bruiser'
+[01Feb2025 23:03:01.484] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Ragna'/32196, l='ServerLevel[world]', x=1403.79, y=74.00, z=-1351.46] died: Ragna was slain by Zombie Bruiser
+[01Feb2025 23:03:01.639] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pablito was shot by Skeleton
+[01Feb2025 23:03:01.987] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Fakkus55 was shot by Skeleton
+[01Feb2025 23:03:20.579] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Teleported Fakkus55 to pablito
+[01Feb2025 23:03:26.994] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Fakkus55 was shot by Skeleton
+[01Feb2025 23:03:32.173] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablito: Teleported pablito to Fakkus55]
+[01Feb2025 23:03:54.099] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablito: Teleported Fakkus55 to pablito]
+[01Feb2025 23:04:04.584] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Fakkus55 was shot by Skeleton
+[01Feb2025 23:04:12.737] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pablito was shot by Skeleton
+[01Feb2025 23:04:20.327] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Teleported Fakkus55 to pablito
+[01Feb2025 23:04:26.291] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablito: Teleported pablito to Fakkus55]
+[01Feb2025 23:04:31.933] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Fakkus55 was shot by Skeleton
+[01Feb2025 23:04:46.192] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablito: Teleported Fakkus55 to pablito]
+[01Feb2025 23:05:19.686] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Fakkus55 was shot by Skeleton
+[01Feb2025 23:05:24.945] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablito: Teleported Fakkus55 to pablito]
+[01Feb2025 23:05:46.534] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Fakkus55 was shot by Skeleton
+[01Feb2025 23:05:48.643] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pablito was shot by Skeleton
+[01Feb2025 23:05:53.975] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Teleported Fakkus55 to pablito
+[01Feb2025 23:05:59.099] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablito: Teleported pablito to Fakkus55]
+[01Feb2025 23:06:02.739] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pablito was shot by Skeleton
+[01Feb2025 23:06:06.342] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Fakkus55 was shot by Skeleton
+[01Feb2025 23:06:07.876] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablito: Teleported pablito to Fakkus55]
+[01Feb2025 23:06:22.197] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablito: The difficulty has been set to Peaceful]
+[01Feb2025 23:06:29.238] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablito: Teleported Fakkus55 to pablito]
+[01Feb2025 23:06:57.890] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Fakkus55 has made the advancement [Isn't It Iron Pick]
+[01Feb2025 23:07:46.436] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablito: The difficulty has been set to Hard]
