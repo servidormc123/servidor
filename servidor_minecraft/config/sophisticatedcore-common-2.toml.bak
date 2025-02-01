@@ -1,0 +1,5 @@
+
+#Common Settings
+[common]
+	enabledItems = ["sophisticatedbackpacks:void_upgrade|true", "sophisticatedbackpacks:advanced_refill_upgrade|true", "sophisticatedbackpacks:copper_backpack|true", "sophisticatedbackpacks:blasting_upgrade|true", "sophisticatedbackpacks:auto_blasting_upgrade|true", "sophisticatedbackpacks:tool_swapper_upgrade|true", "sophisticatedbackpacks:stack_upgrade_tier_1|true"]
+
