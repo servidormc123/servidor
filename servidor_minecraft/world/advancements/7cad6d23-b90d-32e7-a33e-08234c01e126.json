@@ -17,6 +17,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cake": {
+    "criteria": {
+      "has_egg": "2025-02-01 22:30:28 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/iron_leggings": {
     "criteria": {
       "has_iron_ingot": "2025-02-01 21:35:27 +0000"
@@ -206,6 +212,7 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:skeleton": "2025-02-01 22:15:03 +0000",
+      "minecraft:spider": "2025-02-01 22:31:01 +0000",
       "minecraft:zombie": "2025-02-01 21:29:26 +0000"
     },
     "done": false
@@ -243,6 +250,12 @@
   "mowziesmobs:root": {
     "criteria": {
       "custom_test_name": "2025-02-01 21:19:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/yellow_dye_from_dandelion": {
+    "criteria": {
+      "has_dandelion": "2025-02-01 22:31:06 +0000"
     },
     "done": true
   },
@@ -381,6 +394,12 @@
   "minecraft:recipes/transportation/mangrove_boat": {
     "criteria": {
       "in_water": "2025-02-01 22:02:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/flower_banner_pattern": {
+    "criteria": {
+      "has_oxeye_daisy": "2025-02-01 22:29:59 +0000"
     },
     "done": true
   },
@@ -546,6 +565,12 @@
     },
     "done": true
   },
+  "mca:recipes/misc/potions": {
+    "criteria": {
+      "has_item": "2025-02-01 22:30:28 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/oak_door": {
     "criteria": {
       "has_planks": "2025-02-01 21:35:27 +0000"
@@ -648,6 +673,12 @@
     },
     "done": true
   },
+  "mca:recipes/misc/bouquet": {
+    "criteria": {
+      "has_item": "2025-02-01 22:29:59 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/crossbow": {
     "criteria": {
       "has_iron_ingot": "2025-02-01 21:35:27 +0000"
@@ -687,6 +718,7 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:taiga": "2025-02-01 22:02:26 +0000",
+      "minecraft:cherry_grove": "2025-02-01 22:27:06 +0000",
       "minecraft:snowy_plains": "2025-02-01 21:19:11 +0000",
       "minecraft:stony_shore": "2025-02-01 22:01:12 +0000",
       "minecraft:forest": "2025-02-01 21:24:27 +0000",
@@ -698,6 +730,12 @@
   "minecraft:recipes/decorations/barrel": {
     "criteria": {
       "has_planks": "2025-02-01 21:35:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_gray_dye_from_oxeye_daisy": {
+    "criteria": {
+      "has_oxeye_daisy": "2025-02-01 22:29:59 +0000"
     },
     "done": true
   },
@@ -804,6 +842,12 @@
   "minecraft:recipes/transportation/dark_oak_boat": {
     "criteria": {
       "in_water": "2025-02-01 22:02:26 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:junior_summoner": {
+    "criteria": {
+      "junior_summoner_0": "2025-02-01 22:30:24 +0000"
     },
     "done": true
   },
