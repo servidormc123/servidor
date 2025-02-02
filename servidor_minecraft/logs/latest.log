@@ -473,3 +473,31 @@
 [02Feb2025 21:03:29.470] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Fakkus55 was slain by Hollow
 [02Feb2025 21:03:53.324] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pablito was slain by Wither Skeleton
 [02Feb2025 21:04:08.841] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablito: Teleported Fakkus55 to pablito]
+[02Feb2025 21:04:53.140] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablito: Teleported pablito to 767.500000, 34.000000, -1484.500000]
+[02Feb2025 21:04:58.042] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablito: Teleported Fakkus55 to pablito]
+[02Feb2025 21:05:05.185] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Fakkus55 was slain by Wither Skeleton
+[02Feb2025 21:05:09.439] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pablito was doomed to fall by Wither Skeleton
+[02Feb2025 21:05:15.432] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablito: Teleported pablito to 767.500000, 34.000000, -1484.500000]
+[02Feb2025 21:05:19.891] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pablito was doomed to fall
+[02Feb2025 21:05:29.034] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablito: Set own game mode to Creative Mode]
+[02Feb2025 21:05:33.737] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablito: Teleported pablito to 767.500000, 34.000000, -1484.500000]
+[02Feb2025 21:06:12.034] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablito: Set own game mode to Survival Mode]
+[02Feb2025 21:06:19.700] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablito: Teleported Fakkus55 to pablito]
+[02Feb2025 21:06:47.233] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: pablito lost connection: Disconnected
+[02Feb2025 21:06:47.234] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pablito left the game
+[02Feb2025 21:06:54.078] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Fakkus55 has made the advancement [Cover Me with Diamonds]
+[02Feb2025 21:08:31.579] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fakkus55 lost connection: Disconnected
+[02Feb2025 21:08:31.579] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Fakkus55 left the game
+[02Feb2025 21:08:55.449] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[02Feb2025 21:08:55.497] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[02Feb2025 21:08:55.498] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[02Feb2025 21:08:55.498] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[02Feb2025 21:08:56.060] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[02Feb2025 21:08:56.861] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[02Feb2025 21:08:56.862] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[02Feb2025 21:08:56.863] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/twilightforest:twilight_forest
+[02Feb2025 21:08:56.900] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[02Feb2025 21:08:56.900] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[02Feb2025 21:08:56.901] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[02Feb2025 21:08:56.901] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (twilight_forest): All chunks are saved
+[02Feb2025 21:08:56.901] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
